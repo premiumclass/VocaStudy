@@ -339,6 +339,9 @@
   .modal-btn-cancel:active  { background: var(--sky-light); }
   .modal-btn-confirm:active { opacity: 0.8; }
 </style>
+
+  <script src="browser-notice.js"></script> // 브라우저 직접 접속하라는 팝업 띄우기 위함 함수 호출
+  
 </head>
 <body>
 
@@ -596,6 +599,7 @@ async function loadAllBooks() {
 
   document.getElementById('loading').classList.add('hidden');
   initHistory();  // 최하단 스택 세팅
+  showBrowserNotice();   // 브라우저 직접 접속하라는 팝업
 
   if (books.length === 0) {
     document.getElementById('bookSubtitle').textContent = 'word01.json 파일을 찾을 수 없습니다';
