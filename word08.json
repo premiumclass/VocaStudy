@@ -1,0 +1,6755 @@
+{
+  "title": "프리미엄보카 선택지",
+  "words": [
+    {
+      "day": 1,
+      "word": "train",
+      "meaning": "훈련시키다"
+    },
+    {
+      "day": 1,
+      "word": "automate",
+      "meaning": "자동화하다"
+    },
+    {
+      "day": 1,
+      "word": "international",
+      "meaning": "국제적인"
+    },
+    {
+      "day": 1,
+      "word": "magnify",
+      "meaning": "확대하다"
+    },
+    {
+      "day": 1,
+      "word": "combine",
+      "meaning": "결합하다"
+    },
+    {
+      "day": 1,
+      "word": "commecialize",
+      "meaning": "상업화하다"
+    },
+    {
+      "day": 1,
+      "word": "identity",
+      "meaning": "정체성"
+    },
+    {
+      "day": 1,
+      "word": "proficient",
+      "meaning": "능숙한"
+    },
+    {
+      "day": 1,
+      "word": "discipline",
+      "meaning": "분야"
+    },
+    {
+      "day": 1,
+      "word": "value",
+      "meaning": "가치"
+    },
+    {
+      "day": 1,
+      "word": "impair",
+      "meaning": "손상시키다"
+    },
+    {
+      "day": 1,
+      "word": "innovation",
+      "meaning": "혁신"
+    },
+    {
+      "day": 1,
+      "word": "construct",
+      "meaning": "구성하다"
+    },
+    {
+      "day": 1,
+      "word": "universally",
+      "meaning": "보편적으로"
+    },
+    {
+      "day": 1,
+      "word": "strength",
+      "meaning": "힘"
+    },
+    {
+      "day": 1,
+      "word": "hate speech",
+      "meaning": "혐오 발언"
+    },
+    {
+      "day": 1,
+      "word": "medication",
+      "meaning": "의약품"
+    },
+    {
+      "day": 1,
+      "word": "information",
+      "meaning": "정보"
+    },
+    {
+      "day": 1,
+      "word": "view",
+      "meaning": "관점"
+    },
+    {
+      "day": 1,
+      "word": "require",
+      "meaning": "요구하다"
+    },
+    {
+      "day": 1,
+      "word": "method",
+      "meaning": "방법"
+    },
+    {
+      "day": 1,
+      "word": "across",
+      "meaning": "~간에"
+    },
+    {
+      "day": 1,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 1,
+      "word": "emotion",
+      "meaning": "감정"
+    },
+    {
+      "day": 1,
+      "word": "cause",
+      "meaning": "유발하다"
+    },
+    {
+      "day": 1,
+      "word": "physically",
+      "meaning": "신체적으로"
+    },
+    {
+      "day": 1,
+      "word": "perceive",
+      "meaning": "인식하다"
+    },
+    {
+      "day": 1,
+      "word": "military",
+      "meaning": "군사적인"
+    },
+    {
+      "day": 1,
+      "word": "importance",
+      "meaning": "중요성"
+    },
+    {
+      "day": 1,
+      "word": "privacy",
+      "meaning": "사생활"
+    },
+    {
+      "day": 1,
+      "word": "landscape",
+      "meaning": "경관"
+    },
+    {
+      "day": 1,
+      "word": "academic",
+      "meaning": "학문의"
+    },
+    {
+      "day": 1,
+      "word": "avoid",
+      "meaning": "피하다"
+    },
+    {
+      "day": 1,
+      "word": "detection",
+      "meaning": "감지"
+    },
+    {
+      "day": 1,
+      "word": "technological",
+      "meaning": "기술적인"
+    },
+    {
+      "day": 1,
+      "word": "commodity",
+      "meaning": "상품"
+    },
+    {
+      "day": 1,
+      "word": "media",
+      "meaning": "매체"
+    },
+    {
+      "day": 1,
+      "word": "division",
+      "meaning": "분열"
+    },
+    {
+      "day": 1,
+      "word": "territory",
+      "meaning": "지역"
+    },
+    {
+      "day": 1,
+      "word": "adopt",
+      "meaning": "채택하다"
+    },
+    {
+      "day": 1,
+      "word": "identify",
+      "meaning": "식별하다"
+    },
+    {
+      "day": 1,
+      "word": "cognitive",
+      "meaning": "인지적인"
+    },
+    {
+      "day": 1,
+      "word": "define",
+      "meaning": "정의하다"
+    },
+    {
+      "day": 1,
+      "word": "crisis",
+      "meaning": "위기"
+    },
+    {
+      "day": 1,
+      "word": "repeat",
+      "meaning": "반복하다"
+    },
+    {
+      "day": 1,
+      "word": "increase",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 1,
+      "word": "share",
+      "meaning": "공유하다"
+    },
+    {
+      "day": 1,
+      "word": "physician",
+      "meaning": "의사"
+    },
+    {
+      "day": 1,
+      "word": "food chain",
+      "meaning": "먹이 사슬"
+    },
+    {
+      "day": 1,
+      "word": "process",
+      "meaning": "절차"
+    },
+    {
+      "day": 1,
+      "word": "endlessly",
+      "meaning": "끝없이"
+    },
+    {
+      "day": 1,
+      "word": "implication",
+      "meaning": "영향"
+    },
+    {
+      "day": 1,
+      "word": "overlook",
+      "meaning": "간과하다"
+    },
+    {
+      "day": 1,
+      "word": "mirror",
+      "meaning": "반영하다"
+    },
+    {
+      "day": 2,
+      "word": "historical",
+      "meaning": "역사의"
+    },
+    {
+      "day": 2,
+      "word": "deal with",
+      "meaning": "다루다"
+    },
+    {
+      "day": 2,
+      "word": "fall",
+      "meaning": "감소하다"
+    },
+    {
+      "day": 2,
+      "word": "value",
+      "meaning": "가치관"
+    },
+    {
+      "day": 2,
+      "word": "possibility",
+      "meaning": "가능성"
+    },
+    {
+      "day": 2,
+      "word": "organic",
+      "meaning": "유기농의"
+    },
+    {
+      "day": 2,
+      "word": "species",
+      "meaning": "생물 종"
+    },
+    {
+      "day": 2,
+      "word": "ocean",
+      "meaning": "해양"
+    },
+    {
+      "day": 2,
+      "word": "population",
+      "meaning": "인구"
+    },
+    {
+      "day": 2,
+      "word": "contribute",
+      "meaning": "기여하다"
+    },
+    {
+      "day": 2,
+      "word": "distort",
+      "meaning": "왜곡하다"
+    },
+    {
+      "day": 2,
+      "word": "society",
+      "meaning": "사회"
+    },
+    {
+      "day": 2,
+      "word": "reward",
+      "meaning": "보상"
+    },
+    {
+      "day": 2,
+      "word": "reality",
+      "meaning": "현실"
+    },
+    {
+      "day": 2,
+      "word": "habit",
+      "meaning": "습관"
+    },
+    {
+      "day": 2,
+      "word": "expert",
+      "meaning": "전문가"
+    },
+    {
+      "day": 2,
+      "word": "external",
+      "meaning": "외부의"
+    },
+    {
+      "day": 2,
+      "word": "grow",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 2,
+      "word": "disorder",
+      "meaning": "장애"
+    },
+    {
+      "day": 2,
+      "word": "farming",
+      "meaning": "농업"
+    },
+    {
+      "day": 2,
+      "word": "identify",
+      "meaning": "확인하다"
+    },
+    {
+      "day": 2,
+      "word": "factor",
+      "meaning": "요소"
+    },
+    {
+      "day": 2,
+      "word": "conflict",
+      "meaning": "충돌하다"
+    },
+    {
+      "day": 2,
+      "word": "awareness",
+      "meaning": "인식"
+    },
+    {
+      "day": 2,
+      "word": "focus",
+      "meaning": "중점을 두다"
+    },
+    {
+      "day": 2,
+      "word": "influence",
+      "meaning": "영향"
+    },
+    {
+      "day": 2,
+      "word": "crisis",
+      "meaning": "위기"
+    },
+    {
+      "day": 2,
+      "word": "grow",
+      "meaning": "자라다"
+    },
+    {
+      "day": 2,
+      "word": "kind",
+      "meaning": "종류"
+    },
+    {
+      "day": 2,
+      "word": "gene",
+      "meaning": "유전자"
+    },
+    {
+      "day": 2,
+      "word": "example",
+      "meaning": "예시"
+    },
+    {
+      "day": 2,
+      "word": "cope with",
+      "meaning": "대처하다"
+    },
+    {
+      "day": 2,
+      "word": "industry",
+      "meaning": "산업"
+    },
+    {
+      "day": 2,
+      "word": "affect",
+      "meaning": "영향을 미치다"
+    },
+    {
+      "day": 2,
+      "word": "environmental",
+      "meaning": "환경적인"
+    },
+    {
+      "day": 2,
+      "word": "benefit",
+      "meaning": "이점"
+    },
+    {
+      "day": 2,
+      "word": "elderly",
+      "meaning": "나이가 지긋한"
+    },
+    {
+      "day": 2,
+      "word": "cancer",
+      "meaning": "암"
+    },
+    {
+      "day": 2,
+      "word": "low-risk",
+      "meaning": "위험도가 낮은"
+    },
+    {
+      "day": 2,
+      "word": "demand",
+      "meaning": "수요"
+    },
+    {
+      "day": 2,
+      "word": "global",
+      "meaning": "세계적인"
+    },
+    {
+      "day": 2,
+      "word": "evidence",
+      "meaning": "증거"
+    },
+    {
+      "day": 2,
+      "word": "performance",
+      "meaning": "성과"
+    },
+    {
+      "day": 2,
+      "word": "mass media",
+      "meaning": "대중 매체"
+    },
+    {
+      "day": 2,
+      "word": "weed",
+      "meaning": "잡초"
+    },
+    {
+      "day": 2,
+      "word": "disappear",
+      "meaning": "사라지다"
+    },
+    {
+      "day": 2,
+      "word": "cause",
+      "meaning": "유발하다"
+    },
+    {
+      "day": 2,
+      "word": "childhood",
+      "meaning": "아동기"
+    },
+    {
+      "day": 2,
+      "word": "marine",
+      "meaning": "해양의"
+    },
+    {
+      "day": 2,
+      "word": "drawback",
+      "meaning": "결점"
+    },
+    {
+      "day": 2,
+      "word": "popularity",
+      "meaning": "인기"
+    },
+    {
+      "day": 2,
+      "word": "increase",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 2,
+      "word": "unhealthy",
+      "meaning": "건강에 좋지 않은"
+    },
+    {
+      "day": 2,
+      "word": "mammal",
+      "meaning": "포유류"
+    },
+    {
+      "day": 3,
+      "word": "explore",
+      "meaning": "탐구하다"
+    },
+    {
+      "day": 3,
+      "word": "necessity",
+      "meaning": "필요성"
+    },
+    {
+      "day": 3,
+      "word": "limit",
+      "meaning": "제한"
+    },
+    {
+      "day": 3,
+      "word": "recognize",
+      "meaning": "인식하다"
+    },
+    {
+      "day": 3,
+      "word": "identify",
+      "meaning": "식별하다"
+    },
+    {
+      "day": 3,
+      "word": "provide",
+      "meaning": "제공하다"
+    },
+    {
+      "day": 3,
+      "word": "mistake",
+      "meaning": "실수"
+    },
+    {
+      "day": 3,
+      "word": "component",
+      "meaning": "구성요소"
+    },
+    {
+      "day": 3,
+      "word": "diet",
+      "meaning": "식단"
+    },
+    {
+      "day": 3,
+      "word": "set",
+      "meaning": "설정하다"
+    },
+    {
+      "day": 3,
+      "word": "unlock",
+      "meaning": "드러내다"
+    },
+    {
+      "day": 3,
+      "word": "research",
+      "meaning": "연구"
+    },
+    {
+      "day": 3,
+      "word": "negative",
+      "meaning": "부정적인"
+    },
+    {
+      "day": 3,
+      "word": "diversity",
+      "meaning": "다양성"
+    },
+    {
+      "day": 3,
+      "word": "varied",
+      "meaning": "다양한"
+    },
+    {
+      "day": 3,
+      "word": "sense",
+      "meaning": "감각"
+    },
+    {
+      "day": 3,
+      "word": "cultural",
+      "meaning": "문화의"
+    },
+    {
+      "day": 3,
+      "word": "solution",
+      "meaning": "해결책"
+    },
+    {
+      "day": 3,
+      "word": "ambiguous",
+      "meaning": "모호한"
+    },
+    {
+      "day": 3,
+      "word": "criticism",
+      "meaning": "비판"
+    },
+    {
+      "day": 3,
+      "word": "procedure",
+      "meaning": "절차"
+    },
+    {
+      "day": 3,
+      "word": "survival",
+      "meaning": "생존"
+    },
+    {
+      "day": 3,
+      "word": "key",
+      "meaning": "중요한"
+    },
+    {
+      "day": 3,
+      "word": "follow",
+      "meaning": "따르다"
+    },
+    {
+      "day": 3,
+      "word": "decision",
+      "meaning": "결정"
+    },
+    {
+      "day": 3,
+      "word": "avoid",
+      "meaning": "피하다"
+    },
+    {
+      "day": 3,
+      "word": "wisdom",
+      "meaning": "지혜"
+    },
+    {
+      "day": 3,
+      "word": "impose",
+      "meaning": "부과하다"
+    },
+    {
+      "day": 3,
+      "word": "difficulty",
+      "meaning": "어려움"
+    },
+    {
+      "day": 3,
+      "word": "education",
+      "meaning": "교육"
+    },
+    {
+      "day": 3,
+      "word": "benefit",
+      "meaning": "이점"
+    },
+    {
+      "day": 3,
+      "word": "consume",
+      "meaning": "섭취하다"
+    },
+    {
+      "day": 3,
+      "word": "society",
+      "meaning": "사회"
+    },
+    {
+      "day": 3,
+      "word": "charge",
+      "meaning": "요금"
+    },
+    {
+      "day": 3,
+      "word": "contribution",
+      "meaning": "기여"
+    },
+    {
+      "day": 3,
+      "word": "guarantee",
+      "meaning": "보장하다"
+    },
+    {
+      "day": 3,
+      "word": "causal",
+      "meaning": "인과의"
+    },
+    {
+      "day": 3,
+      "word": "promote",
+      "meaning": "촉진하다"
+    },
+    {
+      "day": 3,
+      "word": "historian",
+      "meaning": "역사가"
+    },
+    {
+      "day": 3,
+      "word": "establish",
+      "meaning": "확립하다"
+    },
+    {
+      "day": 3,
+      "word": "exercise",
+      "meaning": "발휘하다"
+    },
+    {
+      "day": 3,
+      "word": "relationship",
+      "meaning": "관계"
+    },
+    {
+      "day": 3,
+      "word": "essential",
+      "meaning": "필수적인"
+    },
+    {
+      "day": 3,
+      "word": "current",
+      "meaning": "현재의"
+    },
+    {
+      "day": 3,
+      "word": "scientific",
+      "meaning": "과학의"
+    },
+    {
+      "day": 3,
+      "word": "clarify",
+      "meaning": "명확히 하다"
+    },
+    {
+      "day": 3,
+      "word": "correct",
+      "meaning": "옳은"
+    },
+    {
+      "day": 3,
+      "word": "potential",
+      "meaning": "잠재력"
+    },
+    {
+      "day": 3,
+      "word": "daily",
+      "meaning": "매일의"
+    },
+    {
+      "day": 3,
+      "word": "pursue",
+      "meaning": "추구하다"
+    },
+    {
+      "day": 3,
+      "word": "social",
+      "meaning": "사회의"
+    },
+    {
+      "day": 3,
+      "word": "congestion",
+      "meaning": "혼잡"
+    },
+    {
+      "day": 3,
+      "word": "efficiency",
+      "meaning": "효율성"
+    },
+    {
+      "day": 3,
+      "word": "constructive",
+      "meaning": "건설적인"
+    },
+    {
+      "day": 4,
+      "word": "reach",
+      "meaning": "도달하다"
+    },
+    {
+      "day": 4,
+      "word": "result",
+      "meaning": "결과"
+    },
+    {
+      "day": 4,
+      "word": "heart",
+      "meaning": "마음"
+    },
+    {
+      "day": 4,
+      "word": "bias",
+      "meaning": "편견"
+    },
+    {
+      "day": 4,
+      "word": "professional",
+      "meaning": "전문가"
+    },
+    {
+      "day": 4,
+      "word": "diverse",
+      "meaning": "다양한"
+    },
+    {
+      "day": 4,
+      "word": "temperature",
+      "meaning": "온도"
+    },
+    {
+      "day": 4,
+      "word": "actual",
+      "meaning": "실제의"
+    },
+    {
+      "day": 4,
+      "word": "prepare",
+      "meaning": "준비하다"
+    },
+    {
+      "day": 4,
+      "word": "need",
+      "meaning": "어려움"
+    },
+    {
+      "day": 4,
+      "word": "willpower",
+      "meaning": "의지력"
+    },
+    {
+      "day": 4,
+      "word": "response",
+      "meaning": "반응"
+    },
+    {
+      "day": 4,
+      "word": "dominant",
+      "meaning": "지배적인"
+    },
+    {
+      "day": 4,
+      "word": "turn",
+      "meaning": "바꾸다"
+    },
+    {
+      "day": 4,
+      "word": "stimulus",
+      "meaning": "자극"
+    },
+    {
+      "day": 4,
+      "word": "molecule",
+      "meaning": "분자"
+    },
+    {
+      "day": 4,
+      "word": "specific",
+      "meaning": "특정한"
+    },
+    {
+      "day": 4,
+      "word": "culture",
+      "meaning": "문화"
+    },
+    {
+      "day": 4,
+      "word": "perception",
+      "meaning": "인식"
+    },
+    {
+      "day": 4,
+      "word": "improve",
+      "meaning": "향상시키다"
+    },
+    {
+      "day": 4,
+      "word": "skill",
+      "meaning": "기술"
+    },
+    {
+      "day": 4,
+      "word": "tie",
+      "meaning": "유대관계"
+    },
+    {
+      "day": 4,
+      "word": "satisfying",
+      "meaning": "만족스러운"
+    },
+    {
+      "day": 4,
+      "word": "close",
+      "meaning": "친한"
+    },
+    {
+      "day": 4,
+      "word": "lead",
+      "meaning": "이끌다"
+    },
+    {
+      "day": 4,
+      "word": "friendship",
+      "meaning": "우정"
+    },
+    {
+      "day": 4,
+      "word": "affect",
+      "meaning": "영향을 미치다"
+    },
+    {
+      "day": 4,
+      "word": "customer",
+      "meaning": "고객"
+    },
+    {
+      "day": 4,
+      "word": "painter",
+      "meaning": "화가"
+    },
+    {
+      "day": 4,
+      "word": "dinner",
+      "meaning": "저녁식사"
+    },
+    {
+      "day": 4,
+      "word": "geography",
+      "meaning": "지리학"
+    },
+    {
+      "day": 4,
+      "word": "enhance",
+      "meaning": "개선하다"
+    },
+    {
+      "day": 4,
+      "word": "addiction",
+      "meaning": "중독"
+    },
+    {
+      "day": 4,
+      "word": "desperate",
+      "meaning": "절박한"
+    },
+    {
+      "day": 4,
+      "word": "overcome",
+      "meaning": "극복하다"
+    },
+    {
+      "day": 4,
+      "word": "research",
+      "meaning": "연구"
+    },
+    {
+      "day": 4,
+      "word": "definition",
+      "meaning": "정의"
+    },
+    {
+      "day": 4,
+      "word": "personal",
+      "meaning": "개인적인"
+    },
+    {
+      "day": 4,
+      "word": "practice",
+      "meaning": "연습하다"
+    },
+    {
+      "day": 4,
+      "word": "totally",
+      "meaning": "완전히"
+    },
+    {
+      "day": 4,
+      "word": "average",
+      "meaning": "평균"
+    },
+    {
+      "day": 4,
+      "word": "potential",
+      "meaning": "잠재적인"
+    },
+    {
+      "day": 4,
+      "word": "interpretation",
+      "meaning": "해석"
+    },
+    {
+      "day": 4,
+      "word": "guest",
+      "meaning": "손님"
+    },
+    {
+      "day": 4,
+      "word": "literature",
+      "meaning": "문학"
+    },
+    {
+      "day": 4,
+      "word": "manage",
+      "meaning": "관리하다"
+    },
+    {
+      "day": 4,
+      "word": "reach",
+      "meaning": "손을 뻗다"
+    },
+    {
+      "day": 4,
+      "word": "creativity",
+      "meaning": "창의성"
+    },
+    {
+      "day": 4,
+      "word": "react",
+      "meaning": "반응하다"
+    },
+    {
+      "day": 4,
+      "word": "strengthen",
+      "meaning": "강화하다"
+    },
+    {
+      "day": 4,
+      "word": "position",
+      "meaning": "지위"
+    },
+    {
+      "day": 4,
+      "word": "combination",
+      "meaning": "조합"
+    },
+    {
+      "day": 4,
+      "word": "hold",
+      "meaning": "차지하다"
+    },
+    {
+      "day": 4,
+      "word": "feature",
+      "meaning": "특징"
+    },
+    {
+      "day": 5,
+      "word": "carry on",
+      "meaning": "지속하다"
+    },
+    {
+      "day": 5,
+      "word": "article",
+      "meaning": "기사"
+    },
+    {
+      "day": 5,
+      "word": "element",
+      "meaning": "요소"
+    },
+    {
+      "day": 5,
+      "word": "conversation",
+      "meaning": "대화"
+    },
+    {
+      "day": 5,
+      "word": "discard",
+      "meaning": "폐기"
+    },
+    {
+      "day": 5,
+      "word": "incentive",
+      "meaning": "인센티브"
+    },
+    {
+      "day": 5,
+      "word": "economic",
+      "meaning": "경제의"
+    },
+    {
+      "day": 5,
+      "word": "adaptability",
+      "meaning": "적응력"
+    },
+    {
+      "day": 5,
+      "word": "enforce",
+      "meaning": "시행하다"
+    },
+    {
+      "day": 5,
+      "word": "slow down",
+      "meaning": "줄이다"
+    },
+    {
+      "day": 5,
+      "word": "consumer",
+      "meaning": "소비자"
+    },
+    {
+      "day": 5,
+      "word": "recycling",
+      "meaning": "재활용"
+    },
+    {
+      "day": 5,
+      "word": "tendency",
+      "meaning": "경향"
+    },
+    {
+      "day": 5,
+      "word": "legislation",
+      "meaning": "법률"
+    },
+    {
+      "day": 5,
+      "word": "consider",
+      "meaning": "고려하다"
+    },
+    {
+      "day": 5,
+      "word": "solve",
+      "meaning": "해결하다"
+    },
+    {
+      "day": 5,
+      "word": "economy",
+      "meaning": "경제"
+    },
+    {
+      "day": 5,
+      "word": "detailed",
+      "meaning": "자세한"
+    },
+    {
+      "day": 5,
+      "word": "government",
+      "meaning": "정부"
+    },
+    {
+      "day": 5,
+      "word": "several",
+      "meaning": "몇몇의"
+    },
+    {
+      "day": 5,
+      "word": "debris",
+      "meaning": "폐기물"
+    },
+    {
+      "day": 5,
+      "word": "emotion",
+      "meaning": "감정"
+    },
+    {
+      "day": 5,
+      "word": "product",
+      "meaning": "제품"
+    },
+    {
+      "day": 5,
+      "word": "improve",
+      "meaning": "향상시키다"
+    },
+    {
+      "day": 5,
+      "word": "deficit",
+      "meaning": "적자"
+    },
+    {
+      "day": 5,
+      "word": "stimulate",
+      "meaning": "활성화시키다"
+    },
+    {
+      "day": 5,
+      "word": "prejudice",
+      "meaning": "편견"
+    },
+    {
+      "day": 5,
+      "word": "effective",
+      "meaning": "효과적인"
+    },
+    {
+      "day": 5,
+      "word": "genetic",
+      "meaning": "유전적인"
+    },
+    {
+      "day": 5,
+      "word": "signal",
+      "meaning": "신호"
+    },
+    {
+      "day": 5,
+      "word": "warning",
+      "meaning": "경고"
+    },
+    {
+      "day": 5,
+      "word": "generation",
+      "meaning": "발생"
+    },
+    {
+      "day": 5,
+      "word": "meaningful",
+      "meaning": "의미있는"
+    },
+    {
+      "day": 5,
+      "word": "need",
+      "meaning": "필요성"
+    },
+    {
+      "day": 5,
+      "word": "budget",
+      "meaning": "예산"
+    },
+    {
+      "day": 5,
+      "word": "reduction",
+      "meaning": "감소"
+    },
+    {
+      "day": 5,
+      "word": "attempt",
+      "meaning": "시도"
+    },
+    {
+      "day": 5,
+      "word": "widespread",
+      "meaning": "널리 퍼진"
+    },
+    {
+      "day": 5,
+      "word": "technique",
+      "meaning": "기술"
+    },
+    {
+      "day": 5,
+      "word": "measure",
+      "meaning": "조치"
+    },
+    {
+      "day": 5,
+      "word": "marine",
+      "meaning": "해양의"
+    },
+    {
+      "day": 5,
+      "word": "waste",
+      "meaning": "폐기물"
+    },
+    {
+      "day": 5,
+      "word": "expand",
+      "meaning": "확장하다"
+    },
+    {
+      "day": 5,
+      "word": "rare",
+      "meaning": "드문"
+    },
+    {
+      "day": 5,
+      "word": "factor",
+      "meaning": "요인"
+    },
+    {
+      "day": 5,
+      "word": "encourage",
+      "meaning": "장려하다"
+    },
+    {
+      "day": 5,
+      "word": "overcome",
+      "meaning": "극복하다"
+    },
+    {
+      "day": 5,
+      "word": "effort",
+      "meaning": "노력"
+    },
+    {
+      "day": 5,
+      "word": "design",
+      "meaning": "설계하다"
+    },
+    {
+      "day": 5,
+      "word": "convey",
+      "meaning": "전달하다"
+    },
+    {
+      "day": 5,
+      "word": "cognitive",
+      "meaning": "인지적인"
+    },
+    {
+      "day": 5,
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "day": 5,
+      "word": "reduce",
+      "meaning": "감소시키다"
+    },
+    {
+      "day": 5,
+      "word": "continuous",
+      "meaning": "끊임없는"
+    },
+    {
+      "day": 6,
+      "word": "cause",
+      "meaning": "유발하다"
+    },
+    {
+      "day": 6,
+      "word": "cooperation",
+      "meaning": "협력"
+    },
+    {
+      "day": 6,
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "day": 6,
+      "word": "pain",
+      "meaning": "통증"
+    },
+    {
+      "day": 6,
+      "word": "prejudiced",
+      "meaning": "편견을 가진"
+    },
+    {
+      "day": 6,
+      "word": "willing",
+      "meaning": "기꺼이 하는"
+    },
+    {
+      "day": 6,
+      "word": "theory",
+      "meaning": "이론"
+    },
+    {
+      "day": 6,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 6,
+      "word": "maintain",
+      "meaning": "유지하다"
+    },
+    {
+      "day": 6,
+      "word": "carry out",
+      "meaning": "수행하다"
+    },
+    {
+      "day": 6,
+      "word": "mental",
+      "meaning": "정신적인"
+    },
+    {
+      "day": 6,
+      "word": "generate",
+      "meaning": "발생하다"
+    },
+    {
+      "day": 6,
+      "word": "guilty",
+      "meaning": "죄책감의"
+    },
+    {
+      "day": 6,
+      "word": "relieve",
+      "meaning": "완화시키다"
+    },
+    {
+      "day": 6,
+      "word": "physical",
+      "meaning": "신체적인"
+    },
+    {
+      "day": 6,
+      "word": "endangered",
+      "meaning": "멸종위기의"
+    },
+    {
+      "day": 6,
+      "word": "deepen",
+      "meaning": "심화시키다"
+    },
+    {
+      "day": 6,
+      "word": "create",
+      "meaning": "만들다"
+    },
+    {
+      "day": 6,
+      "word": "ignore",
+      "meaning": "무시하다"
+    },
+    {
+      "day": 6,
+      "word": "right",
+      "meaning": "권리"
+    },
+    {
+      "day": 6,
+      "word": "victim",
+      "meaning": "피해자"
+    },
+    {
+      "day": 6,
+      "word": "symptom",
+      "meaning": "증상"
+    },
+    {
+      "day": 6,
+      "word": "rate",
+      "meaning": "비율"
+    },
+    {
+      "day": 6,
+      "word": "guilt",
+      "meaning": "죄책감의"
+    },
+    {
+      "day": 6,
+      "word": "hidden",
+      "meaning": "숨겨진"
+    },
+    {
+      "day": 6,
+      "word": "unmask",
+      "meaning": "드러내다"
+    },
+    {
+      "day": 6,
+      "word": "keep",
+      "meaning": "유지하다"
+    },
+    {
+      "day": 6,
+      "word": "interactive",
+      "meaning": "상호작용하는"
+    },
+    {
+      "day": 6,
+      "word": "characteristics",
+      "meaning": "특징"
+    },
+    {
+      "day": 6,
+      "word": "emotional",
+      "meaning": "감정적인"
+    },
+    {
+      "day": 6,
+      "word": "tradition",
+      "meaning": "전통"
+    },
+    {
+      "day": 6,
+      "word": "tool",
+      "meaning": "도구"
+    },
+    {
+      "day": 6,
+      "word": "pesticide",
+      "meaning": "살충제"
+    },
+    {
+      "day": 6,
+      "word": "acidification",
+      "meaning": "산성화"
+    },
+    {
+      "day": 6,
+      "word": "case",
+      "meaning": "경우"
+    },
+    {
+      "day": 6,
+      "word": "territory",
+      "meaning": "영토"
+    },
+    {
+      "day": 6,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 6,
+      "word": "follow",
+      "meaning": "따르다"
+    },
+    {
+      "day": 6,
+      "word": "law",
+      "meaning": "법"
+    },
+    {
+      "day": 6,
+      "word": "compensate",
+      "meaning": "보상하다"
+    },
+    {
+      "day": 6,
+      "word": "spread",
+      "meaning": "퍼지다"
+    },
+    {
+      "day": 6,
+      "word": "evolutionary",
+      "meaning": "진화의"
+    },
+    {
+      "day": 6,
+      "word": "adversity",
+      "meaning": "역경"
+    },
+    {
+      "day": 6,
+      "word": "fresh",
+      "meaning": "신선한"
+    },
+    {
+      "day": 6,
+      "word": "contribute",
+      "meaning": "기여하다"
+    },
+    {
+      "day": 6,
+      "word": "develop",
+      "meaning": "발달하다"
+    },
+    {
+      "day": 6,
+      "word": "resistance",
+      "meaning": "저항성"
+    },
+    {
+      "day": 6,
+      "word": "essential",
+      "meaning": "필요한"
+    },
+    {
+      "day": 6,
+      "word": "risk",
+      "meaning": "위험"
+    },
+    {
+      "day": 6,
+      "word": "complete",
+      "meaning": "완성하다"
+    },
+    {
+      "day": 6,
+      "word": "harm",
+      "meaning": "피해"
+    },
+    {
+      "day": 6,
+      "word": "imagination",
+      "meaning": "상상력"
+    },
+    {
+      "day": 6,
+      "word": "grateful",
+      "meaning": "감사하는"
+    },
+    {
+      "day": 6,
+      "word": "medical",
+      "meaning": "의학적인"
+    },
+    {
+      "day": 7,
+      "word": "improvement",
+      "meaning": "개선"
+    },
+    {
+      "day": 7,
+      "word": "feeling",
+      "meaning": "감정"
+    },
+    {
+      "day": 7,
+      "word": "fool",
+      "meaning": "속이다"
+    },
+    {
+      "day": 7,
+      "word": "result",
+      "meaning": "결과"
+    },
+    {
+      "day": 7,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 7,
+      "word": "traffic",
+      "meaning": "교통"
+    },
+    {
+      "day": 7,
+      "word": "favor",
+      "meaning": "호의"
+    },
+    {
+      "day": 7,
+      "word": "trusted",
+      "meaning": "신뢰받는"
+    },
+    {
+      "day": 7,
+      "word": "universal",
+      "meaning": "보편적인"
+    },
+    {
+      "day": 7,
+      "word": "secure",
+      "meaning": "안전한"
+    },
+    {
+      "day": 7,
+      "word": "present",
+      "meaning": "표현하다"
+    },
+    {
+      "day": 7,
+      "word": "prevent",
+      "meaning": "예방하다"
+    },
+    {
+      "day": 7,
+      "word": "accept",
+      "meaning": "받아들이다"
+    },
+    {
+      "day": 7,
+      "word": "visitor",
+      "meaning": "방문객"
+    },
+    {
+      "day": 7,
+      "word": "aid",
+      "meaning": "지원"
+    },
+    {
+      "day": 7,
+      "word": "mistake",
+      "meaning": "실수"
+    },
+    {
+      "day": 7,
+      "word": "work",
+      "meaning": "작품"
+    },
+    {
+      "day": 7,
+      "word": "cope with",
+      "meaning": "대처하다"
+    },
+    {
+      "day": 7,
+      "word": "informed",
+      "meaning": "많이 아는"
+    },
+    {
+      "day": 7,
+      "word": "participation",
+      "meaning": "참여"
+    },
+    {
+      "day": 7,
+      "word": "lie in",
+      "meaning": "~에 있다"
+    },
+    {
+      "day": 7,
+      "word": "matter",
+      "meaning": "중요하다"
+    },
+    {
+      "day": 7,
+      "word": "importance",
+      "meaning": "중요성"
+    },
+    {
+      "day": 7,
+      "word": "restriction",
+      "meaning": "제한"
+    },
+    {
+      "day": 7,
+      "word": "competitive",
+      "meaning": "경쟁적인"
+    },
+    {
+      "day": 7,
+      "word": "strengthen",
+      "meaning": "강화하다"
+    },
+    {
+      "day": 7,
+      "word": "significance",
+      "meaning": "중요성"
+    },
+    {
+      "day": 7,
+      "word": "comfort",
+      "meaning": "편안함"
+    },
+    {
+      "day": 7,
+      "word": "role",
+      "meaning": "역할"
+    },
+    {
+      "day": 7,
+      "word": "desire",
+      "meaning": "소망"
+    },
+    {
+      "day": 7,
+      "word": "debt",
+      "meaning": "빚"
+    },
+    {
+      "day": 7,
+      "word": "real",
+      "meaning": "사실적인"
+    },
+    {
+      "day": 7,
+      "word": "reform",
+      "meaning": "개혁하다"
+    },
+    {
+      "day": 7,
+      "word": "diversity",
+      "meaning": "다양성"
+    },
+    {
+      "day": 7,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 7,
+      "word": "climate",
+      "meaning": "기후"
+    },
+    {
+      "day": 7,
+      "word": "work",
+      "meaning": "작동하다"
+    },
+    {
+      "day": 7,
+      "word": "create",
+      "meaning": "만들다"
+    },
+    {
+      "day": 7,
+      "word": "overeating",
+      "meaning": "과식"
+    },
+    {
+      "day": 7,
+      "word": "varied",
+      "meaning": "다양한"
+    },
+    {
+      "day": 7,
+      "word": "mind reading",
+      "meaning": "독심술"
+    },
+    {
+      "day": 7,
+      "word": "profit",
+      "meaning": "이윤"
+    },
+    {
+      "day": 7,
+      "word": "policy",
+      "meaning": "정책"
+    },
+    {
+      "day": 7,
+      "word": "choice",
+      "meaning": "선택"
+    },
+    {
+      "day": 7,
+      "word": "ecological",
+      "meaning": "생태학적인"
+    },
+    {
+      "day": 7,
+      "word": "exclusive",
+      "meaning": "배타적인"
+    },
+    {
+      "day": 7,
+      "word": "force",
+      "meaning": "강요"
+    },
+    {
+      "day": 7,
+      "word": "accident",
+      "meaning": "사고"
+    },
+    {
+      "day": 7,
+      "word": "produce",
+      "meaning": "만들다"
+    },
+    {
+      "day": 7,
+      "word": "consistency",
+      "meaning": "일관성"
+    },
+    {
+      "day": 7,
+      "word": "forgiveness",
+      "meaning": "용서"
+    },
+    {
+      "day": 7,
+      "word": "maintain",
+      "meaning": "유지하다"
+    },
+    {
+      "day": 7,
+      "word": "creative",
+      "meaning": "창의적인"
+    },
+    {
+      "day": 7,
+      "word": "friendship",
+      "meaning": "우정"
+    },
+    {
+      "day": 8,
+      "word": "over",
+      "meaning": "~동안"
+    },
+    {
+      "day": 8,
+      "word": "over",
+      "meaning": "~보다"
+    },
+    {
+      "day": 8,
+      "word": "over",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 8,
+      "word": "for",
+      "meaning": "~에"
+    },
+    {
+      "day": 8,
+      "word": "for",
+      "meaning": "~을 위한"
+    },
+    {
+      "day": 8,
+      "word": "for",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 8,
+      "word": "on",
+      "meaning": "~에게 미치는"
+    },
+    {
+      "day": 8,
+      "word": "on",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 8,
+      "word": "with",
+      "meaning": "~와"
+    },
+    {
+      "day": 8,
+      "word": "with",
+      "meaning": "~을 가진"
+    },
+    {
+      "day": 8,
+      "word": "by",
+      "meaning": "~에 의하여"
+    },
+    {
+      "day": 8,
+      "word": "as",
+      "meaning": "~로서"
+    },
+    {
+      "day": 8,
+      "word": "vs.",
+      "meaning": "~대"
+    },
+    {
+      "day": 8,
+      "word": "universal",
+      "meaning": "보편적인"
+    },
+    {
+      "day": 8,
+      "word": "goal",
+      "meaning": "목표"
+    },
+    {
+      "day": 8,
+      "word": "appropriate",
+      "meaning": "적절한"
+    },
+    {
+      "day": 8,
+      "word": "enjoyable",
+      "meaning": "즐거운"
+    },
+    {
+      "day": 8,
+      "word": "the disabled",
+      "meaning": "장애인"
+    },
+    {
+      "day": 8,
+      "word": "processed",
+      "meaning": "가공된"
+    },
+    {
+      "day": 8,
+      "word": "discovery",
+      "meaning": "발견"
+    },
+    {
+      "day": 8,
+      "word": "unintentional",
+      "meaning": "비의도적인"
+    },
+    {
+      "day": 8,
+      "word": "borrow",
+      "meaning": "빌리다"
+    },
+    {
+      "day": 8,
+      "word": "study",
+      "meaning": "연구"
+    },
+    {
+      "day": 8,
+      "word": "decade",
+      "meaning": "십년"
+    },
+    {
+      "day": 8,
+      "word": "lack",
+      "meaning": "부족"
+    },
+    {
+      "day": 8,
+      "word": "impact",
+      "meaning": "영향"
+    },
+    {
+      "day": 8,
+      "word": "than ever",
+      "meaning": "그 어느 때보다"
+    },
+    {
+      "day": 8,
+      "word": "scientific",
+      "meaning": "과학적인"
+    },
+    {
+      "day": 8,
+      "word": "advantage",
+      "meaning": "이점"
+    },
+    {
+      "day": 8,
+      "word": "preference",
+      "meaning": "선호도"
+    },
+    {
+      "day": 8,
+      "word": "issue",
+      "meaning": "문제"
+    },
+    {
+      "day": 8,
+      "word": "art",
+      "meaning": "미술"
+    },
+    {
+      "day": 8,
+      "word": "breakthrough",
+      "meaning": "획기적인 발전"
+    },
+    {
+      "day": 8,
+      "word": "environment",
+      "meaning": "환경적인"
+    },
+    {
+      "day": 8,
+      "word": "present",
+      "meaning": "현재의"
+    },
+    {
+      "day": 8,
+      "word": "raw food",
+      "meaning": "생식"
+    },
+    {
+      "day": 8,
+      "word": "endless",
+      "meaning": "끝없는"
+    },
+    {
+      "day": 8,
+      "word": "scope",
+      "meaning": "범위"
+    },
+    {
+      "day": 8,
+      "word": "plagiarism",
+      "meaning": "표절"
+    },
+    {
+      "day": 8,
+      "word": "strength",
+      "meaning": "장점"
+    },
+    {
+      "day": 8,
+      "word": "misconception",
+      "meaning": "오해"
+    },
+    {
+      "day": 8,
+      "word": "ethical",
+      "meaning": "윤리적인"
+    },
+    {
+      "day": 8,
+      "word": "discussion",
+      "meaning": "토론"
+    },
+    {
+      "day": 8,
+      "word": "relationship",
+      "meaning": "관계"
+    },
+    {
+      "day": 8,
+      "word": "self-driving",
+      "meaning": "자율주행"
+    },
+    {
+      "day": 8,
+      "word": "literary",
+      "meaning": "문학의"
+    },
+    {
+      "day": 8,
+      "word": "industry",
+      "meaning": "산업"
+    },
+    {
+      "day": 8,
+      "word": "feature",
+      "meaning": "특징"
+    },
+    {
+      "day": 8,
+      "word": "disability",
+      "meaning": "장애"
+    },
+    {
+      "day": 8,
+      "word": "intentional",
+      "meaning": "의도적인"
+    },
+    {
+      "day": 8,
+      "word": "communication",
+      "meaning": "의사소통"
+    },
+    {
+      "day": 8,
+      "word": "work",
+      "meaning": "작품"
+    },
+    {
+      "day": 8,
+      "word": "inspire",
+      "meaning": "영감을 주다"
+    },
+    {
+      "day": 8,
+      "word": "raw",
+      "meaning": "날 것의"
+    },
+    {
+      "day": 9,
+      "word": "effect",
+      "meaning": "영향"
+    },
+    {
+      "day": 9,
+      "word": "side",
+      "meaning": "면"
+    },
+    {
+      "day": 9,
+      "word": "natural",
+      "meaning": "자연의"
+    },
+    {
+      "day": 9,
+      "word": "bright",
+      "meaning": "밝은"
+    },
+    {
+      "day": 9,
+      "word": "Western",
+      "meaning": "서구의"
+    },
+    {
+      "day": 9,
+      "word": "cultural",
+      "meaning": "문화의"
+    },
+    {
+      "day": 9,
+      "word": "audience",
+      "meaning": "청중"
+    },
+    {
+      "day": 9,
+      "word": "decision-making",
+      "meaning": "의사결정"
+    },
+    {
+      "day": 9,
+      "word": "ecosystem",
+      "meaning": "생태계"
+    },
+    {
+      "day": 9,
+      "word": "practices",
+      "meaning": "방법"
+    },
+    {
+      "day": 9,
+      "word": "solar",
+      "meaning": "태양의"
+    },
+    {
+      "day": 9,
+      "word": "modification",
+      "meaning": "수정"
+    },
+    {
+      "day": 9,
+      "word": "enemy",
+      "meaning": "적"
+    },
+    {
+      "day": 9,
+      "word": "against",
+      "meaning": "~에 맞서서"
+    },
+    {
+      "day": 9,
+      "word": "decrease",
+      "meaning": "감소"
+    },
+    {
+      "day": 9,
+      "word": "advertising",
+      "meaning": "광고"
+    },
+    {
+      "day": 9,
+      "word": "nutrient",
+      "meaning": "영양소"
+    },
+    {
+      "day": 9,
+      "word": "media",
+      "meaning": "매체"
+    },
+    {
+      "day": 9,
+      "word": "design",
+      "meaning": "설계"
+    },
+    {
+      "day": 9,
+      "word": "prejudice",
+      "meaning": "편견"
+    },
+    {
+      "day": 9,
+      "word": "challenge",
+      "meaning": "도전 과제"
+    },
+    {
+      "day": 9,
+      "word": "mimic",
+      "meaning": "모방"
+    },
+    {
+      "day": 9,
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "day": 9,
+      "word": "based on",
+      "meaning": "~에 기초한"
+    },
+    {
+      "day": 9,
+      "word": "target",
+      "meaning": "목표"
+    },
+    {
+      "day": 9,
+      "word": "output",
+      "meaning": "출력"
+    },
+    {
+      "day": 9,
+      "word": "philosophy",
+      "meaning": "철학"
+    },
+    {
+      "day": 9,
+      "word": "barrier",
+      "meaning": "장애"
+    },
+    {
+      "day": 9,
+      "word": "prospect",
+      "meaning": "전망"
+    },
+    {
+      "day": 9,
+      "word": "positive",
+      "meaning": "긍정적인"
+    },
+    {
+      "day": 9,
+      "word": "effect",
+      "meaning": "효과"
+    },
+    {
+      "day": 9,
+      "word": "global",
+      "meaning": "지구의"
+    },
+    {
+      "day": 9,
+      "word": "sacred",
+      "meaning": "신성한"
+    },
+    {
+      "day": 9,
+      "word": "successful",
+      "meaning": "성공적인"
+    },
+    {
+      "day": 9,
+      "word": "common",
+      "meaning": "공통의"
+    },
+    {
+      "day": 9,
+      "word": "population",
+      "meaning": "개체수"
+    },
+    {
+      "day": 9,
+      "word": "whatever",
+      "meaning": "무엇이든지"
+    },
+    {
+      "day": 9,
+      "word": "variation",
+      "meaning": "변화"
+    },
+    {
+      "day": 9,
+      "word": "marine",
+      "meaning": "해양의"
+    },
+    {
+      "day": 9,
+      "word": "accept",
+      "meaning": "받아들이다"
+    },
+    {
+      "day": 9,
+      "word": "selection",
+      "meaning": "선택"
+    },
+    {
+      "day": 9,
+      "word": "bias",
+      "meaning": "편견"
+    },
+    {
+      "day": 9,
+      "word": "persuade",
+      "meaning": "설득하다"
+    },
+    {
+      "day": 9,
+      "word": "ritual",
+      "meaning": "의식"
+    },
+    {
+      "day": 9,
+      "word": "centered",
+      "meaning": "중심의"
+    },
+    {
+      "day": 9,
+      "word": "potential",
+      "meaning": "잠재적인"
+    },
+    {
+      "day": 9,
+      "word": "purpose",
+      "meaning": "목적"
+    },
+    {
+      "day": 9,
+      "word": "abandon",
+      "meaning": "포기하다"
+    },
+    {
+      "day": 9,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 9,
+      "word": "research",
+      "meaning": "연구"
+    },
+    {
+      "day": 9,
+      "word": "agriculture",
+      "meaning": "농업"
+    },
+    {
+      "day": 9,
+      "word": "pain",
+      "meaning": "고통"
+    },
+    {
+      "day": 9,
+      "word": "conservation",
+      "meaning": "보존"
+    },
+    {
+      "day": 9,
+      "word": "mammal",
+      "meaning": "포유류"
+    },
+    {
+      "day": 10,
+      "word": "criticism",
+      "meaning": "비판"
+    },
+    {
+      "day": 10,
+      "word": "biodiversity",
+      "meaning": "생물 다양성"
+    },
+    {
+      "day": 10,
+      "word": "cooperative",
+      "meaning": "협동적인"
+    },
+    {
+      "day": 10,
+      "word": "limitation",
+      "meaning": "한계점"
+    },
+    {
+      "day": 10,
+      "word": "influence",
+      "meaning": "영향을 미치다"
+    },
+    {
+      "day": 10,
+      "word": "right",
+      "meaning": "권리"
+    },
+    {
+      "day": 10,
+      "word": "effect",
+      "meaning": "영향"
+    },
+    {
+      "day": 10,
+      "word": "double-edged",
+      "meaning": "양날의"
+    },
+    {
+      "day": 10,
+      "word": "reframe",
+      "meaning": "재구성하다"
+    },
+    {
+      "day": 10,
+      "word": "bring",
+      "meaning": "가져오다"
+    },
+    {
+      "day": 10,
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "day": 10,
+      "word": "turn A into B",
+      "meaning": "A를 B로 바꾸다"
+    },
+    {
+      "day": 10,
+      "word": "invention",
+      "meaning": "발명"
+    },
+    {
+      "day": 10,
+      "word": "need",
+      "meaning": "필요성"
+    },
+    {
+      "day": 10,
+      "word": "life",
+      "meaning": "삶"
+    },
+    {
+      "day": 10,
+      "word": "exercise",
+      "meaning": "운동"
+    },
+    {
+      "day": 10,
+      "word": "impact",
+      "meaning": "영향"
+    },
+    {
+      "day": 10,
+      "word": "political",
+      "meaning": "정치적인"
+    },
+    {
+      "day": 10,
+      "word": "writing",
+      "meaning": "쓰기"
+    },
+    {
+      "day": 10,
+      "word": "education",
+      "meaning": "교육"
+    },
+    {
+      "day": 10,
+      "word": "depression",
+      "meaning": "우울"
+    },
+    {
+      "day": 10,
+      "word": "minority",
+      "meaning": "소수"
+    },
+    {
+      "day": 10,
+      "word": "sword",
+      "meaning": "검"
+    },
+    {
+      "day": 10,
+      "word": "technology",
+      "meaning": "기술"
+    },
+    {
+      "day": 10,
+      "word": "status",
+      "meaning": "지위"
+    },
+    {
+      "day": 10,
+      "word": "customer",
+      "meaning": "고객"
+    },
+    {
+      "day": 10,
+      "word": "among",
+      "meaning": "사이에서"
+    },
+    {
+      "day": 10,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 10,
+      "word": "opportunity",
+      "meaning": "기회"
+    },
+    {
+      "day": 10,
+      "word": "reduce",
+      "meaning": "줄이다"
+    },
+    {
+      "day": 10,
+      "word": "rationality",
+      "meaning": "이성"
+    },
+    {
+      "day": 10,
+      "word": "gain",
+      "meaning": "얻다"
+    },
+    {
+      "day": 10,
+      "word": "never fail to",
+      "meaning": "언제나 ~하다"
+    },
+    {
+      "day": 10,
+      "word": "arts",
+      "meaning": "예술"
+    },
+    {
+      "day": 10,
+      "word": "peer",
+      "meaning": "동료"
+    },
+    {
+      "day": 10,
+      "word": "reason",
+      "meaning": "이유"
+    },
+    {
+      "day": 10,
+      "word": "integrate A into B",
+      "meaning": "A를 B로 통합하다"
+    },
+    {
+      "day": 10,
+      "word": "responsiveness",
+      "meaning": "반응성"
+    },
+    {
+      "day": 10,
+      "word": "anxiety",
+      "meaning": "불안"
+    },
+    {
+      "day": 10,
+      "word": "majority",
+      "meaning": "다수"
+    },
+    {
+      "day": 10,
+      "word": "no less ~ than~",
+      "meaning": "~만큼 ~하다"
+    },
+    {
+      "day": 10,
+      "word": "feedback",
+      "meaning": "피드백"
+    },
+    {
+      "day": 10,
+      "word": "survival",
+      "meaning": "생존"
+    },
+    {
+      "day": 10,
+      "word": "constructive",
+      "meaning": "건설적인"
+    },
+    {
+      "day": 10,
+      "word": "prevention",
+      "meaning": "예방"
+    },
+    {
+      "day": 10,
+      "word": "influence",
+      "meaning": "영향"
+    },
+    {
+      "day": 10,
+      "word": "emotion",
+      "meaning": "감정"
+    },
+    {
+      "day": 10,
+      "word": "system",
+      "meaning": "체계"
+    },
+    {
+      "day": 10,
+      "word": "factor",
+      "meaning": "요인"
+    },
+    {
+      "day": 10,
+      "word": "literature",
+      "meaning": "문학"
+    },
+    {
+      "day": 10,
+      "word": "crisis",
+      "meaning": "위기"
+    },
+    {
+      "day": 10,
+      "word": "include",
+      "meaning": "포함하다"
+    },
+    {
+      "day": 10,
+      "word": "development",
+      "meaning": "발전"
+    },
+    {
+      "day": 10,
+      "word": "life",
+      "meaning": "생명력"
+    },
+    {
+      "day": 11,
+      "word": "instruction",
+      "meaning": "지침"
+    },
+    {
+      "day": 11,
+      "word": "focused on",
+      "meaning": "~에 초점을 맞춘"
+    },
+    {
+      "day": 11,
+      "word": "introduce",
+      "meaning": "도입하다"
+    },
+    {
+      "day": 11,
+      "word": "between",
+      "meaning": "~사이에"
+    },
+    {
+      "day": 11,
+      "word": "establish",
+      "meaning": "확립하다"
+    },
+    {
+      "day": 11,
+      "word": "developmental",
+      "meaning": "발달의"
+    },
+    {
+      "day": 11,
+      "word": "nurture",
+      "meaning": "양육"
+    },
+    {
+      "day": 11,
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "day": 11,
+      "word": "positive",
+      "meaning": "긍정적인"
+    },
+    {
+      "day": 11,
+      "word": "practice",
+      "meaning": "실제"
+    },
+    {
+      "day": 11,
+      "word": "personality",
+      "meaning": "성격"
+    },
+    {
+      "day": 11,
+      "word": "trait",
+      "meaning": "특성"
+    },
+    {
+      "day": 11,
+      "word": "develop",
+      "meaning": "개발하다"
+    },
+    {
+      "day": 11,
+      "word": "meaning",
+      "meaning": "의미"
+    },
+    {
+      "day": 11,
+      "word": "general",
+      "meaning": "일반적인"
+    },
+    {
+      "day": 11,
+      "word": "technology",
+      "meaning": "기술"
+    },
+    {
+      "day": 11,
+      "word": "damage",
+      "meaning": "피해"
+    },
+    {
+      "day": 11,
+      "word": "recommend",
+      "meaning": "추천하다"
+    },
+    {
+      "day": 11,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 11,
+      "word": "difference",
+      "meaning": "차이점"
+    },
+    {
+      "day": 11,
+      "word": "nature",
+      "meaning": "본성"
+    },
+    {
+      "day": 11,
+      "word": "irrational",
+      "meaning": "비이성적인"
+    },
+    {
+      "day": 11,
+      "word": "therapy",
+      "meaning": "요법"
+    },
+    {
+      "day": 11,
+      "word": "ease",
+      "meaning": "완화시키다"
+    },
+    {
+      "day": 11,
+      "word": "environment",
+      "meaning": "환경"
+    },
+    {
+      "day": 11,
+      "word": "consumer",
+      "meaning": "소비자"
+    },
+    {
+      "day": 11,
+      "word": "radiation",
+      "meaning": "방사선"
+    },
+    {
+      "day": 11,
+      "word": "prevent",
+      "meaning": "못하게 하다"
+    },
+    {
+      "day": 11,
+      "word": "biology",
+      "meaning": "생물학"
+    },
+    {
+      "day": 11,
+      "word": "effort",
+      "meaning": "노력"
+    },
+    {
+      "day": 11,
+      "word": "routine",
+      "meaning": "일상의 일"
+    },
+    {
+      "day": 11,
+      "word": "discussion",
+      "meaning": "논의"
+    },
+    {
+      "day": 11,
+      "word": "controversy",
+      "meaning": "논쟁"
+    },
+    {
+      "day": 11,
+      "word": "praise",
+      "meaning": "칭찬하다"
+    },
+    {
+      "day": 11,
+      "word": "result",
+      "meaning": "결과"
+    },
+    {
+      "day": 11,
+      "word": "evaluation",
+      "meaning": "평가"
+    },
+    {
+      "day": 11,
+      "word": "advertising",
+      "meaning": "광고"
+    },
+    {
+      "day": 11,
+      "word": "social",
+      "meaning": "사회적인"
+    },
+    {
+      "day": 11,
+      "word": "consistent",
+      "meaning": "일관된"
+    },
+    {
+      "day": 11,
+      "word": "regarding",
+      "meaning": "~에 관하여"
+    },
+    {
+      "day": 11,
+      "word": "do's",
+      "meaning": "해야할 것들"
+    },
+    {
+      "day": 11,
+      "word": "theory",
+      "meaning": "이론"
+    },
+    {
+      "day": 11,
+      "word": "thinking",
+      "meaning": "사고"
+    },
+    {
+      "day": 11,
+      "word": "don'ts",
+      "meaning": "하지 말아야 할 것들"
+    },
+    {
+      "day": 11,
+      "word": "learning",
+      "meaning": "학습"
+    },
+    {
+      "day": 11,
+      "word": "reluctance",
+      "meaning": "꺼려함"
+    },
+    {
+      "day": 11,
+      "word": "patient",
+      "meaning": "환자"
+    },
+    {
+      "day": 11,
+      "word": "save",
+      "meaning": "보호하다"
+    },
+    {
+      "day": 11,
+      "word": "reward",
+      "meaning": "보상하다"
+    },
+    {
+      "day": 11,
+      "word": "unintended",
+      "meaning": "의도하지 않은"
+    },
+    {
+      "day": 11,
+      "word": "actualize",
+      "meaning": "실현하다"
+    },
+    {
+      "day": 11,
+      "word": "cause",
+      "meaning": "유발하다"
+    },
+    {
+      "day": 11,
+      "word": "advanced",
+      "meaning": "첨단의"
+    },
+    {
+      "day": 11,
+      "word": "adjust",
+      "meaning": "적응하다"
+    },
+    {
+      "day": 12,
+      "word": "majority",
+      "meaning": "다수"
+    },
+    {
+      "day": 12,
+      "word": "tell A from B",
+      "meaning": "A와 B를 구별하다"
+    },
+    {
+      "day": 12,
+      "word": "facial",
+      "meaning": "얼굴의"
+    },
+    {
+      "day": 12,
+      "word": "pharmaceutical",
+      "meaning": "약학의"
+    },
+    {
+      "day": 12,
+      "word": "ethical",
+      "meaning": "윤리적인"
+    },
+    {
+      "day": 12,
+      "word": "draw",
+      "meaning": "도출하다"
+    },
+    {
+      "day": 12,
+      "word": "existing",
+      "meaning": "기존의"
+    },
+    {
+      "day": 12,
+      "word": "pesticide",
+      "meaning": "살충제"
+    },
+    {
+      "day": 12,
+      "word": "influence",
+      "meaning": "영향"
+    },
+    {
+      "day": 12,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 12,
+      "word": "biological",
+      "meaning": "생물학적인"
+    },
+    {
+      "day": 12,
+      "word": "determination",
+      "meaning": "결정"
+    },
+    {
+      "day": 12,
+      "word": "medieval",
+      "meaning": "중세의"
+    },
+    {
+      "day": 12,
+      "word": "trend",
+      "meaning": "추세"
+    },
+    {
+      "day": 12,
+      "word": "potential",
+      "meaning": "잠재력"
+    },
+    {
+      "day": 12,
+      "word": "view",
+      "meaning": "보다"
+    },
+    {
+      "day": 12,
+      "word": "replace",
+      "meaning": "대체하다"
+    },
+    {
+      "day": 12,
+      "word": "unethical",
+      "meaning": "비윤리적인"
+    },
+    {
+      "day": 12,
+      "word": "expression",
+      "meaning": "표정"
+    },
+    {
+      "day": 12,
+      "word": "detailed",
+      "meaning": "자세한"
+    },
+    {
+      "day": 12,
+      "word": "traditionalism",
+      "meaning": "전통주의"
+    },
+    {
+      "day": 12,
+      "word": "novel",
+      "meaning": "새로운"
+    },
+    {
+      "day": 12,
+      "word": "yield",
+      "meaning": "가져오다"
+    },
+    {
+      "day": 12,
+      "word": "communication",
+      "meaning": "의사소통"
+    },
+    {
+      "day": 12,
+      "word": "philosophy",
+      "meaning": "철학"
+    },
+    {
+      "day": 12,
+      "word": "longevity",
+      "meaning": "수명"
+    },
+    {
+      "day": 12,
+      "word": "extend",
+      "meaning": "연장하다"
+    },
+    {
+      "day": 12,
+      "word": "value",
+      "meaning": "가치"
+    },
+    {
+      "day": 12,
+      "word": "factor",
+      "meaning": "요인"
+    },
+    {
+      "day": 12,
+      "word": "reflect",
+      "meaning": "반영하다"
+    },
+    {
+      "day": 12,
+      "word": "advance",
+      "meaning": "발전"
+    },
+    {
+      "day": 12,
+      "word": "theoretical",
+      "meaning": "이론적인"
+    },
+    {
+      "day": 12,
+      "word": "toward",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 12,
+      "word": "consider",
+      "meaning": "고려하다"
+    },
+    {
+      "day": 12,
+      "word": "irrationality",
+      "meaning": "비합리성"
+    },
+    {
+      "day": 12,
+      "word": "approach",
+      "meaning": "접근법"
+    },
+    {
+      "day": 12,
+      "word": "architecture",
+      "meaning": "건축"
+    },
+    {
+      "day": 12,
+      "word": "evolutionary",
+      "meaning": "진화적인"
+    },
+    {
+      "day": 12,
+      "word": "behavior",
+      "meaning": "행동"
+    },
+    {
+      "day": 12,
+      "word": "act out",
+      "meaning": "연기하다"
+    },
+    {
+      "day": 12,
+      "word": "estimate",
+      "meaning": "추정하다"
+    },
+    {
+      "day": 12,
+      "word": "conduct",
+      "meaning": "행위"
+    },
+    {
+      "day": 12,
+      "word": "critical",
+      "meaning": "중요한"
+    },
+    {
+      "day": 12,
+      "word": "chemical",
+      "meaning": "화학적인"
+    },
+    {
+      "day": 12,
+      "word": "moral",
+      "meaning": "도덕적인"
+    },
+    {
+      "day": 12,
+      "word": "rate",
+      "meaning": "속도"
+    },
+    {
+      "day": 12,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 12,
+      "word": "resource",
+      "meaning": "자원"
+    },
+    {
+      "day": 12,
+      "word": "minority",
+      "meaning": "소수"
+    },
+    {
+      "day": 12,
+      "word": "core",
+      "meaning": "핵심"
+    },
+    {
+      "day": 12,
+      "word": "alternative",
+      "meaning": "대안"
+    },
+    {
+      "day": 12,
+      "word": "side effect",
+      "meaning": "부작용"
+    },
+    {
+      "day": 12,
+      "word": "era",
+      "meaning": "시대"
+    },
+    {
+      "day": 12,
+      "word": "view",
+      "meaning": "견해"
+    },
+    {
+      "day": 13,
+      "word": "improvement",
+      "meaning": "개선"
+    },
+    {
+      "day": 13,
+      "word": "risk",
+      "meaning": "위험"
+    },
+    {
+      "day": 13,
+      "word": "independent",
+      "meaning": "독립적인"
+    },
+    {
+      "day": 13,
+      "word": "obstacle",
+      "meaning": "장애물"
+    },
+    {
+      "day": 13,
+      "word": "access",
+      "meaning": "접근법"
+    },
+    {
+      "day": 13,
+      "word": "universal",
+      "meaning": "보편적인"
+    },
+    {
+      "day": 13,
+      "word": "rely on",
+      "meaning": "의존하다"
+    },
+    {
+      "day": 13,
+      "word": "expense",
+      "meaning": "비용"
+    },
+    {
+      "day": 13,
+      "word": "hidden",
+      "meaning": "숨겨진"
+    },
+    {
+      "day": 13,
+      "word": "ups and downs",
+      "meaning": "기복"
+    },
+    {
+      "day": 13,
+      "word": "framework",
+      "meaning": "틀"
+    },
+    {
+      "day": 13,
+      "word": "current",
+      "meaning": "현재의"
+    },
+    {
+      "day": 13,
+      "word": "credible",
+      "meaning": "신뢰할 수 있는"
+    },
+    {
+      "day": 13,
+      "word": "controversial",
+      "meaning": "논란이 되는"
+    },
+    {
+      "day": 13,
+      "word": "brutality",
+      "meaning": "잔인함"
+    },
+    {
+      "day": 13,
+      "word": "right",
+      "meaning": "권리"
+    },
+    {
+      "day": 13,
+      "word": "oriented",
+      "meaning": "지향적인"
+    },
+    {
+      "day": 13,
+      "word": "need",
+      "meaning": "필요성"
+    },
+    {
+      "day": 13,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 13,
+      "word": "impact",
+      "meaning": "영향"
+    },
+    {
+      "day": 13,
+      "word": "emergence",
+      "meaning": "출현"
+    },
+    {
+      "day": 13,
+      "word": "actual",
+      "meaning": "실제의"
+    },
+    {
+      "day": 13,
+      "word": "behavior",
+      "meaning": "행동"
+    },
+    {
+      "day": 13,
+      "word": "necessity",
+      "meaning": "필요성"
+    },
+    {
+      "day": 13,
+      "word": "social",
+      "meaning": "사회적인"
+    },
+    {
+      "day": 13,
+      "word": "guidance",
+      "meaning": "지도"
+    },
+    {
+      "day": 13,
+      "word": "automatic",
+      "meaning": "자동적인"
+    },
+    {
+      "day": 13,
+      "word": "attitude",
+      "meaning": "태도"
+    },
+    {
+      "day": 13,
+      "word": "despite",
+      "meaning": "~에도 불구하고"
+    },
+    {
+      "day": 13,
+      "word": "step",
+      "meaning": "단계"
+    },
+    {
+      "day": 13,
+      "word": "knowledge",
+      "meaning": "지식"
+    },
+    {
+      "day": 13,
+      "word": "political",
+      "meaning": "정치적인"
+    },
+    {
+      "day": 13,
+      "word": "expert",
+      "meaning": "전문가"
+    },
+    {
+      "day": 13,
+      "word": "encourage",
+      "meaning": "격려하다"
+    },
+    {
+      "day": 13,
+      "word": "exceed",
+      "meaning": "초과하다"
+    },
+    {
+      "day": 13,
+      "word": "arise",
+      "meaning": "생기다"
+    },
+    {
+      "day": 13,
+      "word": "final",
+      "meaning": "최종적인"
+    },
+    {
+      "day": 13,
+      "word": "benefit",
+      "meaning": "혜택"
+    },
+    {
+      "day": 13,
+      "word": "structure",
+      "meaning": "구성하다"
+    },
+    {
+      "day": 13,
+      "word": "consequence",
+      "meaning": "결과"
+    },
+    {
+      "day": 13,
+      "word": "estimate",
+      "meaning": "추정하다"
+    },
+    {
+      "day": 13,
+      "word": "goal",
+      "meaning": "목표"
+    },
+    {
+      "day": 13,
+      "word": "enterprise",
+      "meaning": "기업"
+    },
+    {
+      "day": 13,
+      "word": "accept",
+      "meaning": "받아들이다"
+    },
+    {
+      "day": 13,
+      "word": "distract",
+      "meaning": "산만하게 하다"
+    },
+    {
+      "day": 13,
+      "word": "ensure",
+      "meaning": "보장하다"
+    },
+    {
+      "day": 13,
+      "word": "resistance",
+      "meaning": "저항"
+    },
+    {
+      "day": 13,
+      "word": "concept",
+      "meaning": "개념"
+    },
+    {
+      "day": 13,
+      "word": "hostility",
+      "meaning": "적대감"
+    },
+    {
+      "day": 13,
+      "word": "gradual",
+      "meaning": "점진적인"
+    },
+    {
+      "day": 13,
+      "word": "towards",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 13,
+      "word": "provide",
+      "meaning": "제공하다"
+    },
+    {
+      "day": 13,
+      "word": "economic",
+      "meaning": "경제의"
+    },
+    {
+      "day": 13,
+      "word": "requirement",
+      "meaning": "요구 사항"
+    },
+    {
+      "day": 14,
+      "word": "loyalty",
+      "meaning": "충성도"
+    },
+    {
+      "day": 14,
+      "word": "scale",
+      "meaning": "규모"
+    },
+    {
+      "day": 14,
+      "word": "decisive",
+      "meaning": "결단력 있는"
+    },
+    {
+      "day": 14,
+      "word": "respect",
+      "meaning": "존중"
+    },
+    {
+      "day": 14,
+      "word": "as",
+      "meaning": "~로서"
+    },
+    {
+      "day": 14,
+      "word": "emotional",
+      "meaning": "감정적인"
+    },
+    {
+      "day": 14,
+      "word": "private",
+      "meaning": "사적인"
+    },
+    {
+      "day": 14,
+      "word": "perceive",
+      "meaning": "인지하다"
+    },
+    {
+      "day": 14,
+      "word": "business",
+      "meaning": "사업"
+    },
+    {
+      "day": 14,
+      "word": "diversity",
+      "meaning": "다양성"
+    },
+    {
+      "day": 14,
+      "word": "take",
+      "meaning": "받아들이다"
+    },
+    {
+      "day": 14,
+      "word": "criticism",
+      "meaning": "비판"
+    },
+    {
+      "day": 14,
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "day": 14,
+      "word": "unemployment",
+      "meaning": "실업"
+    },
+    {
+      "day": 14,
+      "word": "reader",
+      "meaning": "독자"
+    },
+    {
+      "day": 14,
+      "word": "employment",
+      "meaning": "일자리"
+    },
+    {
+      "day": 14,
+      "word": "at work",
+      "meaning": "직장에서"
+    },
+    {
+      "day": 14,
+      "word": "select",
+      "meaning": "선택하다"
+    },
+    {
+      "day": 14,
+      "word": "obesity",
+      "meaning": "비만"
+    },
+    {
+      "day": 14,
+      "word": "effective",
+      "meaning": "효과적인"
+    },
+    {
+      "day": 14,
+      "word": "strengthen",
+      "meaning": "강화하다"
+    },
+    {
+      "day": 14,
+      "word": "cultural",
+      "meaning": "문화적인"
+    },
+    {
+      "day": 14,
+      "word": "quality",
+      "meaning": "품질"
+    },
+    {
+      "day": 14,
+      "word": "farming",
+      "meaning": "농업"
+    },
+    {
+      "day": 14,
+      "word": "employee",
+      "meaning": "직원"
+    },
+    {
+      "day": 14,
+      "word": "trend",
+      "meaning": "추세"
+    },
+    {
+      "day": 14,
+      "word": "use",
+      "meaning": "사용"
+    },
+    {
+      "day": 14,
+      "word": "measure",
+      "meaning": "척도"
+    },
+    {
+      "day": 14,
+      "word": "unconsciousness",
+      "meaning": "무의식"
+    },
+    {
+      "day": 14,
+      "word": "determine",
+      "meaning": "결정하다"
+    },
+    {
+      "day": 14,
+      "word": "pros and cons",
+      "meaning": "찬성과 반대"
+    },
+    {
+      "day": 14,
+      "word": "welfare",
+      "meaning": "복지"
+    },
+    {
+      "day": 14,
+      "word": "material",
+      "meaning": "물질적인"
+    },
+    {
+      "day": 14,
+      "word": "gain",
+      "meaning": "얻다"
+    },
+    {
+      "day": 14,
+      "word": "rate",
+      "meaning": "비율"
+    },
+    {
+      "day": 14,
+      "word": "quantity",
+      "meaning": "양"
+    },
+    {
+      "day": 14,
+      "word": "promote",
+      "meaning": "촉진하다"
+    },
+    {
+      "day": 14,
+      "word": "bond",
+      "meaning": "유대"
+    },
+    {
+      "day": 14,
+      "word": "innovative",
+      "meaning": "혁신적인"
+    },
+    {
+      "day": 14,
+      "word": "increase",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 14,
+      "word": "companion",
+      "meaning": "동료"
+    },
+    {
+      "day": 14,
+      "word": "advice",
+      "meaning": "조언"
+    },
+    {
+      "day": 14,
+      "word": "seriously",
+      "meaning": "진지하게"
+    },
+    {
+      "day": 14,
+      "word": "honest",
+      "meaning": "정직한"
+    },
+    {
+      "day": 14,
+      "word": "seek",
+      "meaning": "구하다"
+    },
+    {
+      "day": 14,
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "day": 14,
+      "word": "purpose",
+      "meaning": "목적"
+    },
+    {
+      "day": 14,
+      "word": "ban",
+      "meaning": "금지하다"
+    },
+    {
+      "day": 14,
+      "word": "action",
+      "meaning": "행동"
+    },
+    {
+      "day": 14,
+      "word": "grow",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 14,
+      "word": "commercial",
+      "meaning": "상업적인"
+    },
+    {
+      "day": 14,
+      "word": "limitation",
+      "meaning": "한계"
+    },
+    {
+      "day": 14,
+      "word": "efficiency",
+      "meaning": "효율성"
+    },
+    {
+      "day": 14,
+      "word": "competent",
+      "meaning": "유능한"
+    },
+    {
+      "day": 15,
+      "word": "prior",
+      "meaning": "이전의"
+    },
+    {
+      "day": 15,
+      "word": "express",
+      "meaning": "표현하다"
+    },
+    {
+      "day": 15,
+      "word": "internal",
+      "meaning": "내부의"
+    },
+    {
+      "day": 15,
+      "word": "society",
+      "meaning": "사회"
+    },
+    {
+      "day": 15,
+      "word": "profitability",
+      "meaning": "수익성"
+    },
+    {
+      "day": 15,
+      "word": "financial",
+      "meaning": "재정적인"
+    },
+    {
+      "day": 15,
+      "word": "objective",
+      "meaning": "객관적인"
+    },
+    {
+      "day": 15,
+      "word": "let",
+      "meaning": "~하게 하다"
+    },
+    {
+      "day": 15,
+      "word": "judgement",
+      "meaning": "판단"
+    },
+    {
+      "day": 15,
+      "word": "mistake",
+      "meaning": "실수"
+    },
+    {
+      "day": 15,
+      "word": "mental",
+      "meaning": "정신적인"
+    },
+    {
+      "day": 15,
+      "word": "survive",
+      "meaning": "생존하다"
+    },
+    {
+      "day": 15,
+      "word": "rage",
+      "meaning": "분노"
+    },
+    {
+      "day": 15,
+      "word": "medical",
+      "meaning": "의학의"
+    },
+    {
+      "day": 15,
+      "word": "investment",
+      "meaning": "투자"
+    },
+    {
+      "day": 15,
+      "word": "minority",
+      "meaning": "소수"
+    },
+    {
+      "day": 15,
+      "word": "hidden",
+      "meaning": "숨겨진"
+    },
+    {
+      "day": 15,
+      "word": "using",
+      "meaning": "사용하여"
+    },
+    {
+      "day": 15,
+      "word": "ethical",
+      "meaning": "윤리적인"
+    },
+    {
+      "day": 15,
+      "word": "market",
+      "meaning": "시장"
+    },
+    {
+      "day": 15,
+      "word": "field",
+      "meaning": "분야"
+    },
+    {
+      "day": 15,
+      "word": "failure",
+      "meaning": "실패"
+    },
+    {
+      "day": 15,
+      "word": "effect",
+      "meaning": "영향"
+    },
+    {
+      "day": 15,
+      "word": "bacteria",
+      "meaning": "박테리아"
+    },
+    {
+      "day": 15,
+      "word": "unequal",
+      "meaning": "불평등한"
+    },
+    {
+      "day": 15,
+      "word": "condition",
+      "meaning": "조건"
+    },
+    {
+      "day": 15,
+      "word": "effort",
+      "meaning": "노력"
+    },
+    {
+      "day": 15,
+      "word": "labor force",
+      "meaning": "노동력"
+    },
+    {
+      "day": 15,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 15,
+      "word": "major",
+      "meaning": "주요한"
+    },
+    {
+      "day": 15,
+      "word": "well-being",
+      "meaning": "복지"
+    },
+    {
+      "day": 15,
+      "word": "gender",
+      "meaning": "성격"
+    },
+    {
+      "day": 15,
+      "word": "unexplored",
+      "meaning": "탐험되지 않은"
+    },
+    {
+      "day": 15,
+      "word": "emphasis",
+      "meaning": "강조"
+    },
+    {
+      "day": 15,
+      "word": "transplant",
+      "meaning": "이식"
+    },
+    {
+      "day": 15,
+      "word": "by oneself",
+      "meaning": "스스로"
+    },
+    {
+      "day": 15,
+      "word": "globalization",
+      "meaning": "세계화"
+    },
+    {
+      "day": 15,
+      "word": "influence",
+      "meaning": "영향을 미치다"
+    },
+    {
+      "day": 15,
+      "word": "necessary",
+      "meaning": "필요한"
+    },
+    {
+      "day": 15,
+      "word": "minor",
+      "meaning": "사소한"
+    },
+    {
+      "day": 15,
+      "word": "knowledge",
+      "meaning": "지식"
+    },
+    {
+      "day": 15,
+      "word": "discrimination",
+      "meaning": "차별"
+    },
+    {
+      "day": 15,
+      "word": "resource",
+      "meaning": "자원"
+    },
+    {
+      "day": 15,
+      "word": "reliable",
+      "meaning": "신뢰할 수 있는"
+    },
+    {
+      "day": 15,
+      "word": "comprehension",
+      "meaning": "이해"
+    },
+    {
+      "day": 15,
+      "word": "extreme",
+      "meaning": "극단적인"
+    },
+    {
+      "day": 15,
+      "word": "correct",
+      "meaning": "바로잡다"
+    },
+    {
+      "day": 15,
+      "word": "pace",
+      "meaning": "속도"
+    },
+    {
+      "day": 15,
+      "word": "external",
+      "meaning": "외부의"
+    },
+    {
+      "day": 15,
+      "word": "stock",
+      "meaning": "주식"
+    },
+    {
+      "day": 15,
+      "word": "reduce",
+      "meaning": "줄이다"
+    },
+    {
+      "day": 15,
+      "word": "distribution",
+      "meaning": "분배"
+    },
+    {
+      "day": 15,
+      "word": "attribute",
+      "meaning": "원인으로 여기다"
+    },
+    {
+      "day": 15,
+      "word": "aspect",
+      "meaning": "측면"
+    },
+    {
+      "day": 16,
+      "word": "respect",
+      "meaning": "존중"
+    },
+    {
+      "day": 16,
+      "word": "morality",
+      "meaning": "도덕성"
+    },
+    {
+      "day": 16,
+      "word": "education",
+      "meaning": "교육"
+    },
+    {
+      "day": 16,
+      "word": "inflation",
+      "meaning": "물가 인상"
+    },
+    {
+      "day": 16,
+      "word": "cooperative",
+      "meaning": "협동적인"
+    },
+    {
+      "day": 16,
+      "word": "perspective",
+      "meaning": "관점"
+    },
+    {
+      "day": 16,
+      "word": "career",
+      "meaning": "직업"
+    },
+    {
+      "day": 16,
+      "word": "opinion",
+      "meaning": "의견"
+    },
+    {
+      "day": 16,
+      "word": "public",
+      "meaning": "대중"
+    },
+    {
+      "day": 16,
+      "word": "subtle",
+      "meaning": "미묘한"
+    },
+    {
+      "day": 16,
+      "word": "connection",
+      "meaning": "연관성"
+    },
+    {
+      "day": 16,
+      "word": "creativity",
+      "meaning": "창의성"
+    },
+    {
+      "day": 16,
+      "word": "complaint",
+      "meaning": "불만"
+    },
+    {
+      "day": 16,
+      "word": "contradictory",
+      "meaning": "모순된"
+    },
+    {
+      "day": 16,
+      "word": "form",
+      "meaning": "형성하다"
+    },
+    {
+      "day": 16,
+      "word": "spirit",
+      "meaning": "정신"
+    },
+    {
+      "day": 16,
+      "word": "situation",
+      "meaning": "상황"
+    },
+    {
+      "day": 16,
+      "word": "burden",
+      "meaning": "부담감"
+    },
+    {
+      "day": 16,
+      "word": "hospitalization",
+      "meaning": "입원"
+    },
+    {
+      "day": 16,
+      "word": "communal",
+      "meaning": "공동의"
+    },
+    {
+      "day": 16,
+      "word": "place",
+      "meaning": "주다"
+    },
+    {
+      "day": 16,
+      "word": "significance",
+      "meaning": "중요성"
+    },
+    {
+      "day": 16,
+      "word": "wage",
+      "meaning": "임금"
+    },
+    {
+      "day": 16,
+      "word": "insight",
+      "meaning": "통찰력"
+    },
+    {
+      "day": 16,
+      "word": "democracy",
+      "meaning": "민주주의"
+    },
+    {
+      "day": 16,
+      "word": "satisfaction",
+      "meaning": "만족"
+    },
+    {
+      "day": 16,
+      "word": "physical",
+      "meaning": "신체의"
+    },
+    {
+      "day": 16,
+      "word": "contribution",
+      "meaning": "기여"
+    },
+    {
+      "day": 16,
+      "word": "deal with",
+      "meaning": "다루다"
+    },
+    {
+      "day": 16,
+      "word": "raise",
+      "meaning": "올리다"
+    },
+    {
+      "day": 16,
+      "word": "credibility",
+      "meaning": "신뢰"
+    },
+    {
+      "day": 16,
+      "word": "treat",
+      "meaning": "대하다"
+    },
+    {
+      "day": 16,
+      "word": "irreversible",
+      "meaning": "되돌릴 수 없는"
+    },
+    {
+      "day": 16,
+      "word": "strengthen",
+      "meaning": "강화하다"
+    },
+    {
+      "day": 16,
+      "word": "silent",
+      "meaning": "침묵의"
+    },
+    {
+      "day": 16,
+      "word": "need",
+      "meaning": "필요"
+    },
+    {
+      "day": 16,
+      "word": "sufficient",
+      "meaning": "충분한"
+    },
+    {
+      "day": 16,
+      "word": "satisfy",
+      "meaning": "충족시키다"
+    },
+    {
+      "day": 16,
+      "word": "minimum",
+      "meaning": "최소의"
+    },
+    {
+      "day": 16,
+      "word": "crisis",
+      "meaning": "위기"
+    },
+    {
+      "day": 16,
+      "word": "indispensible",
+      "meaning": "필수불가결한"
+    },
+    {
+      "day": 16,
+      "word": "remain",
+      "meaning": "~인 상태이다"
+    },
+    {
+      "day": 16,
+      "word": "accustomed",
+      "meaning": "익숙해진"
+    },
+    {
+      "day": 16,
+      "word": "means",
+      "meaning": "수단"
+    },
+    {
+      "day": 16,
+      "word": "lower",
+      "meaning": "약화시키다"
+    },
+    {
+      "day": 16,
+      "word": "luxury",
+      "meaning": "사치"
+    },
+    {
+      "day": 16,
+      "word": "preference",
+      "meaning": "선호"
+    },
+    {
+      "day": 16,
+      "word": "distort",
+      "meaning": "왜곡하다"
+    },
+    {
+      "day": 16,
+      "word": "economic",
+      "meaning": "경제의"
+    },
+    {
+      "day": 16,
+      "word": "pessimism",
+      "meaning": "비관주의"
+    },
+    {
+      "day": 16,
+      "word": "necessity",
+      "meaning": "필요성"
+    },
+    {
+      "day": 16,
+      "word": "occupation",
+      "meaning": "직업"
+    },
+    {
+      "day": 16,
+      "word": "design",
+      "meaning": "설계하다"
+    },
+    {
+      "day": 16,
+      "word": "defensive",
+      "meaning": "방어적인"
+    },
+    {
+      "day": 17,
+      "word": "film",
+      "meaning": "영화"
+    },
+    {
+      "day": 17,
+      "word": "measure",
+      "meaning": "조치"
+    },
+    {
+      "day": 17,
+      "word": "appearance",
+      "meaning": "외모"
+    },
+    {
+      "day": 17,
+      "word": "corporation",
+      "meaning": "기업"
+    },
+    {
+      "day": 17,
+      "word": "merit",
+      "meaning": "장점"
+    },
+    {
+      "day": 17,
+      "word": "origin",
+      "meaning": "기원"
+    },
+    {
+      "day": 17,
+      "word": "rural",
+      "meaning": "시골의"
+    },
+    {
+      "day": 17,
+      "word": "species",
+      "meaning": "생물 종"
+    },
+    {
+      "day": 17,
+      "word": "indicator",
+      "meaning": "지표"
+    },
+    {
+      "day": 17,
+      "word": "ignorance",
+      "meaning": "무지"
+    },
+    {
+      "day": 17,
+      "word": "cultural",
+      "meaning": "문화적인"
+    },
+    {
+      "day": 17,
+      "word": "urban",
+      "meaning": "도시의"
+    },
+    {
+      "day": 17,
+      "word": "capital",
+      "meaning": "자본"
+    },
+    {
+      "day": 17,
+      "word": "prevent",
+      "meaning": "예방하다"
+    },
+    {
+      "day": 17,
+      "word": "characteristics",
+      "meaning": "특징"
+    },
+    {
+      "day": 17,
+      "word": "demerit",
+      "meaning": "단점"
+    },
+    {
+      "day": 17,
+      "word": "migration",
+      "meaning": "이동"
+    },
+    {
+      "day": 17,
+      "word": "zone",
+      "meaning": "지역"
+    },
+    {
+      "day": 17,
+      "word": "disease",
+      "meaning": "질병"
+    },
+    {
+      "day": 17,
+      "word": "natural",
+      "meaning": "자연의"
+    },
+    {
+      "day": 17,
+      "word": "tendency",
+      "meaning": "경향"
+    },
+    {
+      "day": 17,
+      "word": "against",
+      "meaning": "~에 대한"
+    },
+    {
+      "day": 17,
+      "word": "evidence",
+      "meaning": "증거"
+    },
+    {
+      "day": 17,
+      "word": "practical",
+      "meaning": "실질적인"
+    },
+    {
+      "day": 17,
+      "word": "criticism",
+      "meaning": "비판"
+    },
+    {
+      "day": 17,
+      "word": "blessing",
+      "meaning": "축복"
+    },
+    {
+      "day": 17,
+      "word": "limit",
+      "meaning": "한계"
+    },
+    {
+      "day": 17,
+      "word": "contagious",
+      "meaning": "전염성의"
+    },
+    {
+      "day": 17,
+      "word": "insect",
+      "meaning": "곤충"
+    },
+    {
+      "day": 17,
+      "word": "value",
+      "meaning": "가치"
+    },
+    {
+      "day": 17,
+      "word": "intercultural",
+      "meaning": "문화간의"
+    },
+    {
+      "day": 17,
+      "word": "resolve",
+      "meaning": "해결하다"
+    },
+    {
+      "day": 17,
+      "word": "nuclear",
+      "meaning": "핵의"
+    },
+    {
+      "day": 17,
+      "word": "quantitative",
+      "meaning": "양적인"
+    },
+    {
+      "day": 17,
+      "word": "exaggerate",
+      "meaning": "과장하다"
+    },
+    {
+      "day": 17,
+      "word": "form",
+      "meaning": "형태"
+    },
+    {
+      "day": 17,
+      "word": "measure",
+      "meaning": "측정하다"
+    },
+    {
+      "day": 17,
+      "word": "accomplishment",
+      "meaning": "성과"
+    },
+    {
+      "day": 17,
+      "word": "soap opera",
+      "meaning": "드라마"
+    },
+    {
+      "day": 17,
+      "word": "marine",
+      "meaning": "해양의"
+    },
+    {
+      "day": 17,
+      "word": "get over",
+      "meaning": "극복하다"
+    },
+    {
+      "day": 17,
+      "word": "compromise",
+      "meaning": "타협"
+    },
+    {
+      "day": 17,
+      "word": "capitalism",
+      "meaning": "자본주의"
+    },
+    {
+      "day": 17,
+      "word": "separation",
+      "meaning": "분리"
+    },
+    {
+      "day": 17,
+      "word": "policy",
+      "meaning": "정책"
+    },
+    {
+      "day": 17,
+      "word": "residential",
+      "meaning": "주거의"
+    },
+    {
+      "day": 17,
+      "word": "geographical",
+      "meaning": "지리적인"
+    },
+    {
+      "day": 17,
+      "word": "hierarchy",
+      "meaning": "위계"
+    },
+    {
+      "day": 17,
+      "word": "prejudice",
+      "meaning": "편견"
+    },
+    {
+      "day": 17,
+      "word": "acidic",
+      "meaning": "산성의"
+    },
+    {
+      "day": 17,
+      "word": "mass",
+      "meaning": "대중"
+    },
+    {
+      "day": 17,
+      "word": "resistance",
+      "meaning": "저항"
+    },
+    {
+      "day": 17,
+      "word": "qualitative",
+      "meaning": "질적인"
+    },
+    {
+      "day": 17,
+      "word": "sacrifice",
+      "meaning": "희생"
+    },
+    {
+      "day": 18,
+      "word": "growth",
+      "meaning": "성장"
+    },
+    {
+      "day": 18,
+      "word": "perception",
+      "meaning": "인식"
+    },
+    {
+      "day": 18,
+      "word": "necessity",
+      "meaning": "필요성"
+    },
+    {
+      "day": 18,
+      "word": "link",
+      "meaning": "연관성"
+    },
+    {
+      "day": 18,
+      "word": "illusion",
+      "meaning": "착각"
+    },
+    {
+      "day": 18,
+      "word": "aid",
+      "meaning": "돕다"
+    },
+    {
+      "day": 18,
+      "word": "underlying",
+      "meaning": "근본적인"
+    },
+    {
+      "day": 18,
+      "word": "deviance",
+      "meaning": "일탈"
+    },
+    {
+      "day": 18,
+      "word": "redefine",
+      "meaning": "재정의하다"
+    },
+    {
+      "day": 18,
+      "word": "procedure",
+      "meaning": "절차"
+    },
+    {
+      "day": 18,
+      "word": "diagnose",
+      "meaning": "진단하다"
+    },
+    {
+      "day": 18,
+      "word": "class",
+      "meaning": "계층"
+    },
+    {
+      "day": 18,
+      "word": "visual",
+      "meaning": "시각적인"
+    },
+    {
+      "day": 18,
+      "word": "outsider",
+      "meaning": "외부자"
+    },
+    {
+      "day": 18,
+      "word": "educational",
+      "meaning": "교육적인"
+    },
+    {
+      "day": 18,
+      "word": "impression",
+      "meaning": "인상"
+    },
+    {
+      "day": 18,
+      "word": "complex",
+      "meaning": "복잡한"
+    },
+    {
+      "day": 18,
+      "word": "publication",
+      "meaning": "출판물"
+    },
+    {
+      "day": 18,
+      "word": "boundary",
+      "meaning": "경계"
+    },
+    {
+      "day": 18,
+      "word": "consumer",
+      "meaning": "소비자"
+    },
+    {
+      "day": 18,
+      "word": "legitimate",
+      "meaning": "합법적인"
+    },
+    {
+      "day": 18,
+      "word": "feature",
+      "meaning": "특징"
+    },
+    {
+      "day": 18,
+      "word": "reduce",
+      "meaning": "줄이다"
+    },
+    {
+      "day": 18,
+      "word": "insider",
+      "meaning": "내부자"
+    },
+    {
+      "day": 18,
+      "word": "soil",
+      "meaning": "토양"
+    },
+    {
+      "day": 18,
+      "word": "unintended",
+      "meaning": "의도하지 않은"
+    },
+    {
+      "day": 18,
+      "word": "distinguish",
+      "meaning": "구별하다"
+    },
+    {
+      "day": 18,
+      "word": "facial",
+      "meaning": "얼굴의"
+    },
+    {
+      "day": 18,
+      "word": "record",
+      "meaning": "기록"
+    },
+    {
+      "day": 18,
+      "word": "arise",
+      "meaning": "발생하다"
+    },
+    {
+      "day": 18,
+      "word": "access",
+      "meaning": "접근"
+    },
+    {
+      "day": 18,
+      "word": "clarify",
+      "meaning": "명확히 하다"
+    },
+    {
+      "day": 18,
+      "word": "etiquette",
+      "meaning": "예절"
+    },
+    {
+      "day": 18,
+      "word": "cost",
+      "meaning": "비용"
+    },
+    {
+      "day": 18,
+      "word": "attempt",
+      "meaning": "시도"
+    },
+    {
+      "day": 18,
+      "word": "influence",
+      "meaning": "영향"
+    },
+    {
+      "day": 18,
+      "word": "aspect",
+      "meaning": "측면"
+    },
+    {
+      "day": 18,
+      "word": "moral",
+      "meaning": "도덕적인"
+    },
+    {
+      "day": 18,
+      "word": "equality",
+      "meaning": "평등"
+    },
+    {
+      "day": 18,
+      "word": "elaborate",
+      "meaning": "설명하다"
+    },
+    {
+      "day": 18,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 18,
+      "word": "conduct",
+      "meaning": "수행하다"
+    },
+    {
+      "day": 18,
+      "word": "visualization",
+      "meaning": "시각화"
+    },
+    {
+      "day": 18,
+      "word": "medical",
+      "meaning": "의료의"
+    },
+    {
+      "day": 18,
+      "word": "credit",
+      "meaning": "신용"
+    },
+    {
+      "day": 18,
+      "word": "infrastructure",
+      "meaning": "인프라"
+    },
+    {
+      "day": 18,
+      "word": "financial",
+      "meaning": "금융의"
+    },
+    {
+      "day": 18,
+      "word": "abstract",
+      "meaning": "추상적인"
+    },
+    {
+      "day": 18,
+      "word": "unethical",
+      "meaning": "비윤리적인"
+    },
+    {
+      "day": 18,
+      "word": "erosion",
+      "meaning": "침식"
+    },
+    {
+      "day": 18,
+      "word": "relationship",
+      "meaning": "관계"
+    },
+    {
+      "day": 18,
+      "word": "symptom",
+      "meaning": "증상"
+    },
+    {
+      "day": 18,
+      "word": "consumption",
+      "meaning": "소비"
+    },
+    {
+      "day": 18,
+      "word": "efficient",
+      "meaning": "효율적인"
+    },
+    {
+      "day": 19,
+      "word": "count on",
+      "meaning": "의존하다"
+    },
+    {
+      "day": 19,
+      "word": "rationality",
+      "meaning": "합리성"
+    },
+    {
+      "day": 19,
+      "word": "license",
+      "meaning": "라이센스"
+    },
+    {
+      "day": 19,
+      "word": "owner",
+      "meaning": "소유자"
+    },
+    {
+      "day": 19,
+      "word": "distinction",
+      "meaning": "구별"
+    },
+    {
+      "day": 19,
+      "word": "production",
+      "meaning": "생산"
+    },
+    {
+      "day": 19,
+      "word": "adolescence",
+      "meaning": "청소년기"
+    },
+    {
+      "day": 19,
+      "word": "filter out",
+      "meaning": "걸러내다"
+    },
+    {
+      "day": 19,
+      "word": "willing",
+      "meaning": "기꺼이 하는"
+    },
+    {
+      "day": 19,
+      "word": "driver",
+      "meaning": "동력"
+    },
+    {
+      "day": 19,
+      "word": "prehistoric",
+      "meaning": "선사시대의"
+    },
+    {
+      "day": 19,
+      "word": "acquire",
+      "meaning": "획득하다"
+    },
+    {
+      "day": 19,
+      "word": "nation",
+      "meaning": "국가"
+    },
+    {
+      "day": 19,
+      "word": "attention",
+      "meaning": "주의"
+    },
+    {
+      "day": 19,
+      "word": "essence",
+      "meaning": "본질"
+    },
+    {
+      "day": 19,
+      "word": "ambiguity",
+      "meaning": "모호성"
+    },
+    {
+      "day": 19,
+      "word": "translation",
+      "meaning": "번역"
+    },
+    {
+      "day": 19,
+      "word": "sound source",
+      "meaning": "음원"
+    },
+    {
+      "day": 19,
+      "word": "realistic",
+      "meaning": "현실적인"
+    },
+    {
+      "day": 19,
+      "word": "marker",
+      "meaning": "지표"
+    },
+    {
+      "day": 19,
+      "word": "ever-",
+      "meaning": "항상"
+    },
+    {
+      "day": 19,
+      "word": "governance",
+      "meaning": "지배"
+    },
+    {
+      "day": 19,
+      "word": "vision",
+      "meaning": "시각"
+    },
+    {
+      "day": 19,
+      "word": "trustworthy",
+      "meaning": "신뢰할 수 있는"
+    },
+    {
+      "day": 19,
+      "word": "derive",
+      "meaning": "파생하다"
+    },
+    {
+      "day": 19,
+      "word": "class",
+      "meaning": "계층"
+    },
+    {
+      "day": 19,
+      "word": "control",
+      "meaning": "통제"
+    },
+    {
+      "day": 19,
+      "word": "cognitive",
+      "meaning": "인지적인"
+    },
+    {
+      "day": 19,
+      "word": "role",
+      "meaning": "역할"
+    },
+    {
+      "day": 19,
+      "word": "fundamental",
+      "meaning": "근본적인"
+    },
+    {
+      "day": 19,
+      "word": "sample",
+      "meaning": "쌤플링하다"
+    },
+    {
+      "day": 19,
+      "word": "correlation",
+      "meaning": "상관 관계"
+    },
+    {
+      "day": 19,
+      "word": "suitable",
+      "meaning": "적절한"
+    },
+    {
+      "day": 19,
+      "word": "manners",
+      "meaning": "예절"
+    },
+    {
+      "day": 19,
+      "word": "hinder",
+      "meaning": "방해하다"
+    },
+    {
+      "day": 19,
+      "word": "irrelevant",
+      "meaning": "관련없는"
+    },
+    {
+      "day": 19,
+      "word": "border",
+      "meaning": "국경"
+    },
+    {
+      "day": 19,
+      "word": "competition",
+      "meaning": "경쟁"
+    },
+    {
+      "day": 19,
+      "word": "civilization",
+      "meaning": "문명"
+    },
+    {
+      "day": 19,
+      "word": "legal",
+      "meaning": "법적인"
+    },
+    {
+      "day": 19,
+      "word": "framework",
+      "meaning": "틀"
+    },
+    {
+      "day": 19,
+      "word": "erase",
+      "meaning": "지우다"
+    },
+    {
+      "day": 19,
+      "word": "performance",
+      "meaning": "성과"
+    },
+    {
+      "day": 19,
+      "word": "selective",
+      "meaning": "선택적인"
+    },
+    {
+      "day": 19,
+      "word": "ritual",
+      "meaning": "의식"
+    },
+    {
+      "day": 19,
+      "word": "investigation",
+      "meaning": "조사"
+    },
+    {
+      "day": 19,
+      "word": "authority",
+      "meaning": "권위"
+    },
+    {
+      "day": 19,
+      "word": "literature",
+      "meaning": "문학"
+    },
+    {
+      "day": 19,
+      "word": "constraint",
+      "meaning": "제약"
+    },
+    {
+      "day": 19,
+      "word": "dispute",
+      "meaning": "분쟁"
+    },
+    {
+      "day": 19,
+      "word": "key",
+      "meaning": "핵심"
+    },
+    {
+      "day": 19,
+      "word": "resistance",
+      "meaning": "저항"
+    },
+    {
+      "day": 19,
+      "word": "stimulus",
+      "meaning": "자극"
+    },
+    {
+      "day": 19,
+      "word": "stimuli",
+      "meaning": "자극들"
+    },
+    {
+      "day": 20,
+      "word": "matter",
+      "meaning": "중요하다"
+    },
+    {
+      "day": 20,
+      "word": "differentiation",
+      "meaning": "차별화"
+    },
+    {
+      "day": 20,
+      "word": "economist",
+      "meaning": "경제학자"
+    },
+    {
+      "day": 20,
+      "word": "universe",
+      "meaning": "우주"
+    },
+    {
+      "day": 20,
+      "word": "experience",
+      "meaning": "경험"
+    },
+    {
+      "day": 20,
+      "word": "absence",
+      "meaning": "부재"
+    },
+    {
+      "day": 20,
+      "word": "subsequent",
+      "meaning": "향후의"
+    },
+    {
+      "day": 20,
+      "word": "concern",
+      "meaning": "관심"
+    },
+    {
+      "day": 20,
+      "word": "feature",
+      "meaning": "기능"
+    },
+    {
+      "day": 20,
+      "word": "investment",
+      "meaning": "투자"
+    },
+    {
+      "day": 20,
+      "word": "prediction",
+      "meaning": "예측"
+    },
+    {
+      "day": 20,
+      "word": "simplicity",
+      "meaning": "단순성"
+    },
+    {
+      "day": 20,
+      "word": "authentic",
+      "meaning": "진정한"
+    },
+    {
+      "day": 20,
+      "word": "result",
+      "meaning": "결과"
+    },
+    {
+      "day": 20,
+      "word": "abundant",
+      "meaning": "풍부한"
+    },
+    {
+      "day": 20,
+      "word": "produce",
+      "meaning": "만들다"
+    },
+    {
+      "day": 20,
+      "word": "safety",
+      "meaning": "안전"
+    },
+    {
+      "day": 20,
+      "word": "development",
+      "meaning": "개발"
+    },
+    {
+      "day": 20,
+      "word": "organizational",
+      "meaning": "조직의"
+    },
+    {
+      "day": 20,
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "day": 20,
+      "word": "gravity",
+      "meaning": "중력"
+    },
+    {
+      "day": 20,
+      "word": "capital",
+      "meaning": "자본"
+    },
+    {
+      "day": 20,
+      "word": "demand",
+      "meaning": "수요"
+    },
+    {
+      "day": 20,
+      "word": "unintended",
+      "meaning": "의도하지 않은"
+    },
+    {
+      "day": 20,
+      "word": "enhance",
+      "meaning": "향상하다"
+    },
+    {
+      "day": 20,
+      "word": "ingredient",
+      "meaning": "요소"
+    },
+    {
+      "day": 20,
+      "word": "automobile",
+      "meaning": "자동차"
+    },
+    {
+      "day": 20,
+      "word": "helium",
+      "meaning": "헬륨"
+    },
+    {
+      "day": 20,
+      "word": "wonder",
+      "meaning": "경이로움"
+    },
+    {
+      "day": 20,
+      "word": "praise",
+      "meaning": "칭찬하다"
+    },
+    {
+      "day": 20,
+      "word": "seed",
+      "meaning": "씨"
+    },
+    {
+      "day": 20,
+      "word": "drawback",
+      "meaning": "단점"
+    },
+    {
+      "day": 20,
+      "word": "prefer",
+      "meaning": "선호하다"
+    },
+    {
+      "day": 20,
+      "word": "reject",
+      "meaning": "거부하다"
+    },
+    {
+      "day": 20,
+      "word": "tourism",
+      "meaning": "관광"
+    },
+    {
+      "day": 20,
+      "word": "increase",
+      "meaning": "증가하다"
+    },
+    {
+      "day": 20,
+      "word": "virtual",
+      "meaning": "가상의"
+    },
+    {
+      "day": 20,
+      "word": "ethics",
+      "meaning": "윤리"
+    },
+    {
+      "day": 20,
+      "word": "misconception",
+      "meaning": "오해"
+    },
+    {
+      "day": 20,
+      "word": "hydrogen",
+      "meaning": "수소"
+    },
+    {
+      "day": 20,
+      "word": "physical",
+      "meaning": "신체의"
+    },
+    {
+      "day": 20,
+      "word": "take place",
+      "meaning": "발생하다"
+    },
+    {
+      "day": 20,
+      "word": "actual",
+      "meaning": "실제적인"
+    },
+    {
+      "day": 20,
+      "word": "sustainability",
+      "meaning": "지속 가능성"
+    },
+    {
+      "day": 20,
+      "word": "genuine",
+      "meaning": "진정한"
+    },
+    {
+      "day": 20,
+      "word": "element",
+      "meaning": "원소"
+    },
+    {
+      "day": 20,
+      "word": "recover",
+      "meaning": "회복하다"
+    },
+    {
+      "day": 20,
+      "word": "balance",
+      "meaning": "균형을 잡다"
+    },
+    {
+      "day": 20,
+      "word": "galaxy",
+      "meaning": "은하"
+    },
+    {
+      "day": 20,
+      "word": "innovation",
+      "meaning": "혁신"
+    },
+    {
+      "day": 20,
+      "word": "responsibility",
+      "meaning": "책임감"
+    },
+    {
+      "day": 20,
+      "word": "disperse",
+      "meaning": "퍼뜨리다"
+    },
+    {
+      "day": 20,
+      "word": "gloomy",
+      "meaning": "우울한"
+    },
+    {
+      "day": 20,
+      "word": "injury",
+      "meaning": "부상"
+    },
+    {
+      "day": 21,
+      "word": "division",
+      "meaning": "분할"
+    },
+    {
+      "day": 21,
+      "word": "labor",
+      "meaning": "노동력"
+    },
+    {
+      "day": 21,
+      "word": "mechanical",
+      "meaning": "기계적인"
+    },
+    {
+      "day": 21,
+      "word": "economics",
+      "meaning": "경제학"
+    },
+    {
+      "day": 21,
+      "word": "mythology",
+      "meaning": "신화"
+    },
+    {
+      "day": 21,
+      "word": "economist",
+      "meaning": "경제학자"
+    },
+    {
+      "day": 21,
+      "word": "implicit",
+      "meaning": "암묵적인"
+    },
+    {
+      "day": 21,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 21,
+      "word": "economic",
+      "meaning": "경제의"
+    },
+    {
+      "day": 21,
+      "word": "gene",
+      "meaning": "유전자"
+    },
+    {
+      "day": 21,
+      "word": "reasonable",
+      "meaning": "이성적인"
+    },
+    {
+      "day": 21,
+      "word": "evolutionary",
+      "meaning": "진화적인"
+    },
+    {
+      "day": 21,
+      "word": "view",
+      "meaning": "견해"
+    },
+    {
+      "day": 21,
+      "word": "moral",
+      "meaning": "도덕적인"
+    },
+    {
+      "day": 21,
+      "word": "traditionalism",
+      "meaning": "전통주의"
+    },
+    {
+      "day": 21,
+      "word": "difficulty",
+      "meaning": "어려움"
+    },
+    {
+      "day": 21,
+      "word": "communicate",
+      "meaning": "의사소통하다"
+    },
+    {
+      "day": 21,
+      "word": "intelligence",
+      "meaning": "지능"
+    },
+    {
+      "day": 21,
+      "word": "efficiency",
+      "meaning": "효율성"
+    },
+    {
+      "day": 21,
+      "word": "effect",
+      "meaning": "결과"
+    },
+    {
+      "day": 21,
+      "word": "causal",
+      "meaning": "인과적인"
+    },
+    {
+      "day": 21,
+      "word": "productivity",
+      "meaning": "생산성"
+    },
+    {
+      "day": 21,
+      "word": "matter",
+      "meaning": "중요하다"
+    },
+    {
+      "day": 21,
+      "word": "bias",
+      "meaning": "편견"
+    },
+    {
+      "day": 21,
+      "word": "faulty",
+      "meaning": "잘못된"
+    },
+    {
+      "day": 21,
+      "word": "reasoning",
+      "meaning": "추론"
+    },
+    {
+      "day": 21,
+      "word": "inquiry",
+      "meaning": "탐구"
+    },
+    {
+      "day": 21,
+      "word": "journalist",
+      "meaning": "언론인"
+    },
+    {
+      "day": 21,
+      "word": "interplay",
+      "meaning": "상호작용"
+    },
+    {
+      "day": 21,
+      "word": "medieval",
+      "meaning": "중세의"
+    },
+    {
+      "day": 21,
+      "word": "relationship",
+      "meaning": "관계"
+    },
+    {
+      "day": 21,
+      "word": "probability",
+      "meaning": "확률"
+    },
+    {
+      "day": 21,
+      "word": "society",
+      "meaning": "사회"
+    },
+    {
+      "day": 21,
+      "word": "strict",
+      "meaning": "엄격한"
+    },
+    {
+      "day": 21,
+      "word": "artificial",
+      "meaning": "인공의"
+    },
+    {
+      "day": 21,
+      "word": "inevitable",
+      "meaning": "피할 수 없는"
+    },
+    {
+      "day": 21,
+      "word": "risk",
+      "meaning": "위험"
+    },
+    {
+      "day": 21,
+      "word": "variable",
+      "meaning": "변수"
+    },
+    {
+      "day": 21,
+      "word": "complicated",
+      "meaning": "복잡한"
+    },
+    {
+      "day": 21,
+      "word": "liberalism",
+      "meaning": "자유주의"
+    },
+    {
+      "day": 21,
+      "word": "complexity",
+      "meaning": "복잡성"
+    },
+    {
+      "day": 21,
+      "word": "broad",
+      "meaning": "폭넓은"
+    },
+    {
+      "day": 21,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 21,
+      "word": "mistaken",
+      "meaning": "잘못된"
+    },
+    {
+      "day": 21,
+      "word": "simplify",
+      "meaning": "단순화하다"
+    },
+    {
+      "day": 21,
+      "word": "correlational",
+      "meaning": "상관적인"
+    },
+    {
+      "day": 21,
+      "word": "naturally",
+      "meaning": "본래"
+    },
+    {
+      "day": 21,
+      "word": "impact",
+      "meaning": "영향"
+    },
+    {
+      "day": 21,
+      "word": "unconscious",
+      "meaning": "무의식적인"
+    },
+    {
+      "day": 21,
+      "word": "environment",
+      "meaning": "환경"
+    },
+    {
+      "day": 21,
+      "word": "potential",
+      "meaning": "잠재적인"
+    },
+    {
+      "day": 21,
+      "word": "key",
+      "meaning": "주요한"
+    },
+    {
+      "day": 21,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 21,
+      "word": "policy",
+      "meaning": "정책"
+    },
+    {
+      "day": 22,
+      "word": "lead",
+      "meaning": "이끌다"
+    },
+    {
+      "day": 22,
+      "word": "punish",
+      "meaning": "처벌하다"
+    },
+    {
+      "day": 22,
+      "word": "stability",
+      "meaning": "안정"
+    },
+    {
+      "day": 22,
+      "word": "prevention",
+      "meaning": "예방"
+    },
+    {
+      "day": 22,
+      "word": "residential",
+      "meaning": "주거의"
+    },
+    {
+      "day": 22,
+      "word": "view",
+      "meaning": "견해"
+    },
+    {
+      "day": 22,
+      "word": "utility",
+      "meaning": "효용성"
+    },
+    {
+      "day": 22,
+      "word": "predator",
+      "meaning": "포식자"
+    },
+    {
+      "day": 22,
+      "word": "alter",
+      "meaning": "변경하다"
+    },
+    {
+      "day": 22,
+      "word": "mortality",
+      "meaning": "사망"
+    },
+    {
+      "day": 22,
+      "word": "treatment",
+      "meaning": "치료"
+    },
+    {
+      "day": 22,
+      "word": "tropical",
+      "meaning": "열대의"
+    },
+    {
+      "day": 22,
+      "word": "rely on",
+      "meaning": "의존하다"
+    },
+    {
+      "day": 22,
+      "word": "threat",
+      "meaning": "위협"
+    },
+    {
+      "day": 22,
+      "word": "public",
+      "meaning": "대중"
+    },
+    {
+      "day": 22,
+      "word": "influence",
+      "meaning": "영향"
+    },
+    {
+      "day": 22,
+      "word": "territorial",
+      "meaning": "영역의"
+    },
+    {
+      "day": 22,
+      "word": "rapid",
+      "meaning": "빠른"
+    },
+    {
+      "day": 22,
+      "word": "relocation",
+      "meaning": "이전"
+    },
+    {
+      "day": 22,
+      "word": "rate",
+      "meaning": "비율"
+    },
+    {
+      "day": 22,
+      "word": "continuous",
+      "meaning": "지속적인"
+    },
+    {
+      "day": 22,
+      "word": "incomplete",
+      "meaning": "불완전한"
+    },
+    {
+      "day": 22,
+      "word": "hate",
+      "meaning": "혐오"
+    },
+    {
+      "day": 22,
+      "word": "evolution",
+      "meaning": "진화"
+    },
+    {
+      "day": 22,
+      "word": "suspicious",
+      "meaning": "의심스러운"
+    },
+    {
+      "day": 22,
+      "word": "stupidity",
+      "meaning": "어리석음"
+    },
+    {
+      "day": 22,
+      "word": "care",
+      "meaning": "돌봄"
+    },
+    {
+      "day": 22,
+      "word": "effect",
+      "meaning": "효과"
+    },
+    {
+      "day": 22,
+      "word": "purchase",
+      "meaning": "구매"
+    },
+    {
+      "day": 22,
+      "word": "facility",
+      "meaning": "시설"
+    },
+    {
+      "day": 22,
+      "word": "speech",
+      "meaning": "발언"
+    },
+    {
+      "day": 22,
+      "word": "incidence",
+      "meaning": "발생"
+    },
+    {
+      "day": 22,
+      "word": "expectation",
+      "meaning": "기대"
+    },
+    {
+      "day": 22,
+      "word": "demand",
+      "meaning": "요구"
+    },
+    {
+      "day": 22,
+      "word": "introvert",
+      "meaning": "내향적인 사람"
+    },
+    {
+      "day": 22,
+      "word": "related",
+      "meaning": "관련된"
+    },
+    {
+      "day": 22,
+      "word": "current",
+      "meaning": "해류"
+    },
+    {
+      "day": 22,
+      "word": "symbolic",
+      "meaning": "상징적인"
+    },
+    {
+      "day": 22,
+      "word": "submit",
+      "meaning": "제출하다"
+    },
+    {
+      "day": 22,
+      "word": "democracy",
+      "meaning": "민주주의"
+    },
+    {
+      "day": 22,
+      "word": "perception",
+      "meaning": "인식"
+    },
+    {
+      "day": 22,
+      "word": "sensitive",
+      "meaning": "민감한"
+    },
+    {
+      "day": 22,
+      "word": "diminish",
+      "meaning": "감소하다"
+    },
+    {
+      "day": 22,
+      "word": "avoid",
+      "meaning": "피하다"
+    },
+    {
+      "day": 22,
+      "word": "diagnosis",
+      "meaning": "진단"
+    },
+    {
+      "day": 22,
+      "word": "set",
+      "meaning": "설정하다"
+    },
+    {
+      "day": 22,
+      "word": "disease",
+      "meaning": "질병"
+    },
+    {
+      "day": 22,
+      "word": "proposal",
+      "meaning": "제안서"
+    },
+    {
+      "day": 22,
+      "word": "deadline",
+      "meaning": "마감 기한"
+    },
+    {
+      "day": 22,
+      "word": "infectious",
+      "meaning": "전염성의"
+    },
+    {
+      "day": 22,
+      "word": "harshly",
+      "meaning": "엄격하게"
+    },
+    {
+      "day": 22,
+      "word": "superstition",
+      "meaning": "미션"
+    },
+    {
+      "day": 22,
+      "word": "judgment",
+      "meaning": "판단"
+    },
+    {
+      "day": 22,
+      "word": "alternation",
+      "meaning": "교대"
+    },
+    {
+      "day": 23,
+      "word": "criterion",
+      "meaning": "기준"
+    },
+    {
+      "day": 23,
+      "word": "criteria",
+      "meaning": "기준들"
+    },
+    {
+      "day": 23,
+      "word": "facilitate",
+      "meaning": "촉진하다"
+    },
+    {
+      "day": 23,
+      "word": "occupation",
+      "meaning": "직업"
+    },
+    {
+      "day": 23,
+      "word": "facility",
+      "meaning": "시설"
+    },
+    {
+      "day": 23,
+      "word": "matter",
+      "meaning": "중요하다"
+    },
+    {
+      "day": 23,
+      "word": "value",
+      "meaning": "가치"
+    },
+    {
+      "day": 23,
+      "word": "intervene",
+      "meaning": "개입하다"
+    },
+    {
+      "day": 23,
+      "word": "genetic",
+      "meaning": "유전의"
+    },
+    {
+      "day": 23,
+      "word": "involve",
+      "meaning": "참여시키다"
+    },
+    {
+      "day": 23,
+      "word": "exactly",
+      "meaning": "정확히"
+    },
+    {
+      "day": 23,
+      "word": "differentiate",
+      "meaning": "구별하다"
+    },
+    {
+      "day": 23,
+      "word": "soil",
+      "meaning": "토양"
+    },
+    {
+      "day": 23,
+      "word": "employee",
+      "meaning": "직원"
+    },
+    {
+      "day": 23,
+      "word": "quality",
+      "meaning": "질"
+    },
+    {
+      "day": 23,
+      "word": "objective",
+      "meaning": "객관적인"
+    },
+    {
+      "day": 23,
+      "word": "auction",
+      "meaning": "경매"
+    },
+    {
+      "day": 23,
+      "word": "social",
+      "meaning": "사회적인"
+    },
+    {
+      "day": 23,
+      "word": "quantity",
+      "meaning": "양"
+    },
+    {
+      "day": 23,
+      "word": "formation",
+      "meaning": "형성"
+    },
+    {
+      "day": 23,
+      "word": "efficiency",
+      "meaning": "효율성"
+    },
+    {
+      "day": 23,
+      "word": "necessity",
+      "meaning": "필요성"
+    },
+    {
+      "day": 23,
+      "word": "interpret",
+      "meaning": "해석하다"
+    },
+    {
+      "day": 23,
+      "word": "pitcher",
+      "meaning": "투수"
+    },
+    {
+      "day": 23,
+      "word": "outfit",
+      "meaning": "옷"
+    },
+    {
+      "day": 23,
+      "word": "sibling",
+      "meaning": "형제자매"
+    },
+    {
+      "day": 23,
+      "word": "agricultural",
+      "meaning": "농업의"
+    },
+    {
+      "day": 23,
+      "word": "antique",
+      "meaning": "골동품"
+    },
+    {
+      "day": 23,
+      "word": "dispute",
+      "meaning": "분쟁"
+    },
+    {
+      "day": 23,
+      "word": "engineering",
+      "meaning": "공학"
+    },
+    {
+      "day": 23,
+      "word": "lack",
+      "meaning": "부족"
+    },
+    {
+      "day": 23,
+      "word": "warning",
+      "meaning": "경고"
+    },
+    {
+      "day": 23,
+      "word": "essential",
+      "meaning": "필수적인"
+    },
+    {
+      "day": 23,
+      "word": "tear",
+      "meaning": "눈물"
+    },
+    {
+      "day": 23,
+      "word": "evolution",
+      "meaning": "진화"
+    },
+    {
+      "day": 23,
+      "word": "diversification",
+      "meaning": "다양화"
+    },
+    {
+      "day": 23,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 23,
+      "word": "cue",
+      "meaning": "신호"
+    },
+    {
+      "day": 23,
+      "word": "kicker",
+      "meaning": "키커"
+    },
+    {
+      "day": 23,
+      "word": "subjective",
+      "meaning": "주관적인"
+    },
+    {
+      "day": 23,
+      "word": "emergency",
+      "meaning": "긴급 상황"
+    },
+    {
+      "day": 23,
+      "word": "shed",
+      "meaning": "흘리다"
+    },
+    {
+      "day": 23,
+      "word": "distraction",
+      "meaning": "주의 산만"
+    },
+    {
+      "day": 23,
+      "word": "process",
+      "meaning": "처리하다"
+    },
+    {
+      "day": 23,
+      "word": "prohibition",
+      "meaning": "금지"
+    },
+    {
+      "day": 23,
+      "word": "fertile",
+      "meaning": "비옥한"
+    },
+    {
+      "day": 23,
+      "word": "recycle",
+      "meaning": "재활용하다"
+    },
+    {
+      "day": 23,
+      "word": "evaluate",
+      "meaning": "평가하다"
+    },
+    {
+      "day": 23,
+      "word": "status",
+      "meaning": "지위"
+    },
+    {
+      "day": 23,
+      "word": "factor",
+      "meaning": "요인"
+    },
+    {
+      "day": 23,
+      "word": "evaluation",
+      "meaning": "평가"
+    },
+    {
+      "day": 23,
+      "word": "relevant",
+      "meaning": "관련있는"
+    },
+    {
+      "day": 23,
+      "word": "importance",
+      "meaning": "중요성"
+    },
+    {
+      "day": 23,
+      "word": "reflect",
+      "meaning": "반영하다"
+    },
+    {
+      "day": 24,
+      "word": "avoid",
+      "meaning": "피하다"
+    },
+    {
+      "day": 24,
+      "word": "fundamental",
+      "meaning": "근본적인"
+    },
+    {
+      "day": 24,
+      "word": "harmonize",
+      "meaning": "조화를 이루다"
+    },
+    {
+      "day": 24,
+      "word": "coworker",
+      "meaning": "동료"
+    },
+    {
+      "day": 24,
+      "word": "appetite",
+      "meaning": "식욕"
+    },
+    {
+      "day": 24,
+      "word": "worldwide",
+      "meaning": "전세계적인"
+    },
+    {
+      "day": 24,
+      "word": "personality",
+      "meaning": "성격"
+    },
+    {
+      "day": 24,
+      "word": "put",
+      "meaning": "넣다"
+    },
+    {
+      "day": 24,
+      "word": "fondness",
+      "meaning": "애정"
+    },
+    {
+      "day": 24,
+      "word": "nature",
+      "meaning": "특성"
+    },
+    {
+      "day": 24,
+      "word": "existing",
+      "meaning": "기존의"
+    },
+    {
+      "day": 24,
+      "word": "ecologist",
+      "meaning": "생태학자"
+    },
+    {
+      "day": 24,
+      "word": "due to",
+      "meaning": "~때문에"
+    },
+    {
+      "day": 24,
+      "word": "religious",
+      "meaning": "종교적인"
+    },
+    {
+      "day": 24,
+      "word": "endless",
+      "meaning": "끝없는"
+    },
+    {
+      "day": 24,
+      "word": "disaster",
+      "meaning": "재난"
+    },
+    {
+      "day": 24,
+      "word": "partiality",
+      "meaning": "편견"
+    },
+    {
+      "day": 24,
+      "word": "immigration",
+      "meaning": "이민"
+    },
+    {
+      "day": 24,
+      "word": "inescapable",
+      "meaning": "피할 수 없는"
+    },
+    {
+      "day": 24,
+      "word": "trade",
+      "meaning": "무역"
+    },
+    {
+      "day": 24,
+      "word": "reproduction",
+      "meaning": "번식"
+    },
+    {
+      "day": 24,
+      "word": "obesity",
+      "meaning": "비만"
+    },
+    {
+      "day": 24,
+      "word": "typical",
+      "meaning": "전형적인"
+    },
+    {
+      "day": 24,
+      "word": "international",
+      "meaning": "국제적인"
+    },
+    {
+      "day": 24,
+      "word": "effective",
+      "meaning": "효과적인"
+    },
+    {
+      "day": 24,
+      "word": "excessive",
+      "meaning": "과도한"
+    },
+    {
+      "day": 24,
+      "word": "growth",
+      "meaning": "성장"
+    },
+    {
+      "day": 24,
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "day": 24,
+      "word": "fear",
+      "meaning": "두려움"
+    },
+    {
+      "day": 24,
+      "word": "unemployment",
+      "meaning": "실업"
+    },
+    {
+      "day": 24,
+      "word": "curable",
+      "meaning": "치유할 수 있는"
+    },
+    {
+      "day": 24,
+      "word": "role",
+      "meaning": "역할"
+    },
+    {
+      "day": 24,
+      "word": "base",
+      "meaning": "기반"
+    },
+    {
+      "day": 24,
+      "word": "feature",
+      "meaning": "특징"
+    },
+    {
+      "day": 24,
+      "word": "bottomless",
+      "meaning": "끝없는"
+    },
+    {
+      "day": 24,
+      "word": "freedom",
+      "meaning": "자유"
+    },
+    {
+      "day": 24,
+      "word": "environment",
+      "meaning": "환경"
+    },
+    {
+      "day": 24,
+      "word": "cause",
+      "meaning": "원인"
+    },
+    {
+      "day": 24,
+      "word": "overcome",
+      "meaning": "극복하다"
+    },
+    {
+      "day": 24,
+      "word": "belief",
+      "meaning": "믿음"
+    },
+    {
+      "day": 24,
+      "word": "advantage",
+      "meaning": "이점"
+    },
+    {
+      "day": 24,
+      "word": "nonverbal",
+      "meaning": "비언어적인"
+    },
+    {
+      "day": 24,
+      "word": "break down",
+      "meaning": "해체되다"
+    },
+    {
+      "day": 24,
+      "word": "comprehend",
+      "meaning": "이해하다"
+    },
+    {
+      "day": 24,
+      "word": "bacterial",
+      "meaning": "박테리아의"
+    },
+    {
+      "day": 24,
+      "word": "natural",
+      "meaning": "선천적인"
+    },
+    {
+      "day": 24,
+      "word": "companion",
+      "meaning": "동반자"
+    },
+    {
+      "day": 24,
+      "word": "medieval",
+      "meaning": "중세의"
+    },
+    {
+      "day": 24,
+      "word": "life",
+      "meaning": "인생"
+    },
+    {
+      "day": 24,
+      "word": "confront",
+      "meaning": "맞서다"
+    },
+    {
+      "day": 24,
+      "word": "verbal",
+      "meaning": "언어적인"
+    },
+    {
+      "day": 24,
+      "word": "confuse",
+      "meaning": "혼란스럽게 하다"
+    },
+    {
+      "day": 24,
+      "word": "comparative",
+      "meaning": "비교의"
+    },
+    {
+      "day": 24,
+      "word": "controversy",
+      "meaning": "논쟁"
+    },
+    {
+      "day": 25,
+      "word": "visual",
+      "meaning": "시각의"
+    },
+    {
+      "day": 25,
+      "word": "perception",
+      "meaning": "인식"
+    },
+    {
+      "day": 25,
+      "word": "innate",
+      "meaning": "선천적인"
+    },
+    {
+      "day": 25,
+      "word": "pride",
+      "meaning": "자부심"
+    },
+    {
+      "day": 25,
+      "word": "distinguish",
+      "meaning": "구별하다"
+    },
+    {
+      "day": 25,
+      "word": "elite",
+      "meaning": "엘리트"
+    },
+    {
+      "day": 25,
+      "word": "ordinary",
+      "meaning": "평범한"
+    },
+    {
+      "day": 25,
+      "word": "reflect",
+      "meaning": "반영하다"
+    },
+    {
+      "day": 25,
+      "word": "ethnic",
+      "meaning": "민족의"
+    },
+    {
+      "day": 25,
+      "word": "heritage",
+      "meaning": "유산"
+    },
+    {
+      "day": 25,
+      "word": "regional",
+      "meaning": "지역의"
+    },
+    {
+      "day": 25,
+      "word": "cuisine",
+      "meaning": "요리"
+    },
+    {
+      "day": 25,
+      "word": "gain",
+      "meaning": "얻다"
+    },
+    {
+      "day": 25,
+      "word": "credibility",
+      "meaning": "신뢰할 수 있는"
+    },
+    {
+      "day": 25,
+      "word": "come before",
+      "meaning": "우선하다"
+    },
+    {
+      "day": 25,
+      "word": "logical",
+      "meaning": "논리적인"
+    },
+    {
+      "day": 25,
+      "word": "persuasion",
+      "meaning": "설득"
+    },
+    {
+      "day": 25,
+      "word": "critical",
+      "meaning": "비판적인"
+    },
+    {
+      "day": 25,
+      "word": "must",
+      "meaning": "필수품"
+    },
+    {
+      "day": 25,
+      "word": "creativity",
+      "meaning": "창의성"
+    },
+    {
+      "day": 25,
+      "word": "thinking",
+      "meaning": "사고"
+    },
+    {
+      "day": 25,
+      "word": "defensive",
+      "meaning": "방어적인"
+    },
+    {
+      "day": 25,
+      "word": "pessimism",
+      "meaning": "비관주의"
+    },
+    {
+      "day": 25,
+      "word": "accuracy",
+      "meaning": "정확성"
+    },
+    {
+      "day": 25,
+      "word": "analyze",
+      "meaning": "분석하다"
+    },
+    {
+      "day": 25,
+      "word": "statistical",
+      "meaning": "통계의"
+    },
+    {
+      "day": 25,
+      "word": "definition",
+      "meaning": "정의"
+    },
+    {
+      "day": 25,
+      "word": "correct",
+      "meaning": "올바른"
+    },
+    {
+      "day": 25,
+      "word": "carry out",
+      "meaning": "수행하다"
+    },
+    {
+      "day": 25,
+      "word": "customer",
+      "meaning": "고객"
+    },
+    {
+      "day": 25,
+      "word": "survey",
+      "meaning": "설문 조사"
+    },
+    {
+      "day": 25,
+      "word": "measure",
+      "meaning": "측정하다"
+    },
+    {
+      "day": 25,
+      "word": "product",
+      "meaning": "제품"
+    },
+    {
+      "day": 25,
+      "word": "satisfaction",
+      "meaning": "만족"
+    },
+    {
+      "day": 25,
+      "word": "gender",
+      "meaning": "성"
+    },
+    {
+      "day": 25,
+      "word": "identity",
+      "meaning": "정체성"
+    },
+    {
+      "day": 25,
+      "word": "determine",
+      "meaning": "결정하다"
+    },
+    {
+      "day": 25,
+      "word": "biological",
+      "meaning": "생물학적인"
+    },
+    {
+      "day": 25,
+      "word": "limit",
+      "meaning": "제한하다"
+    },
+    {
+      "day": 25,
+      "word": "uncomfortable",
+      "meaning": "불편한"
+    },
+    {
+      "day": 25,
+      "word": "coexistence",
+      "meaning": "공존"
+    },
+    {
+      "day": 25,
+      "word": "film",
+      "meaning": "영화"
+    },
+    {
+      "day": 25,
+      "word": "international",
+      "meaning": "국제적인"
+    },
+    {
+      "day": 25,
+      "word": "negotiation",
+      "meaning": "협상"
+    },
+    {
+      "day": 25,
+      "word": "conservation",
+      "meaning": "보존"
+    },
+    {
+      "day": 25,
+      "word": "side effect",
+      "meaning": "부작용"
+    },
+    {
+      "day": 25,
+      "word": "pest",
+      "meaning": "해충"
+    },
+    {
+      "day": 25,
+      "word": "elimination",
+      "meaning": "제거"
+    },
+    {
+      "day": 25,
+      "word": "consideration",
+      "meaning": "고려 사항"
+    },
+    {
+      "day": 25,
+      "word": "provide",
+      "meaning": "제공하다"
+    },
+    {
+      "day": 25,
+      "word": "therapy",
+      "meaning": "치료"
+    },
+    {
+      "day": 25,
+      "word": "cancer",
+      "meaning": "암"
+    },
+    {
+      "day": 25,
+      "word": "patient",
+      "meaning": "환자"
+    },
+    {
+      "day": 25,
+      "word": "freedom",
+      "meaning": "자유"
+    }
+  ]
+}

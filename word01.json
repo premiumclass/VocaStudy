@@ -1,0 +1,4505 @@
+{
+  "title": "프리미엄보카 중등 기본",
+  "words": [
+    {
+      "day": 1,
+      "word": "theater",
+      "meaning": "극장"
+    },
+    {
+      "day": 1,
+      "word": "feeling",
+      "meaning": "느낌"
+    },
+    {
+      "day": 1,
+      "word": "playground",
+      "meaning": "운동장"
+    },
+    {
+      "day": 1,
+      "word": "get",
+      "meaning": "얻다"
+    },
+    {
+      "day": 1,
+      "word": "loudly",
+      "meaning": "큰 소리로"
+    },
+    {
+      "day": 1,
+      "word": "musician",
+      "meaning": "음악가"
+    },
+    {
+      "day": 1,
+      "word": "brave",
+      "meaning": "용감한"
+    },
+    {
+      "day": 1,
+      "word": "shower",
+      "meaning": "소나기"
+    },
+    {
+      "day": 1,
+      "word": "machine",
+      "meaning": "기계"
+    },
+    {
+      "day": 1,
+      "word": "dry",
+      "meaning": "마른"
+    },
+    {
+      "day": 1,
+      "word": "balloon",
+      "meaning": "풍선"
+    },
+    {
+      "day": 1,
+      "word": "shop",
+      "meaning": "가게"
+    },
+    {
+      "day": 1,
+      "word": "write",
+      "meaning": "쓰다"
+    },
+    {
+      "day": 1,
+      "word": "mop",
+      "meaning": "대걸레"
+    },
+    {
+      "day": 1,
+      "word": "some",
+      "meaning": "약간의"
+    },
+    {
+      "day": 1,
+      "word": "metal",
+      "meaning": "금속"
+    },
+    {
+      "day": 1,
+      "word": "spinach",
+      "meaning": "시금치"
+    },
+    {
+      "day": 1,
+      "word": "mall",
+      "meaning": "쇼핑센터"
+    },
+    {
+      "day": 1,
+      "word": "mushroom",
+      "meaning": "버섯"
+    },
+    {
+      "day": 1,
+      "word": "battle",
+      "meaning": "싸움"
+    },
+    {
+      "day": 2,
+      "word": "frog",
+      "meaning": "개구리"
+    },
+    {
+      "day": 2,
+      "word": "surely",
+      "meaning": "확실히"
+    },
+    {
+      "day": 2,
+      "word": "fat",
+      "meaning": "뚱뚱한"
+    },
+    {
+      "day": 2,
+      "word": "sweet",
+      "meaning": "달콤한"
+    },
+    {
+      "day": 2,
+      "word": "office",
+      "meaning": "사무실"
+    },
+    {
+      "day": 2,
+      "word": "sick",
+      "meaning": "아픈"
+    },
+    {
+      "day": 2,
+      "word": "early",
+      "meaning": "일찍"
+    },
+    {
+      "day": 2,
+      "word": "victory",
+      "meaning": "승리"
+    },
+    {
+      "day": 2,
+      "word": "slow",
+      "meaning": "느린"
+    },
+    {
+      "day": 2,
+      "word": "never",
+      "meaning": "결코 ~ 않다"
+    },
+    {
+      "day": 2,
+      "word": "arm",
+      "meaning": "팔"
+    },
+    {
+      "day": 2,
+      "word": "son",
+      "meaning": "아들"
+    },
+    {
+      "day": 2,
+      "word": "sleepy",
+      "meaning": "졸린"
+    },
+    {
+      "day": 2,
+      "word": "main",
+      "meaning": "주요한"
+    },
+    {
+      "day": 2,
+      "word": "lead",
+      "meaning": "이끌다"
+    },
+    {
+      "day": 2,
+      "word": "uncle",
+      "meaning": "삼촌"
+    },
+    {
+      "day": 2,
+      "word": "study",
+      "meaning": "공부하다"
+    },
+    {
+      "day": 2,
+      "word": "nose",
+      "meaning": "코"
+    },
+    {
+      "day": 2,
+      "word": "lake",
+      "meaning": "호수"
+    },
+    {
+      "day": 2,
+      "word": "make",
+      "meaning": "만들다"
+    },
+    {
+      "day": 3,
+      "word": "corner",
+      "meaning": "구석"
+    },
+    {
+      "day": 3,
+      "word": "baby",
+      "meaning": "아기"
+    },
+    {
+      "day": 3,
+      "word": "brush",
+      "meaning": "붓"
+    },
+    {
+      "day": 3,
+      "word": "sky",
+      "meaning": "하늘"
+    },
+    {
+      "day": 3,
+      "word": "president",
+      "meaning": "대통령"
+    },
+    {
+      "day": 3,
+      "word": "apartment",
+      "meaning": "아파트"
+    },
+    {
+      "day": 3,
+      "word": "circle",
+      "meaning": "동그라미"
+    },
+    {
+      "day": 3,
+      "word": "hot",
+      "meaning": "뜨거운"
+    },
+    {
+      "day": 3,
+      "word": "watermelon",
+      "meaning": "수박"
+    },
+    {
+      "day": 3,
+      "word": "sand",
+      "meaning": "모래"
+    },
+    {
+      "day": 3,
+      "word": "pigeon",
+      "meaning": "비둘기"
+    },
+    {
+      "day": 3,
+      "word": "park",
+      "meaning": "공원"
+    },
+    {
+      "day": 3,
+      "word": "zero",
+      "meaning": "영(0)"
+    },
+    {
+      "day": 3,
+      "word": "break",
+      "meaning": "깨뜨리다"
+    },
+    {
+      "day": 3,
+      "word": "friend",
+      "meaning": "친구"
+    },
+    {
+      "day": 3,
+      "word": "kick",
+      "meaning": "차다"
+    },
+    {
+      "day": 3,
+      "word": "ticket",
+      "meaning": "표"
+    },
+    {
+      "day": 3,
+      "word": "line",
+      "meaning": "선"
+    },
+    {
+      "day": 3,
+      "word": "school",
+      "meaning": "학교"
+    },
+    {
+      "day": 3,
+      "word": "kite",
+      "meaning": "연"
+    },
+    {
+      "day": 4,
+      "word": "mammal",
+      "meaning": "포유동물"
+    },
+    {
+      "day": 4,
+      "word": "Mars",
+      "meaning": "화성"
+    },
+    {
+      "day": 4,
+      "word": "angry",
+      "meaning": "화난"
+    },
+    {
+      "day": 4,
+      "word": "begin",
+      "meaning": "시작하다"
+    },
+    {
+      "day": 4,
+      "word": "thousand",
+      "meaning": "천(1000)"
+    },
+    {
+      "day": 4,
+      "word": "meal",
+      "meaning": "식사"
+    },
+    {
+      "day": 4,
+      "word": "drug",
+      "meaning": "약"
+    },
+    {
+      "day": 4,
+      "word": "weak",
+      "meaning": "약한"
+    },
+    {
+      "day": 4,
+      "word": "self",
+      "meaning": "자신"
+    },
+    {
+      "day": 4,
+      "word": "lazy",
+      "meaning": "게으른"
+    },
+    {
+      "day": 4,
+      "word": "give",
+      "meaning": "주다"
+    },
+    {
+      "day": 4,
+      "word": "count",
+      "meaning": "세다"
+    },
+    {
+      "day": 4,
+      "word": "wolf",
+      "meaning": "늑대"
+    },
+    {
+      "day": 4,
+      "word": "virus",
+      "meaning": "바이러스"
+    },
+    {
+      "day": 4,
+      "word": "start",
+      "meaning": "시작하다"
+    },
+    {
+      "day": 4,
+      "word": "foot",
+      "meaning": "발"
+    },
+    {
+      "day": 4,
+      "word": "ill",
+      "meaning": "병든"
+    },
+    {
+      "day": 4,
+      "word": "toilet",
+      "meaning": "변기"
+    },
+    {
+      "day": 4,
+      "word": "lizard",
+      "meaning": "도마뱀"
+    },
+    {
+      "day": 4,
+      "word": "sea",
+      "meaning": "바다"
+    },
+    {
+      "day": 5,
+      "word": "cow",
+      "meaning": "소"
+    },
+    {
+      "day": 5,
+      "word": "elder",
+      "meaning": "손위의"
+    },
+    {
+      "day": 5,
+      "word": "energy",
+      "meaning": "에너지"
+    },
+    {
+      "day": 5,
+      "word": "second",
+      "meaning": "두 번째의"
+    },
+    {
+      "day": 5,
+      "word": "thing",
+      "meaning": "물건"
+    },
+    {
+      "day": 5,
+      "word": "wide",
+      "meaning": "넓은"
+    },
+    {
+      "day": 5,
+      "word": "fast",
+      "meaning": "빠른"
+    },
+    {
+      "day": 5,
+      "word": "tourist",
+      "meaning": "관광객"
+    },
+    {
+      "day": 5,
+      "word": "rainbow",
+      "meaning": "무지개"
+    },
+    {
+      "day": 5,
+      "word": "hawk",
+      "meaning": "매"
+    },
+    {
+      "day": 5,
+      "word": "kettle",
+      "meaning": "주전자"
+    },
+    {
+      "day": 5,
+      "word": "draw",
+      "meaning": "그리다"
+    },
+    {
+      "day": 5,
+      "word": "movie",
+      "meaning": "영화"
+    },
+    {
+      "day": 5,
+      "word": "land",
+      "meaning": "땅"
+    },
+    {
+      "day": 5,
+      "word": "become",
+      "meaning": "~이 되다"
+    },
+    {
+      "day": 5,
+      "word": "catch",
+      "meaning": "잡다"
+    },
+    {
+      "day": 5,
+      "word": "dive",
+      "meaning": "잠수하다"
+    },
+    {
+      "day": 5,
+      "word": "home",
+      "meaning": "집"
+    },
+    {
+      "day": 5,
+      "word": "merry",
+      "meaning": "즐거운"
+    },
+    {
+      "day": 5,
+      "word": "alive",
+      "meaning": "살아 있는"
+    },
+    {
+      "day": 6,
+      "word": "knee",
+      "meaning": "무릎"
+    },
+    {
+      "day": 6,
+      "word": "yesterday",
+      "meaning": "어제"
+    },
+    {
+      "day": 6,
+      "word": "nurse",
+      "meaning": "간호사"
+    },
+    {
+      "day": 6,
+      "word": "bench",
+      "meaning": "긴 의자"
+    },
+    {
+      "day": 6,
+      "word": "dislike",
+      "meaning": "싫어하다"
+    },
+    {
+      "day": 6,
+      "word": "understand",
+      "meaning": "이해하다"
+    },
+    {
+      "day": 6,
+      "word": "people",
+      "meaning": "사람들"
+    },
+    {
+      "day": 6,
+      "word": "brother",
+      "meaning": "남동생"
+    },
+    {
+      "day": 6,
+      "word": "number",
+      "meaning": "숫자"
+    },
+    {
+      "day": 6,
+      "word": "month",
+      "meaning": "달"
+    },
+    {
+      "day": 6,
+      "word": "peanut",
+      "meaning": "땅콩"
+    },
+    {
+      "day": 6,
+      "word": "building",
+      "meaning": "건물"
+    },
+    {
+      "day": 6,
+      "word": "best",
+      "meaning": "최고의"
+    },
+    {
+      "day": 6,
+      "word": "cute",
+      "meaning": "귀여운"
+    },
+    {
+      "day": 6,
+      "word": "lawyer",
+      "meaning": "변호사"
+    },
+    {
+      "day": 6,
+      "word": "own",
+      "meaning": "자기 자신의"
+    },
+    {
+      "day": 6,
+      "word": "grape",
+      "meaning": "포도"
+    },
+    {
+      "day": 6,
+      "word": "inside",
+      "meaning": "안에"
+    },
+    {
+      "day": 6,
+      "word": "teacher",
+      "meaning": "선생님"
+    },
+    {
+      "day": 6,
+      "word": "god",
+      "meaning": "신"
+    },
+    {
+      "day": 7,
+      "word": "word",
+      "meaning": "단어"
+    },
+    {
+      "day": 7,
+      "word": "hike",
+      "meaning": "도보여행하다"
+    },
+    {
+      "day": 7,
+      "word": "asleep",
+      "meaning": "잠이 든"
+    },
+    {
+      "day": 7,
+      "word": "star",
+      "meaning": "별"
+    },
+    {
+      "day": 7,
+      "word": "tree",
+      "meaning": "나무"
+    },
+    {
+      "day": 7,
+      "word": "garden",
+      "meaning": "정원"
+    },
+    {
+      "day": 7,
+      "word": "ghost",
+      "meaning": "유령"
+    },
+    {
+      "day": 7,
+      "word": "special",
+      "meaning": "특별한"
+    },
+    {
+      "day": 7,
+      "word": "plant",
+      "meaning": "심다"
+    },
+    {
+      "day": 7,
+      "word": "travel",
+      "meaning": "여행하다"
+    },
+    {
+      "day": 7,
+      "word": "grass",
+      "meaning": "풀"
+    },
+    {
+      "day": 7,
+      "word": "sorry",
+      "meaning": "미안한"
+    },
+    {
+      "day": 7,
+      "word": "lovely",
+      "meaning": "사랑스러운"
+    },
+    {
+      "day": 7,
+      "word": "pair",
+      "meaning": "한 쌍"
+    },
+    {
+      "day": 7,
+      "word": "popular",
+      "meaning": "인기 있는"
+    },
+    {
+      "day": 7,
+      "word": "afraid",
+      "meaning": "두려워하는"
+    },
+    {
+      "day": 7,
+      "word": "close",
+      "meaning": "닫다"
+    },
+    {
+      "day": 7,
+      "word": "turn",
+      "meaning": "돌다"
+    },
+    {
+      "day": 7,
+      "word": "hurry",
+      "meaning": "서두르다"
+    },
+    {
+      "day": 7,
+      "word": "classroom",
+      "meaning": "교실"
+    },
+    {
+      "day": 8,
+      "word": "pattern",
+      "meaning": "무늬"
+    },
+    {
+      "day": 8,
+      "word": "locker",
+      "meaning": "사물함"
+    },
+    {
+      "day": 8,
+      "word": "melt",
+      "meaning": "녹다"
+    },
+    {
+      "day": 8,
+      "word": "memory",
+      "meaning": "기억"
+    },
+    {
+      "day": 8,
+      "word": "life",
+      "meaning": "인생"
+    },
+    {
+      "day": 8,
+      "word": "birthday",
+      "meaning": "생일"
+    },
+    {
+      "day": 8,
+      "word": "shirt",
+      "meaning": "셔츠"
+    },
+    {
+      "day": 8,
+      "word": "visit",
+      "meaning": "방문하다"
+    },
+    {
+      "day": 8,
+      "word": "camera",
+      "meaning": "사진기"
+    },
+    {
+      "day": 8,
+      "word": "daughter",
+      "meaning": "딸"
+    },
+    {
+      "day": 8,
+      "word": "heaven",
+      "meaning": "천국"
+    },
+    {
+      "day": 8,
+      "word": "breakfast",
+      "meaning": "아침 식사"
+    },
+    {
+      "day": 8,
+      "word": "midnight",
+      "meaning": "한밤중"
+    },
+    {
+      "day": 8,
+      "word": "now",
+      "meaning": "지금"
+    },
+    {
+      "day": 8,
+      "word": "quiet",
+      "meaning": "조용한"
+    },
+    {
+      "day": 8,
+      "word": "lettuce",
+      "meaning": "상추"
+    },
+    {
+      "day": 8,
+      "word": "desk",
+      "meaning": "책상"
+    },
+    {
+      "day": 8,
+      "word": "hero",
+      "meaning": "영웅"
+    },
+    {
+      "day": 8,
+      "word": "earth",
+      "meaning": "지구"
+    },
+    {
+      "day": 8,
+      "word": "picnic",
+      "meaning": "소풍"
+    },
+    {
+      "day": 9,
+      "word": "player",
+      "meaning": "선수"
+    },
+    {
+      "day": 9,
+      "word": "windy",
+      "meaning": "바람이 부는"
+    },
+    {
+      "day": 9,
+      "word": "student",
+      "meaning": "학생"
+    },
+    {
+      "day": 9,
+      "word": "guess",
+      "meaning": "추측하다"
+    },
+    {
+      "day": 9,
+      "word": "actor",
+      "meaning": "남자 배우"
+    },
+    {
+      "day": 9,
+      "word": "tell",
+      "meaning": "말하다"
+    },
+    {
+      "day": 9,
+      "word": "road",
+      "meaning": "길"
+    },
+    {
+      "day": 9,
+      "word": "liquid",
+      "meaning": "액체"
+    },
+    {
+      "day": 9,
+      "word": "oil",
+      "meaning": "기름"
+    },
+    {
+      "day": 9,
+      "word": "read",
+      "meaning": "읽다"
+    },
+    {
+      "day": 9,
+      "word": "family",
+      "meaning": "가족"
+    },
+    {
+      "day": 9,
+      "word": "boat",
+      "meaning": "배(탈 것)"
+    },
+    {
+      "day": 9,
+      "word": "band",
+      "meaning": "악단"
+    },
+    {
+      "day": 9,
+      "word": "success",
+      "meaning": "성공"
+    },
+    {
+      "day": 9,
+      "word": "pear",
+      "meaning": "배(과일)"
+    },
+    {
+      "day": 9,
+      "word": "stone",
+      "meaning": "돌"
+    },
+    {
+      "day": 9,
+      "word": "mouth",
+      "meaning": "입"
+    },
+    {
+      "day": 9,
+      "word": "print",
+      "meaning": "인쇄하다"
+    },
+    {
+      "day": 9,
+      "word": "unkind",
+      "meaning": "불친절한"
+    },
+    {
+      "day": 9,
+      "word": "next",
+      "meaning": "다음의"
+    },
+    {
+      "day": 10,
+      "word": "powder",
+      "meaning": "가루"
+    },
+    {
+      "day": 10,
+      "word": "cellphone",
+      "meaning": "휴대전화"
+    },
+    {
+      "day": 10,
+      "word": "bedroom",
+      "meaning": "침실"
+    },
+    {
+      "day": 10,
+      "word": "exciting",
+      "meaning": "신나는"
+    },
+    {
+      "day": 10,
+      "word": "cash",
+      "meaning": "현금"
+    },
+    {
+      "day": 10,
+      "word": "welcome",
+      "meaning": "환영하다"
+    },
+    {
+      "day": 10,
+      "word": "actress",
+      "meaning": "여자 배우"
+    },
+    {
+      "day": 10,
+      "word": "job",
+      "meaning": "직업"
+    },
+    {
+      "day": 10,
+      "word": "rock",
+      "meaning": "바위"
+    },
+    {
+      "day": 10,
+      "word": "poor",
+      "meaning": "가난한"
+    },
+    {
+      "day": 10,
+      "word": "level",
+      "meaning": "수준"
+    },
+    {
+      "day": 10,
+      "word": "cloudy",
+      "meaning": "구름 낀"
+    },
+    {
+      "day": 10,
+      "word": "shoe",
+      "meaning": "신발"
+    },
+    {
+      "day": 10,
+      "word": "pocket",
+      "meaning": "주머니"
+    },
+    {
+      "day": 10,
+      "word": "military",
+      "meaning": "군대"
+    },
+    {
+      "day": 10,
+      "word": "pants",
+      "meaning": "바지"
+    },
+    {
+      "day": 10,
+      "word": "person",
+      "meaning": "사람"
+    },
+    {
+      "day": 10,
+      "word": "sandals",
+      "meaning": "샌들"
+    },
+    {
+      "day": 10,
+      "word": "bridge",
+      "meaning": "다리"
+    },
+    {
+      "day": 10,
+      "word": "year",
+      "meaning": "1년"
+    },
+    {
+      "day": 11,
+      "word": "ready",
+      "meaning": "준비된"
+    },
+    {
+      "day": 11,
+      "word": "final",
+      "meaning": "마지막의"
+    },
+    {
+      "day": 11,
+      "word": "pull",
+      "meaning": "당기다"
+    },
+    {
+      "day": 11,
+      "word": "quiz",
+      "meaning": "간단한 시험"
+    },
+    {
+      "day": 11,
+      "word": "elementary",
+      "meaning": "초등의"
+    },
+    {
+      "day": 11,
+      "word": "on",
+      "meaning": "~ 위에"
+    },
+    {
+      "day": 11,
+      "word": "campfire",
+      "meaning": "모닥불"
+    },
+    {
+      "day": 11,
+      "word": "peace",
+      "meaning": "평화"
+    },
+    {
+      "day": 11,
+      "word": "hut",
+      "meaning": "오두막"
+    },
+    {
+      "day": 11,
+      "word": "jump",
+      "meaning": "뛰다"
+    },
+    {
+      "day": 11,
+      "word": "lip",
+      "meaning": "입술"
+    },
+    {
+      "day": 11,
+      "word": "magnet",
+      "meaning": "자석"
+    },
+    {
+      "day": 11,
+      "word": "king",
+      "meaning": "왕"
+    },
+    {
+      "day": 11,
+      "word": "sale",
+      "meaning": "판매"
+    },
+    {
+      "day": 11,
+      "word": "find",
+      "meaning": "찾다"
+    },
+    {
+      "day": 11,
+      "word": "partner",
+      "meaning": "짝"
+    },
+    {
+      "day": 11,
+      "word": "beef",
+      "meaning": "소고기"
+    },
+    {
+      "day": 11,
+      "word": "bright",
+      "meaning": "밝은"
+    },
+    {
+      "day": 11,
+      "word": "tomorrow",
+      "meaning": "내일"
+    },
+    {
+      "day": 11,
+      "word": "noon",
+      "meaning": "정오"
+    },
+    {
+      "day": 12,
+      "word": "all",
+      "meaning": "모든"
+    },
+    {
+      "day": 12,
+      "word": "mouse",
+      "meaning": "쥐"
+    },
+    {
+      "day": 12,
+      "word": "mix",
+      "meaning": "섞다"
+    },
+    {
+      "day": 12,
+      "word": "hug",
+      "meaning": "껴안다"
+    },
+    {
+      "day": 12,
+      "word": "advise",
+      "meaning": "충고하다"
+    },
+    {
+      "day": 12,
+      "word": "boy",
+      "meaning": "소년"
+    },
+    {
+      "day": 12,
+      "word": "lamp",
+      "meaning": "전등"
+    },
+    {
+      "day": 12,
+      "word": "ball",
+      "meaning": "공"
+    },
+    {
+      "day": 12,
+      "word": "fork",
+      "meaning": "포크"
+    },
+    {
+      "day": 12,
+      "word": "wood",
+      "meaning": "나무"
+    },
+    {
+      "day": 12,
+      "word": "today",
+      "meaning": "오늘"
+    },
+    {
+      "day": 12,
+      "word": "humorous",
+      "meaning": "재미있는"
+    },
+    {
+      "day": 12,
+      "word": "blond",
+      "meaning": "금발의"
+    },
+    {
+      "day": 12,
+      "word": "north",
+      "meaning": "북쪽"
+    },
+    {
+      "day": 12,
+      "word": "puppy",
+      "meaning": "강아지"
+    },
+    {
+      "day": 12,
+      "word": "pleased",
+      "meaning": "기쁜"
+    },
+    {
+      "day": 12,
+      "word": "lose",
+      "meaning": "지다"
+    },
+    {
+      "day": 12,
+      "word": "glasses",
+      "meaning": "안경"
+    },
+    {
+      "day": 12,
+      "word": "miserable",
+      "meaning": "비참한"
+    },
+    {
+      "day": 12,
+      "word": "add",
+      "meaning": "더하다"
+    },
+    {
+      "day": 13,
+      "word": "busy",
+      "meaning": "바쁜"
+    },
+    {
+      "day": 13,
+      "word": "many",
+      "meaning": "많은"
+    },
+    {
+      "day": 13,
+      "word": "art",
+      "meaning": "예술"
+    },
+    {
+      "day": 13,
+      "word": "mostly",
+      "meaning": "대부분"
+    },
+    {
+      "day": 13,
+      "word": "win",
+      "meaning": "이기다"
+    },
+    {
+      "day": 13,
+      "word": "neck",
+      "meaning": "목"
+    },
+    {
+      "day": 13,
+      "word": "angel",
+      "meaning": "천사"
+    },
+    {
+      "day": 13,
+      "word": "zoo",
+      "meaning": "동물원"
+    },
+    {
+      "day": 13,
+      "word": "small",
+      "meaning": "작은"
+    },
+    {
+      "day": 13,
+      "word": "butterfly",
+      "meaning": "나비"
+    },
+    {
+      "day": 13,
+      "word": "anger",
+      "meaning": "화"
+    },
+    {
+      "day": 13,
+      "word": "housework",
+      "meaning": "집안일"
+    },
+    {
+      "day": 13,
+      "word": "late",
+      "meaning": "늦은"
+    },
+    {
+      "day": 13,
+      "word": "traffic",
+      "meaning": "교통"
+    },
+    {
+      "day": 13,
+      "word": "thin",
+      "meaning": "얇은"
+    },
+    {
+      "day": 13,
+      "word": "more",
+      "meaning": "더 많은"
+    },
+    {
+      "day": 13,
+      "word": "like",
+      "meaning": "좋아하다"
+    },
+    {
+      "day": 13,
+      "word": "blackboard",
+      "meaning": "칠판"
+    },
+    {
+      "day": 13,
+      "word": "globe",
+      "meaning": "지구"
+    },
+    {
+      "day": 13,
+      "word": "glad",
+      "meaning": "기쁜"
+    },
+    {
+      "day": 14,
+      "word": "want",
+      "meaning": "원하다"
+    },
+    {
+      "day": 14,
+      "word": "future",
+      "meaning": "미래"
+    },
+    {
+      "day": 14,
+      "word": "bull",
+      "meaning": "황소"
+    },
+    {
+      "day": 14,
+      "word": "age",
+      "meaning": "나이"
+    },
+    {
+      "day": 14,
+      "word": "childhood",
+      "meaning": "어린 시절"
+    },
+    {
+      "day": 14,
+      "word": "miss",
+      "meaning": "놓치다"
+    },
+    {
+      "day": 14,
+      "word": "bread",
+      "meaning": "빵"
+    },
+    {
+      "day": 14,
+      "word": "run",
+      "meaning": "달리다"
+    },
+    {
+      "day": 14,
+      "word": "look",
+      "meaning": "보다"
+    },
+    {
+      "day": 14,
+      "word": "bowl",
+      "meaning": "사발"
+    },
+    {
+      "day": 14,
+      "word": "sauce",
+      "meaning": "양념"
+    },
+    {
+      "day": 14,
+      "word": "gentle",
+      "meaning": "온화한"
+    },
+    {
+      "day": 14,
+      "word": "able",
+      "meaning": "~할 수 있는"
+    },
+    {
+      "day": 14,
+      "word": "middle",
+      "meaning": "가운데"
+    },
+    {
+      "day": 14,
+      "word": "act",
+      "meaning": "행동하다"
+    },
+    {
+      "day": 14,
+      "word": "meet",
+      "meaning": "만나다"
+    },
+    {
+      "day": 14,
+      "word": "pet",
+      "meaning": "애완동물"
+    },
+    {
+      "day": 14,
+      "word": "grow",
+      "meaning": "성장하다"
+    },
+    {
+      "day": 14,
+      "word": "week",
+      "meaning": "일주일"
+    },
+    {
+      "day": 14,
+      "word": "shoulder",
+      "meaning": "어깨"
+    },
+    {
+      "day": 15,
+      "word": "goose",
+      "meaning": "거위"
+    },
+    {
+      "day": 15,
+      "word": "fog",
+      "meaning": "안개"
+    },
+    {
+      "day": 15,
+      "word": "cool",
+      "meaning": "시원한"
+    },
+    {
+      "day": 15,
+      "word": "west",
+      "meaning": "서쪽"
+    },
+    {
+      "day": 15,
+      "word": "parade",
+      "meaning": "행진"
+    },
+    {
+      "day": 15,
+      "word": "smile",
+      "meaning": "미소 짓다"
+    },
+    {
+      "day": 15,
+      "word": "map",
+      "meaning": "지도"
+    },
+    {
+      "day": 15,
+      "word": "blind",
+      "meaning": "눈먼"
+    },
+    {
+      "day": 15,
+      "word": "rope",
+      "meaning": "밧줄"
+    },
+    {
+      "day": 15,
+      "word": "restaurant",
+      "meaning": "음식점"
+    },
+    {
+      "day": 15,
+      "word": "loud",
+      "meaning": "소리가 큰"
+    },
+    {
+      "day": 15,
+      "word": "already",
+      "meaning": "이미"
+    },
+    {
+      "day": 15,
+      "word": "lawn",
+      "meaning": "잔디"
+    },
+    {
+      "day": 15,
+      "word": "guest",
+      "meaning": "손님"
+    },
+    {
+      "day": 15,
+      "word": "last",
+      "meaning": "마지막의"
+    },
+    {
+      "day": 15,
+      "word": "laugh",
+      "meaning": "웃다"
+    },
+    {
+      "day": 15,
+      "word": "about",
+      "meaning": "~에 대하여"
+    },
+    {
+      "day": 15,
+      "word": "there",
+      "meaning": "그곳에"
+    },
+    {
+      "day": 15,
+      "word": "free",
+      "meaning": "자유로운"
+    },
+    {
+      "day": 15,
+      "word": "simple",
+      "meaning": "간단한"
+    },
+    {
+      "day": 16,
+      "word": "later",
+      "meaning": "나중에"
+    },
+    {
+      "day": 16,
+      "word": "stand",
+      "meaning": "서다"
+    },
+    {
+      "day": 16,
+      "word": "bookstore",
+      "meaning": "서점"
+    },
+    {
+      "day": 16,
+      "word": "table",
+      "meaning": "탁자"
+    },
+    {
+      "day": 16,
+      "word": "song",
+      "meaning": "노래"
+    },
+    {
+      "day": 16,
+      "word": "winter",
+      "meaning": "겨울"
+    },
+    {
+      "day": 16,
+      "word": "summer",
+      "meaning": "여름"
+    },
+    {
+      "day": 16,
+      "word": "always",
+      "meaning": "항상"
+    },
+    {
+      "day": 16,
+      "word": "storybook",
+      "meaning": "이야기책"
+    },
+    {
+      "day": 16,
+      "word": "mother",
+      "meaning": "엄마"
+    },
+    {
+      "day": 16,
+      "word": "right",
+      "meaning": "오른쪽의"
+    },
+    {
+      "day": 16,
+      "word": "dolphin",
+      "meaning": "돌고래"
+    },
+    {
+      "day": 16,
+      "word": "love",
+      "meaning": "사랑하다"
+    },
+    {
+      "day": 16,
+      "word": "hard",
+      "meaning": "열심히"
+    },
+    {
+      "day": 16,
+      "word": "helpful",
+      "meaning": "도움이 되는"
+    },
+    {
+      "day": 16,
+      "word": "swim",
+      "meaning": "수영하다"
+    },
+    {
+      "day": 16,
+      "word": "champion",
+      "meaning": "우승자"
+    },
+    {
+      "day": 16,
+      "word": "librarian",
+      "meaning": "사서"
+    },
+    {
+      "day": 16,
+      "word": "snake",
+      "meaning": "뱀"
+    },
+    {
+      "day": 16,
+      "word": "eraser",
+      "meaning": "지우개"
+    },
+    {
+      "day": 17,
+      "word": "hall",
+      "meaning": "복도"
+    },
+    {
+      "day": 17,
+      "word": "actual",
+      "meaning": "실제의"
+    },
+    {
+      "day": 17,
+      "word": "rich",
+      "meaning": "부유한"
+    },
+    {
+      "day": 17,
+      "word": "mean",
+      "meaning": "의미하다"
+    },
+    {
+      "day": 17,
+      "word": "wooden",
+      "meaning": "나무로 된"
+    },
+    {
+      "day": 17,
+      "word": "ruler",
+      "meaning": "자"
+    },
+    {
+      "day": 17,
+      "word": "father",
+      "meaning": "아빠"
+    },
+    {
+      "day": 17,
+      "word": "guide",
+      "meaning": "안내하다"
+    },
+    {
+      "day": 17,
+      "word": "worm",
+      "meaning": "벌레"
+    },
+    {
+      "day": 17,
+      "word": "owner",
+      "meaning": "소유자"
+    },
+    {
+      "day": 17,
+      "word": "lucky",
+      "meaning": "운이 좋은"
+    },
+    {
+      "day": 17,
+      "word": "think",
+      "meaning": "생각하다"
+    },
+    {
+      "day": 17,
+      "word": "chair",
+      "meaning": "의자"
+    },
+    {
+      "day": 17,
+      "word": "lonely",
+      "meaning": "외로운"
+    },
+    {
+      "day": 17,
+      "word": "set",
+      "meaning": "놓다"
+    },
+    {
+      "day": 17,
+      "word": "monster",
+      "meaning": "괴물"
+    },
+    {
+      "day": 17,
+      "word": "then",
+      "meaning": "그때"
+    },
+    {
+      "day": 17,
+      "word": "notebook",
+      "meaning": "공책"
+    },
+    {
+      "day": 17,
+      "word": "say",
+      "meaning": "말하다"
+    },
+    {
+      "day": 17,
+      "word": "basket",
+      "meaning": "바구니"
+    },
+    {
+      "day": 18,
+      "word": "ocean",
+      "meaning": "대양"
+    },
+    {
+      "day": 18,
+      "word": "laundry",
+      "meaning": "세탁물"
+    },
+    {
+      "day": 18,
+      "word": "pot",
+      "meaning": "냄비"
+    },
+    {
+      "day": 18,
+      "word": "belt",
+      "meaning": "허리띠"
+    },
+    {
+      "day": 18,
+      "word": "half",
+      "meaning": "절반"
+    },
+    {
+      "day": 18,
+      "word": "color",
+      "meaning": "색깔"
+    },
+    {
+      "day": 18,
+      "word": "soccer",
+      "meaning": "축구"
+    },
+    {
+      "day": 18,
+      "word": "scissors",
+      "meaning": "가위"
+    },
+    {
+      "day": 18,
+      "word": "inn",
+      "meaning": "여관"
+    },
+    {
+      "day": 18,
+      "word": "basketball",
+      "meaning": "농구"
+    },
+    {
+      "day": 18,
+      "word": "price",
+      "meaning": "가격"
+    },
+    {
+      "day": 18,
+      "word": "soon",
+      "meaning": "곧"
+    },
+    {
+      "day": 18,
+      "word": "camping",
+      "meaning": "야영"
+    },
+    {
+      "day": 18,
+      "word": "above",
+      "meaning": "위에"
+    },
+    {
+      "day": 18,
+      "word": "uptown",
+      "meaning": "주택가"
+    },
+    {
+      "day": 18,
+      "word": "everyday",
+      "meaning": "일상적인"
+    },
+    {
+      "day": 18,
+      "word": "mental",
+      "meaning": "정신의"
+    },
+    {
+      "day": 18,
+      "word": "dentist",
+      "meaning": "치과의사"
+    },
+    {
+      "day": 18,
+      "word": "try",
+      "meaning": "노력하다"
+    },
+    {
+      "day": 18,
+      "word": "paper",
+      "meaning": "종이"
+    },
+    {
+      "day": 19,
+      "word": "toy",
+      "meaning": "장난감"
+    },
+    {
+      "day": 19,
+      "word": "bee",
+      "meaning": "벌"
+    },
+    {
+      "day": 19,
+      "word": "roof",
+      "meaning": "지붕"
+    },
+    {
+      "day": 19,
+      "word": "dirty",
+      "meaning": "더러운"
+    },
+    {
+      "day": 19,
+      "word": "grandmother",
+      "meaning": "할머니"
+    },
+    {
+      "day": 19,
+      "word": "parent",
+      "meaning": "부모님"
+    },
+    {
+      "day": 19,
+      "word": "exactly",
+      "meaning": "정확하게"
+    },
+    {
+      "day": 19,
+      "word": "sparrow",
+      "meaning": "참새"
+    },
+    {
+      "day": 19,
+      "word": "tiger",
+      "meaning": "호랑이"
+    },
+    {
+      "day": 19,
+      "word": "pepper",
+      "meaning": "후추"
+    },
+    {
+      "day": 19,
+      "word": "option",
+      "meaning": "선택"
+    },
+    {
+      "day": 19,
+      "word": "forest",
+      "meaning": "숲"
+    },
+    {
+      "day": 19,
+      "word": "bag",
+      "meaning": "가방"
+    },
+    {
+      "day": 19,
+      "word": "far",
+      "meaning": "멀리"
+    },
+    {
+      "day": 19,
+      "word": "strong",
+      "meaning": "강한"
+    },
+    {
+      "day": 19,
+      "word": "send",
+      "meaning": "보내다"
+    },
+    {
+      "day": 19,
+      "word": "fire",
+      "meaning": "불"
+    },
+    {
+      "day": 19,
+      "word": "window",
+      "meaning": "창문"
+    },
+    {
+      "day": 19,
+      "word": "event",
+      "meaning": "사건"
+    },
+    {
+      "day": 19,
+      "word": "cheap",
+      "meaning": "싼"
+    },
+    {
+      "day": 20,
+      "word": "problem",
+      "meaning": "문제"
+    },
+    {
+      "day": 20,
+      "word": "cheek",
+      "meaning": "볼"
+    },
+    {
+      "day": 20,
+      "word": "marry",
+      "meaning": "결혼하다"
+    },
+    {
+      "day": 20,
+      "word": "stupid",
+      "meaning": "어리석은"
+    },
+    {
+      "day": 20,
+      "word": "young",
+      "meaning": "젊은"
+    },
+    {
+      "day": 20,
+      "word": "safe",
+      "meaning": "안전한"
+    },
+    {
+      "day": 20,
+      "word": "wash",
+      "meaning": "씻다"
+    },
+    {
+      "day": 20,
+      "word": "hungry",
+      "meaning": "배고픈"
+    },
+    {
+      "day": 20,
+      "word": "because",
+      "meaning": "~하기 때문에"
+    },
+    {
+      "day": 20,
+      "word": "group",
+      "meaning": "무리"
+    },
+    {
+      "day": 20,
+      "word": "unhappy",
+      "meaning": "불행한"
+    },
+    {
+      "day": 20,
+      "word": "finish",
+      "meaning": "끝내다"
+    },
+    {
+      "day": 20,
+      "word": "weekly",
+      "meaning": "매주의"
+    },
+    {
+      "day": 20,
+      "word": "fight",
+      "meaning": "싸우다"
+    },
+    {
+      "day": 20,
+      "word": "towel",
+      "meaning": "수건"
+    },
+    {
+      "day": 20,
+      "word": "useful",
+      "meaning": "유용한"
+    },
+    {
+      "day": 20,
+      "word": "wife",
+      "meaning": "아내"
+    },
+    {
+      "day": 20,
+      "word": "before",
+      "meaning": "~ 전에"
+    },
+    {
+      "day": 20,
+      "word": "usually",
+      "meaning": "보통"
+    },
+    {
+      "day": 20,
+      "word": "together",
+      "meaning": "함께"
+    },
+    {
+      "day": 21,
+      "word": "model",
+      "meaning": "모형"
+    },
+    {
+      "day": 21,
+      "word": "umbrella",
+      "meaning": "우산"
+    },
+    {
+      "day": 21,
+      "word": "sun",
+      "meaning": "태양"
+    },
+    {
+      "day": 21,
+      "word": "onion",
+      "meaning": "양파"
+    },
+    {
+      "day": 21,
+      "word": "left",
+      "meaning": "왼쪽의"
+    },
+    {
+      "day": 21,
+      "word": "curious",
+      "meaning": "호기심이 많은"
+    },
+    {
+      "day": 21,
+      "word": "village",
+      "meaning": "마을"
+    },
+    {
+      "day": 21,
+      "word": "pumpkin",
+      "meaning": "호박"
+    },
+    {
+      "day": 21,
+      "word": "stove",
+      "meaning": "난로"
+    },
+    {
+      "day": 21,
+      "word": "finger",
+      "meaning": "손가락"
+    },
+    {
+      "day": 21,
+      "word": "wallet",
+      "meaning": "지갑"
+    },
+    {
+      "day": 21,
+      "word": "date",
+      "meaning": "날짜"
+    },
+    {
+      "day": 21,
+      "word": "autumn",
+      "meaning": "가을"
+    },
+    {
+      "day": 21,
+      "word": "thirsty",
+      "meaning": "목이 마른"
+    },
+    {
+      "day": 21,
+      "word": "gallery",
+      "meaning": "미술관"
+    },
+    {
+      "day": 21,
+      "word": "play",
+      "meaning": "놀다"
+    },
+    {
+      "day": 21,
+      "word": "front",
+      "meaning": "앞의"
+    },
+    {
+      "day": 21,
+      "word": "size",
+      "meaning": "크기"
+    },
+    {
+      "day": 21,
+      "word": "heat",
+      "meaning": "열"
+    },
+    {
+      "day": 21,
+      "word": "aloud",
+      "meaning": "큰 소리로"
+    },
+    {
+      "day": 22,
+      "word": "major",
+      "meaning": "주요한"
+    },
+    {
+      "day": 22,
+      "word": "quick",
+      "meaning": "빠른"
+    },
+    {
+      "day": 22,
+      "word": "same",
+      "meaning": "같은"
+    },
+    {
+      "day": 22,
+      "word": "goat",
+      "meaning": "염소"
+    },
+    {
+      "day": 22,
+      "word": "sunlight",
+      "meaning": "햇빛"
+    },
+    {
+      "day": 22,
+      "word": "fact",
+      "meaning": "사실"
+    },
+    {
+      "day": 22,
+      "word": "boil",
+      "meaning": "끓이다"
+    },
+    {
+      "day": 22,
+      "word": "history",
+      "meaning": "역사"
+    },
+    {
+      "day": 22,
+      "word": "hole",
+      "meaning": "구멍"
+    },
+    {
+      "day": 22,
+      "word": "concert",
+      "meaning": "연주회"
+    },
+    {
+      "day": 22,
+      "word": "gray",
+      "meaning": "회색"
+    },
+    {
+      "day": 22,
+      "word": "iron",
+      "meaning": "철"
+    },
+    {
+      "day": 22,
+      "word": "fourth",
+      "meaning": "네 번째의"
+    },
+    {
+      "day": 22,
+      "word": "area",
+      "meaning": "지역"
+    },
+    {
+      "day": 22,
+      "word": "jeans",
+      "meaning": "청바지"
+    },
+    {
+      "day": 22,
+      "word": "class",
+      "meaning": "학급"
+    },
+    {
+      "day": 22,
+      "word": "stop",
+      "meaning": "멈추다"
+    },
+    {
+      "day": 22,
+      "word": "sketch",
+      "meaning": "밑그림"
+    },
+    {
+      "day": 22,
+      "word": "stamp",
+      "meaning": "도장"
+    },
+    {
+      "day": 22,
+      "word": "wet",
+      "meaning": "젖은"
+    },
+    {
+      "day": 23,
+      "word": "mat",
+      "meaning": "매트"
+    },
+    {
+      "day": 23,
+      "word": "noodle",
+      "meaning": "국수"
+    },
+    {
+      "day": 23,
+      "word": "menu",
+      "meaning": "식단표"
+    },
+    {
+      "day": 23,
+      "word": "cent",
+      "meaning": "1센트"
+    },
+    {
+      "day": 23,
+      "word": "island",
+      "meaning": "섬"
+    },
+    {
+      "day": 23,
+      "word": "blanket",
+      "meaning": "담요"
+    },
+    {
+      "day": 23,
+      "word": "photo",
+      "meaning": "사진"
+    },
+    {
+      "day": 23,
+      "word": "abroad",
+      "meaning": "해외로"
+    },
+    {
+      "day": 23,
+      "word": "nickname",
+      "meaning": "별명"
+    },
+    {
+      "day": 23,
+      "word": "gas",
+      "meaning": "기체"
+    },
+    {
+      "day": 23,
+      "word": "bored",
+      "meaning": "지루한"
+    },
+    {
+      "day": 23,
+      "word": "husband",
+      "meaning": "남편"
+    },
+    {
+      "day": 23,
+      "word": "dance",
+      "meaning": "춤"
+    },
+    {
+      "day": 23,
+      "word": "fruit",
+      "meaning": "열매"
+    },
+    {
+      "day": 23,
+      "word": "stair",
+      "meaning": "계단"
+    },
+    {
+      "day": 23,
+      "word": "fresh",
+      "meaning": "신선한"
+    },
+    {
+      "day": 23,
+      "word": "calendar",
+      "meaning": "달력"
+    },
+    {
+      "day": 23,
+      "word": "throat",
+      "meaning": "목구멍"
+    },
+    {
+      "day": 23,
+      "word": "aircraft",
+      "meaning": "항공기"
+    },
+    {
+      "day": 23,
+      "word": "leather",
+      "meaning": "가죽"
+    },
+    {
+      "day": 24,
+      "word": "hobby",
+      "meaning": "취미"
+    },
+    {
+      "day": 24,
+      "word": "also",
+      "meaning": "또한"
+    },
+    {
+      "day": 24,
+      "word": "fun",
+      "meaning": "재미있는"
+    },
+    {
+      "day": 24,
+      "word": "sheep",
+      "meaning": "양"
+    },
+    {
+      "day": 24,
+      "word": "hat",
+      "meaning": "모자"
+    },
+    {
+      "day": 24,
+      "word": "monkey",
+      "meaning": "원숭이"
+    },
+    {
+      "day": 24,
+      "word": "sing",
+      "meaning": "노래하다"
+    },
+    {
+      "day": 24,
+      "word": "thick",
+      "meaning": "두꺼운"
+    },
+    {
+      "day": 24,
+      "word": "doctor",
+      "meaning": "의사"
+    },
+    {
+      "day": 24,
+      "word": "hear",
+      "meaning": "듣다"
+    },
+    {
+      "day": 24,
+      "word": "way",
+      "meaning": "길"
+    },
+    {
+      "day": 24,
+      "word": "cough",
+      "meaning": "기침하다"
+    },
+    {
+      "day": 24,
+      "word": "pan",
+      "meaning": "납작한 냄비"
+    },
+    {
+      "day": 24,
+      "word": "farm",
+      "meaning": "농장"
+    },
+    {
+      "day": 24,
+      "word": "snow",
+      "meaning": "눈"
+    },
+    {
+      "day": 24,
+      "word": "train",
+      "meaning": "기차"
+    },
+    {
+      "day": 24,
+      "word": "youth",
+      "meaning": "청년"
+    },
+    {
+      "day": 24,
+      "word": "tail",
+      "meaning": "꼬리"
+    },
+    {
+      "day": 24,
+      "word": "important",
+      "meaning": "중요한"
+    },
+    {
+      "day": 24,
+      "word": "east",
+      "meaning": "동쪽"
+    },
+    {
+      "day": 25,
+      "word": "learn",
+      "meaning": "배우다"
+    },
+    {
+      "day": 25,
+      "word": "strange",
+      "meaning": "이상한"
+    },
+    {
+      "day": 25,
+      "word": "pick",
+      "meaning": "고르다"
+    },
+    {
+      "day": 25,
+      "word": "cart",
+      "meaning": "손수레"
+    },
+    {
+      "day": 25,
+      "word": "seesaw",
+      "meaning": "시소"
+    },
+    {
+      "day": 25,
+      "word": "return",
+      "meaning": "돌아오다"
+    },
+    {
+      "day": 25,
+      "word": "noise",
+      "meaning": "소음"
+    },
+    {
+      "day": 25,
+      "word": "shark",
+      "meaning": "상어"
+    },
+    {
+      "day": 25,
+      "word": "funny",
+      "meaning": "재미있는"
+    },
+    {
+      "day": 25,
+      "word": "under",
+      "meaning": "~ 아래에"
+    },
+    {
+      "day": 25,
+      "word": "chalk",
+      "meaning": "분필"
+    },
+    {
+      "day": 25,
+      "word": "ant",
+      "meaning": "개미"
+    },
+    {
+      "day": 25,
+      "word": "great",
+      "meaning": "훌륭한"
+    },
+    {
+      "day": 25,
+      "word": "another",
+      "meaning": "다른 하나의"
+    },
+    {
+      "day": 25,
+      "word": "end",
+      "meaning": "끝"
+    },
+    {
+      "day": 25,
+      "word": "long",
+      "meaning": "긴"
+    },
+    {
+      "day": 25,
+      "word": "nice",
+      "meaning": "좋은"
+    },
+    {
+      "day": 25,
+      "word": "moon",
+      "meaning": "달"
+    },
+    {
+      "day": 25,
+      "word": "smell",
+      "meaning": "냄새를 맡다"
+    },
+    {
+      "day": 25,
+      "word": "sleep",
+      "meaning": "자다"
+    },
+    {
+      "day": 26,
+      "word": "ear",
+      "meaning": "귀"
+    },
+    {
+      "day": 26,
+      "word": "garlic",
+      "meaning": "마늘"
+    },
+    {
+      "day": 26,
+      "word": "enjoy",
+      "meaning": "즐기다"
+    },
+    {
+      "day": 26,
+      "word": "doll",
+      "meaning": "인형"
+    },
+    {
+      "day": 26,
+      "word": "mountain",
+      "meaning": "산"
+    },
+    {
+      "day": 26,
+      "word": "princess",
+      "meaning": "공주"
+    },
+    {
+      "day": 26,
+      "word": "kindergarten",
+      "meaning": "유치원"
+    },
+    {
+      "day": 26,
+      "word": "fall",
+      "meaning": "떨어지다"
+    },
+    {
+      "day": 26,
+      "word": "shout",
+      "meaning": "소리치다"
+    },
+    {
+      "day": 26,
+      "word": "wait",
+      "meaning": "기다리다"
+    },
+    {
+      "day": 26,
+      "word": "different",
+      "meaning": "다른"
+    },
+    {
+      "day": 26,
+      "word": "low",
+      "meaning": "낮은"
+    },
+    {
+      "day": 26,
+      "word": "snowman",
+      "meaning": "눈사람"
+    },
+    {
+      "day": 26,
+      "word": "bank",
+      "meaning": "은행"
+    },
+    {
+      "day": 26,
+      "word": "pool",
+      "meaning": "수영장"
+    },
+    {
+      "day": 26,
+      "word": "beauty",
+      "meaning": "아름다움"
+    },
+    {
+      "day": 26,
+      "word": "handsome",
+      "meaning": "잘생긴"
+    },
+    {
+      "day": 26,
+      "word": "do",
+      "meaning": "하다"
+    },
+    {
+      "day": 26,
+      "word": "pea",
+      "meaning": "완두콩"
+    },
+    {
+      "day": 26,
+      "word": "salt",
+      "meaning": "소금"
+    },
+    {
+      "day": 27,
+      "word": "rice",
+      "meaning": "쌀"
+    },
+    {
+      "day": 27,
+      "word": "place",
+      "meaning": "장소"
+    },
+    {
+      "day": 27,
+      "word": "turtle",
+      "meaning": "거북이"
+    },
+    {
+      "day": 27,
+      "word": "jungle",
+      "meaning": "밀림"
+    },
+    {
+      "day": 27,
+      "word": "pretty",
+      "meaning": "예쁜"
+    },
+    {
+      "day": 27,
+      "word": "agree",
+      "meaning": "동의하다"
+    },
+    {
+      "day": 27,
+      "word": "camel",
+      "meaning": "낙타"
+    },
+    {
+      "day": 27,
+      "word": "dream",
+      "meaning": "꿈을 꾸다"
+    },
+    {
+      "day": 27,
+      "word": "station",
+      "meaning": "역"
+    },
+    {
+      "day": 27,
+      "word": "game",
+      "meaning": "경기"
+    },
+    {
+      "day": 27,
+      "word": "exercise",
+      "meaning": "운동하다"
+    },
+    {
+      "day": 27,
+      "word": "curtain",
+      "meaning": "커튼"
+    },
+    {
+      "day": 27,
+      "word": "complicate",
+      "meaning": "복잡하게 만들다"
+    },
+    {
+      "day": 27,
+      "word": "pain",
+      "meaning": "고통"
+    },
+    {
+      "day": 27,
+      "word": "pilot",
+      "meaning": "항공 조종사"
+    },
+    {
+      "day": 27,
+      "word": "believe",
+      "meaning": "믿다"
+    },
+    {
+      "day": 27,
+      "word": "mood",
+      "meaning": "기분"
+    },
+    {
+      "day": 27,
+      "word": "gift",
+      "meaning": "선물"
+    },
+    {
+      "day": 27,
+      "word": "language",
+      "meaning": "언어"
+    },
+    {
+      "day": 27,
+      "word": "nude",
+      "meaning": "벌거벗은"
+    },
+    {
+      "day": 28,
+      "word": "third",
+      "meaning": "세 번째의"
+    },
+    {
+      "day": 28,
+      "word": "touch",
+      "meaning": "만지다"
+    },
+    {
+      "day": 28,
+      "word": "fox",
+      "meaning": "여우"
+    },
+    {
+      "day": 28,
+      "word": "peach",
+      "meaning": "복숭아"
+    },
+    {
+      "day": 28,
+      "word": "question",
+      "meaning": "질문"
+    },
+    {
+      "day": 28,
+      "word": "subway",
+      "meaning": "지하철"
+    },
+    {
+      "day": 28,
+      "word": "mind",
+      "meaning": "마음"
+    },
+    {
+      "day": 28,
+      "word": "headache",
+      "meaning": "두통"
+    },
+    {
+      "day": 28,
+      "word": "after",
+      "meaning": "~ 후에"
+    },
+    {
+      "day": 28,
+      "word": "food",
+      "meaning": "음식"
+    },
+    {
+      "day": 28,
+      "word": "sunny",
+      "meaning": "화창한"
+    },
+    {
+      "day": 28,
+      "word": "church",
+      "meaning": "교회"
+    },
+    {
+      "day": 28,
+      "word": "light",
+      "meaning": "빛"
+    },
+    {
+      "day": 28,
+      "word": "high",
+      "meaning": "높은"
+    },
+    {
+      "day": 28,
+      "word": "heart",
+      "meaning": "심장"
+    },
+    {
+      "day": 28,
+      "word": "enter",
+      "meaning": "들어가다"
+    },
+    {
+      "day": 28,
+      "word": "handshake",
+      "meaning": "악수"
+    },
+    {
+      "day": 28,
+      "word": "dictionary",
+      "meaning": "사전"
+    },
+    {
+      "day": 28,
+      "word": "dragon",
+      "meaning": "용"
+    },
+    {
+      "day": 28,
+      "word": "woman",
+      "meaning": "여자"
+    },
+    {
+      "day": 29,
+      "word": "joke",
+      "meaning": "농담"
+    },
+    {
+      "day": 29,
+      "word": "pond",
+      "meaning": "연못"
+    },
+    {
+      "day": 29,
+      "word": "afternoon",
+      "meaning": "오후"
+    },
+    {
+      "day": 29,
+      "word": "dog",
+      "meaning": "개"
+    },
+    {
+      "day": 29,
+      "word": "accident",
+      "meaning": "사고"
+    },
+    {
+      "day": 29,
+      "word": "much",
+      "meaning": "많은"
+    },
+    {
+      "day": 29,
+      "word": "town",
+      "meaning": "마을"
+    },
+    {
+      "day": 29,
+      "word": "fly",
+      "meaning": "날다"
+    },
+    {
+      "day": 29,
+      "word": "picture",
+      "meaning": "그림"
+    },
+    {
+      "day": 29,
+      "word": "motion",
+      "meaning": "움직임"
+    },
+    {
+      "day": 29,
+      "word": "scarf",
+      "meaning": "목도리"
+    },
+    {
+      "day": 29,
+      "word": "chance",
+      "meaning": "기회"
+    },
+    {
+      "day": 29,
+      "word": "large",
+      "meaning": "큰"
+    },
+    {
+      "day": 29,
+      "word": "bakery",
+      "meaning": "빵집"
+    },
+    {
+      "day": 29,
+      "word": "lively",
+      "meaning": "활기찬"
+    },
+    {
+      "day": 29,
+      "word": "twin",
+      "meaning": "쌍둥이"
+    },
+    {
+      "day": 29,
+      "word": "use",
+      "meaning": "사용하다"
+    },
+    {
+      "day": 29,
+      "word": "waist",
+      "meaning": "허리"
+    },
+    {
+      "day": 29,
+      "word": "secret",
+      "meaning": "비밀"
+    },
+    {
+      "day": 29,
+      "word": "cry",
+      "meaning": "울다"
+    },
+    {
+      "day": 30,
+      "word": "gate",
+      "meaning": "문"
+    },
+    {
+      "day": 30,
+      "word": "true",
+      "meaning": "사실의"
+    },
+    {
+      "day": 30,
+      "word": "tooth",
+      "meaning": "치아"
+    },
+    {
+      "day": 30,
+      "word": "new",
+      "meaning": "새로운"
+    },
+    {
+      "day": 30,
+      "word": "motorcycle",
+      "meaning": "오토바이"
+    },
+    {
+      "day": 30,
+      "word": "clean",
+      "meaning": "깨끗한"
+    },
+    {
+      "day": 30,
+      "word": "money",
+      "meaning": "돈"
+    },
+    {
+      "day": 30,
+      "word": "telephone",
+      "meaning": "전화"
+    },
+    {
+      "day": 30,
+      "word": "mild",
+      "meaning": "부드러운"
+    },
+    {
+      "day": 30,
+      "word": "put",
+      "meaning": "놓다"
+    },
+    {
+      "day": 30,
+      "word": "bad",
+      "meaning": "나쁜"
+    },
+    {
+      "day": 30,
+      "word": "bug",
+      "meaning": "벌레"
+    },
+    {
+      "day": 30,
+      "word": "part",
+      "meaning": "부분"
+    },
+    {
+      "day": 30,
+      "word": "leg",
+      "meaning": "다리"
+    },
+    {
+      "day": 30,
+      "word": "tea",
+      "meaning": "차"
+    },
+    {
+      "day": 30,
+      "word": "knife",
+      "meaning": "칼"
+    },
+    {
+      "day": 30,
+      "word": "shell",
+      "meaning": "껍데기"
+    },
+    {
+      "day": 30,
+      "word": "exit",
+      "meaning": "출구"
+    },
+    {
+      "day": 30,
+      "word": "lady",
+      "meaning": "숙녀"
+    },
+    {
+      "day": 30,
+      "word": "test",
+      "meaning": "시험"
+    },
+    {
+      "day": 31,
+      "word": "take",
+      "meaning": "가져가다"
+    },
+    {
+      "day": 31,
+      "word": "advice",
+      "meaning": "충고"
+    },
+    {
+      "day": 31,
+      "word": "attack",
+      "meaning": "공격하다"
+    },
+    {
+      "day": 31,
+      "word": "science",
+      "meaning": "과학"
+    },
+    {
+      "day": 31,
+      "word": "gain",
+      "meaning": "얻다"
+    },
+    {
+      "day": 31,
+      "word": "paint",
+      "meaning": "물감"
+    },
+    {
+      "day": 31,
+      "word": "gentleman",
+      "meaning": "신사"
+    },
+    {
+      "day": 31,
+      "word": "face",
+      "meaning": "얼굴"
+    },
+    {
+      "day": 31,
+      "word": "dish",
+      "meaning": "접시"
+    },
+    {
+      "day": 31,
+      "word": "too",
+      "meaning": "또한"
+    },
+    {
+      "day": 31,
+      "word": "flag",
+      "meaning": "깃발"
+    },
+    {
+      "day": 31,
+      "word": "strawberry",
+      "meaning": "딸기"
+    },
+    {
+      "day": 31,
+      "word": "day",
+      "meaning": "하루"
+    },
+    {
+      "day": 31,
+      "word": "marker",
+      "meaning": "매직펜"
+    },
+    {
+      "day": 31,
+      "word": "asphalt",
+      "meaning": "아스팔트"
+    },
+    {
+      "day": 31,
+      "word": "giant",
+      "meaning": "거인"
+    },
+    {
+      "day": 31,
+      "word": "skirt",
+      "meaning": "치마"
+    },
+    {
+      "day": 31,
+      "word": "back",
+      "meaning": "뒤의"
+    },
+    {
+      "day": 31,
+      "word": "child",
+      "meaning": "아이"
+    },
+    {
+      "day": 31,
+      "word": "soldier",
+      "meaning": "군인"
+    },
+    {
+      "day": 32,
+      "word": "foolish",
+      "meaning": "바보 같은"
+    },
+    {
+      "day": 32,
+      "word": "mad",
+      "meaning": "화가 난"
+    },
+    {
+      "day": 32,
+      "word": "football",
+      "meaning": "축구"
+    },
+    {
+      "day": 32,
+      "word": "soft",
+      "meaning": "부드러운"
+    },
+    {
+      "day": 32,
+      "word": "easy",
+      "meaning": "쉬운"
+    },
+    {
+      "day": 32,
+      "word": "sugar",
+      "meaning": "설탕"
+    },
+    {
+      "day": 32,
+      "word": "round",
+      "meaning": "둥근"
+    },
+    {
+      "day": 32,
+      "word": "work",
+      "meaning": "일하다"
+    },
+    {
+      "day": 32,
+      "word": "fish",
+      "meaning": "물고기"
+    },
+    {
+      "day": 32,
+      "word": "anyway",
+      "meaning": "어쨌든"
+    },
+    {
+      "day": 32,
+      "word": "teenager",
+      "meaning": "십 대"
+    },
+    {
+      "day": 32,
+      "word": "time",
+      "meaning": "시간"
+    },
+    {
+      "day": 32,
+      "word": "upstairs",
+      "meaning": "위층"
+    },
+    {
+      "day": 32,
+      "word": "smart",
+      "meaning": "똑똑한"
+    },
+    {
+      "day": 32,
+      "word": "go",
+      "meaning": "가다"
+    },
+    {
+      "day": 32,
+      "word": "sell",
+      "meaning": "팔다"
+    },
+    {
+      "day": 32,
+      "word": "feel",
+      "meaning": "느끼다"
+    },
+    {
+      "day": 32,
+      "word": "museum",
+      "meaning": "박물관"
+    },
+    {
+      "day": 32,
+      "word": "hope",
+      "meaning": "희망"
+    },
+    {
+      "day": 32,
+      "word": "skin",
+      "meaning": "피부"
+    },
+    {
+      "day": 33,
+      "word": "action",
+      "meaning": "행동"
+    },
+    {
+      "day": 33,
+      "word": "pencil",
+      "meaning": "연필"
+    },
+    {
+      "day": 33,
+      "word": "lamb",
+      "meaning": "어린 양"
+    },
+    {
+      "day": 33,
+      "word": "drop",
+      "meaning": "떨어뜨리다"
+    },
+    {
+      "day": 33,
+      "word": "idea",
+      "meaning": "생각"
+    },
+    {
+      "day": 33,
+      "word": "jacket",
+      "meaning": "윗옷"
+    },
+    {
+      "day": 33,
+      "word": "here",
+      "meaning": "여기에"
+    },
+    {
+      "day": 33,
+      "word": "maybe",
+      "meaning": "아마도"
+    },
+    {
+      "day": 33,
+      "word": "south",
+      "meaning": "남쪽"
+    },
+    {
+      "day": 33,
+      "word": "sound",
+      "meaning": "소리"
+    },
+    {
+      "day": 33,
+      "word": "famous",
+      "meaning": "유명한"
+    },
+    {
+      "day": 33,
+      "word": "list",
+      "meaning": "목록"
+    },
+    {
+      "day": 33,
+      "word": "niece",
+      "meaning": "여자 조카"
+    },
+    {
+      "day": 33,
+      "word": "perfect",
+      "meaning": "완벽한"
+    },
+    {
+      "day": 33,
+      "word": "carrot",
+      "meaning": "당근"
+    },
+    {
+      "day": 33,
+      "word": "vegetable",
+      "meaning": "채소"
+    },
+    {
+      "day": 33,
+      "word": "hill",
+      "meaning": "언덕"
+    },
+    {
+      "day": 33,
+      "word": "note",
+      "meaning": "메모"
+    },
+    {
+      "day": 33,
+      "word": "greet",
+      "meaning": "인사하다"
+    },
+    {
+      "day": 33,
+      "word": "several",
+      "meaning": "몇몇의"
+    },
+    {
+      "day": 34,
+      "word": "super",
+      "meaning": "최고의"
+    },
+    {
+      "day": 34,
+      "word": "hunt",
+      "meaning": "사냥하다"
+    },
+    {
+      "day": 34,
+      "word": "near",
+      "meaning": "가까운"
+    },
+    {
+      "day": 34,
+      "word": "bike",
+      "meaning": "자전거"
+    },
+    {
+      "day": 34,
+      "word": "alarm",
+      "meaning": "경보"
+    },
+    {
+      "day": 34,
+      "word": "talk",
+      "meaning": "말하다"
+    },
+    {
+      "day": 34,
+      "word": "interesting",
+      "meaning": "흥미로운"
+    },
+    {
+      "day": 34,
+      "word": "supper",
+      "meaning": "저녁 식사"
+    },
+    {
+      "day": 34,
+      "word": "rain",
+      "meaning": "비"
+    },
+    {
+      "day": 34,
+      "word": "necessary",
+      "meaning": "필수의"
+    },
+    {
+      "day": 34,
+      "word": "potato",
+      "meaning": "감자"
+    },
+    {
+      "day": 34,
+      "word": "ask",
+      "meaning": "묻다"
+    },
+    {
+      "day": 34,
+      "word": "animal",
+      "meaning": "동물"
+    },
+    {
+      "day": 34,
+      "word": "wedding",
+      "meaning": "결혼식"
+    },
+    {
+      "day": 34,
+      "word": "cut",
+      "meaning": "자르다"
+    },
+    {
+      "day": 34,
+      "word": "sport",
+      "meaning": "운동"
+    },
+    {
+      "day": 34,
+      "word": "head",
+      "meaning": "머리"
+    },
+    {
+      "day": 34,
+      "word": "man",
+      "meaning": "남자"
+    },
+    {
+      "day": 34,
+      "word": "prince",
+      "meaning": "왕자"
+    },
+    {
+      "day": 34,
+      "word": "glue",
+      "meaning": "풀"
+    },
+    {
+      "day": 35,
+      "word": "tale",
+      "meaning": "이야기"
+    },
+    {
+      "day": 35,
+      "word": "grandfather",
+      "meaning": "할아버지"
+    },
+    {
+      "day": 35,
+      "word": "farmer",
+      "meaning": "농부"
+    },
+    {
+      "day": 35,
+      "word": "friendly",
+      "meaning": "친절한"
+    },
+    {
+      "day": 35,
+      "word": "move",
+      "meaning": "움직이다"
+    },
+    {
+      "day": 35,
+      "word": "meat",
+      "meaning": "고기"
+    },
+    {
+      "day": 35,
+      "word": "wrong",
+      "meaning": "잘못된"
+    },
+    {
+      "day": 35,
+      "word": "horse",
+      "meaning": "말"
+    },
+    {
+      "day": 35,
+      "word": "sure",
+      "meaning": "확실한"
+    },
+    {
+      "day": 35,
+      "word": "exam",
+      "meaning": "시험"
+    },
+    {
+      "day": 35,
+      "word": "promise",
+      "meaning": "약속하다"
+    },
+    {
+      "day": 35,
+      "word": "plane",
+      "meaning": "비행기"
+    },
+    {
+      "day": 35,
+      "word": "letter",
+      "meaning": "편지"
+    },
+    {
+      "day": 35,
+      "word": "walk",
+      "meaning": "걷다"
+    },
+    {
+      "day": 35,
+      "word": "teach",
+      "meaning": "가르치다"
+    },
+    {
+      "day": 35,
+      "word": "hour",
+      "meaning": "시간"
+    },
+    {
+      "day": 35,
+      "word": "change",
+      "meaning": "바꾸다"
+    },
+    {
+      "day": 35,
+      "word": "old",
+      "meaning": "늙은"
+    },
+    {
+      "day": 35,
+      "word": "car",
+      "meaning": "자동차"
+    },
+    {
+      "day": 35,
+      "word": "habit",
+      "meaning": "습관"
+    },
+    {
+      "day": 36,
+      "word": "ride",
+      "meaning": "타다"
+    },
+    {
+      "day": 36,
+      "word": "grandparent",
+      "meaning": "조부모"
+    },
+    {
+      "day": 36,
+      "word": "kindness",
+      "meaning": "친절"
+    },
+    {
+      "day": 36,
+      "word": "kill",
+      "meaning": "죽이다"
+    },
+    {
+      "day": 36,
+      "word": "lesson",
+      "meaning": "수업"
+    },
+    {
+      "day": 36,
+      "word": "come",
+      "meaning": "오다"
+    },
+    {
+      "day": 36,
+      "word": "name",
+      "meaning": "이름"
+    },
+    {
+      "day": 36,
+      "word": "aunt",
+      "meaning": "이모(고모,숙모)"
+    },
+    {
+      "day": 36,
+      "word": "daily",
+      "meaning": "매일의"
+    },
+    {
+      "day": 36,
+      "word": "tall",
+      "meaning": "키가 큰"
+    },
+    {
+      "day": 36,
+      "word": "bone",
+      "meaning": "뼈"
+    },
+    {
+      "day": 36,
+      "word": "web",
+      "meaning": "거미줄"
+    },
+    {
+      "day": 36,
+      "word": "anytime",
+      "meaning": "언제든지"
+    },
+    {
+      "day": 36,
+      "word": "leaf",
+      "meaning": "잎"
+    },
+    {
+      "day": 36,
+      "word": "lie",
+      "meaning": "거짓말하다"
+    },
+    {
+      "day": 36,
+      "word": "hometown",
+      "meaning": "고향"
+    },
+    {
+      "day": 36,
+      "word": "answer",
+      "meaning": "대답하다"
+    },
+    {
+      "day": 36,
+      "word": "ape",
+      "meaning": "유인원"
+    },
+    {
+      "day": 36,
+      "word": "kitchen",
+      "meaning": "부엌"
+    },
+    {
+      "day": 36,
+      "word": "ability",
+      "meaning": "능력"
+    },
+    {
+      "day": 37,
+      "word": "air",
+      "meaning": "공기"
+    },
+    {
+      "day": 37,
+      "word": "giraffe",
+      "meaning": "기린"
+    },
+    {
+      "day": 37,
+      "word": "market",
+      "meaning": "시장"
+    },
+    {
+      "day": 37,
+      "word": "tired",
+      "meaning": "피곤한"
+    },
+    {
+      "day": 37,
+      "word": "tour",
+      "meaning": "여행"
+    },
+    {
+      "day": 37,
+      "word": "worry",
+      "meaning": "걱정하다"
+    },
+    {
+      "day": 37,
+      "word": "green",
+      "meaning": "초록색"
+    },
+    {
+      "day": 37,
+      "word": "miracle",
+      "meaning": "기적"
+    },
+    {
+      "day": 37,
+      "word": "milk",
+      "meaning": "우유"
+    },
+    {
+      "day": 37,
+      "word": "music",
+      "meaning": "음악"
+    },
+    {
+      "day": 37,
+      "word": "proud",
+      "meaning": "자랑스러워하는"
+    },
+    {
+      "day": 37,
+      "word": "eve",
+      "meaning": "전날 밤"
+    },
+    {
+      "day": 37,
+      "word": "piece",
+      "meaning": "조각"
+    },
+    {
+      "day": 37,
+      "word": "often",
+      "meaning": "자주"
+    },
+    {
+      "day": 37,
+      "word": "myself",
+      "meaning": "나 자신"
+    },
+    {
+      "day": 37,
+      "word": "body",
+      "meaning": "몸"
+    },
+    {
+      "day": 37,
+      "word": "grandson",
+      "meaning": "손자"
+    },
+    {
+      "day": 37,
+      "word": "absent",
+      "meaning": "결석한"
+    },
+    {
+      "day": 37,
+      "word": "reporter",
+      "meaning": "기자"
+    },
+    {
+      "day": 37,
+      "word": "short",
+      "meaning": "짧은"
+    },
+    {
+      "day": 38,
+      "word": "ago",
+      "meaning": "~전에"
+    },
+    {
+      "day": 38,
+      "word": "nail",
+      "meaning": "손톱"
+    },
+    {
+      "day": 38,
+      "word": "training",
+      "meaning": "훈련"
+    },
+    {
+      "day": 38,
+      "word": "bed",
+      "meaning": "침대"
+    },
+    {
+      "day": 38,
+      "word": "turkey",
+      "meaning": "칠면조"
+    },
+    {
+      "day": 38,
+      "word": "buy",
+      "meaning": "사다"
+    },
+    {
+      "day": 38,
+      "word": "heavy",
+      "meaning": "무거운"
+    },
+    {
+      "day": 38,
+      "word": "eye",
+      "meaning": "눈"
+    },
+    {
+      "day": 38,
+      "word": "jewel",
+      "meaning": "보석"
+    },
+    {
+      "day": 38,
+      "word": "whale",
+      "meaning": "고래"
+    },
+    {
+      "day": 38,
+      "word": "only",
+      "meaning": "유일한"
+    },
+    {
+      "day": 38,
+      "word": "sister",
+      "meaning": "여동생"
+    },
+    {
+      "day": 38,
+      "word": "beach",
+      "meaning": "바닷가"
+    },
+    {
+      "day": 38,
+      "word": "gun",
+      "meaning": "총"
+    },
+    {
+      "day": 38,
+      "word": "waiter",
+      "meaning": "종업원"
+    },
+    {
+      "day": 38,
+      "word": "once",
+      "meaning": "한 번"
+    },
+    {
+      "day": 38,
+      "word": "artist",
+      "meaning": "예술가"
+    },
+    {
+      "day": 38,
+      "word": "title",
+      "meaning": "제목"
+    },
+    {
+      "day": 38,
+      "word": "center",
+      "meaning": "중심"
+    },
+    {
+      "day": 38,
+      "word": "need",
+      "meaning": "필요로 하다"
+    },
+    {
+      "day": 39,
+      "word": "happy",
+      "meaning": "행복한"
+    },
+    {
+      "day": 39,
+      "word": "hundred",
+      "meaning": "백(100)"
+    },
+    {
+      "day": 39,
+      "word": "nephew",
+      "meaning": "남자 조카"
+    },
+    {
+      "day": 39,
+      "word": "leave",
+      "meaning": "떠나다"
+    },
+    {
+      "day": 39,
+      "word": "rat",
+      "meaning": "쥐"
+    },
+    {
+      "day": 39,
+      "word": "good",
+      "meaning": "좋은"
+    },
+    {
+      "day": 39,
+      "word": "airport",
+      "meaning": "공항"
+    },
+    {
+      "day": 39,
+      "word": "taste",
+      "meaning": "맛보다"
+    },
+    {
+      "day": 39,
+      "word": "homework",
+      "meaning": "숙제"
+    },
+    {
+      "day": 39,
+      "word": "wise",
+      "meaning": "현명한"
+    },
+    {
+      "day": 39,
+      "word": "candle",
+      "meaning": "양초"
+    },
+    {
+      "day": 39,
+      "word": "big",
+      "meaning": "큰"
+    },
+    {
+      "day": 39,
+      "word": "eat",
+      "meaning": "먹다"
+    },
+    {
+      "day": 39,
+      "word": "corn",
+      "meaning": "옥수수"
+    },
+    {
+      "day": 39,
+      "word": "scientist",
+      "meaning": "과학자"
+    },
+    {
+      "day": 39,
+      "word": "male",
+      "meaning": "수컷의"
+    },
+    {
+      "day": 39,
+      "word": "wonderful",
+      "meaning": "멋진"
+    },
+    {
+      "day": 39,
+      "word": "first",
+      "meaning": "첫 번째의"
+    },
+    {
+      "day": 39,
+      "word": "cucumber",
+      "meaning": "오이"
+    },
+    {
+      "day": 39,
+      "word": "toe",
+      "meaning": "발가락"
+    },
+    {
+      "day": 40,
+      "word": "die",
+      "meaning": "죽다"
+    },
+    {
+      "day": 40,
+      "word": "queen",
+      "meaning": "여왕"
+    },
+    {
+      "day": 40,
+      "word": "warm",
+      "meaning": "따뜻한"
+    },
+    {
+      "day": 40,
+      "word": "see",
+      "meaning": "보다"
+    },
+    {
+      "day": 40,
+      "word": "insect",
+      "meaning": "곤충"
+    },
+    {
+      "day": 40,
+      "word": "cycle",
+      "meaning": "자전거"
+    },
+    {
+      "day": 40,
+      "word": "deep",
+      "meaning": "깊은"
+    },
+    {
+      "day": 40,
+      "word": "boot",
+      "meaning": "부츠"
+    },
+    {
+      "day": 40,
+      "word": "vacation",
+      "meaning": "방학"
+    },
+    {
+      "day": 40,
+      "word": "tongue",
+      "meaning": "혀"
+    },
+    {
+      "day": 40,
+      "word": "nut",
+      "meaning": "견과"
+    },
+    {
+      "day": 40,
+      "word": "socks",
+      "meaning": "양말"
+    },
+    {
+      "day": 40,
+      "word": "anywhere",
+      "meaning": "어디에도"
+    },
+    {
+      "day": 40,
+      "word": "mirror",
+      "meaning": "거울"
+    },
+    {
+      "day": 40,
+      "word": "hair",
+      "meaning": "머리카락"
+    },
+    {
+      "day": 40,
+      "word": "listen",
+      "meaning": "듣다"
+    },
+    {
+      "day": 40,
+      "word": "cold",
+      "meaning": "추운"
+    },
+    {
+      "day": 40,
+      "word": "kid",
+      "meaning": "아이"
+    },
+    {
+      "day": 40,
+      "word": "purse",
+      "meaning": "지갑"
+    },
+    {
+      "day": 40,
+      "word": "excited",
+      "meaning": "신이 난"
+    },
+    {
+      "day": 41,
+      "word": "cross",
+      "meaning": "건너다"
+    },
+    {
+      "day": 41,
+      "word": "beer",
+      "meaning": "맥주"
+    },
+    {
+      "day": 41,
+      "word": "better",
+      "meaning": "더 좋은"
+    },
+    {
+      "day": 41,
+      "word": "morning",
+      "meaning": "아침"
+    },
+    {
+      "day": 41,
+      "word": "zebra",
+      "meaning": "얼룩말"
+    },
+    {
+      "day": 41,
+      "word": "cloud",
+      "meaning": "구름"
+    },
+    {
+      "day": 41,
+      "word": "cost",
+      "meaning": "가격"
+    },
+    {
+      "day": 41,
+      "word": "really",
+      "meaning": "정말"
+    },
+    {
+      "day": 41,
+      "word": "glove",
+      "meaning": "장갑"
+    },
+    {
+      "day": 41,
+      "word": "upper",
+      "meaning": "위쪽의"
+    },
+    {
+      "day": 41,
+      "word": "single",
+      "meaning": "단 하나의"
+    },
+    {
+      "day": 41,
+      "word": "remember",
+      "meaning": "기억하다"
+    },
+    {
+      "day": 41,
+      "word": "hurt",
+      "meaning": "아프다"
+    },
+    {
+      "day": 41,
+      "word": "fishing",
+      "meaning": "낚시"
+    },
+    {
+      "day": 41,
+      "word": "chicken",
+      "meaning": "닭"
+    },
+    {
+      "day": 41,
+      "word": "sad",
+      "meaning": "슬픈"
+    },
+    {
+      "day": 41,
+      "word": "know",
+      "meaning": "알다"
+    },
+    {
+      "day": 41,
+      "word": "spoon",
+      "meaning": "숟가락"
+    },
+    {
+      "day": 41,
+      "word": "police",
+      "meaning": "경찰"
+    },
+    {
+      "day": 41,
+      "word": "volleyball",
+      "meaning": "배구"
+    },
+    {
+      "day": 42,
+      "word": "ever",
+      "meaning": "언제나"
+    },
+    {
+      "day": 42,
+      "word": "sit",
+      "meaning": "앉다"
+    },
+    {
+      "day": 42,
+      "word": "hospital",
+      "meaning": "병원"
+    },
+    {
+      "day": 42,
+      "word": "kind",
+      "meaning": "친절한"
+    },
+    {
+      "day": 42,
+      "word": "door",
+      "meaning": "문"
+    },
+    {
+      "day": 42,
+      "word": "plate",
+      "meaning": "접시"
+    },
+    {
+      "day": 42,
+      "word": "holiday",
+      "meaning": "휴일"
+    },
+    {
+      "day": 42,
+      "word": "health",
+      "meaning": "건강"
+    },
+    {
+      "day": 42,
+      "word": "adult",
+      "meaning": "어른"
+    },
+    {
+      "day": 42,
+      "word": "noisy",
+      "meaning": "시끄러운"
+    },
+    {
+      "day": 42,
+      "word": "city",
+      "meaning": "도시"
+    },
+    {
+      "day": 42,
+      "word": "wish",
+      "meaning": "바라다"
+    },
+    {
+      "day": 42,
+      "word": "drink",
+      "meaning": "마시다"
+    },
+    {
+      "day": 42,
+      "word": "again",
+      "meaning": "다시"
+    },
+    {
+      "day": 42,
+      "word": "girl",
+      "meaning": "소녀"
+    },
+    {
+      "day": 42,
+      "word": "hand",
+      "meaning": "손"
+    },
+    {
+      "day": 42,
+      "word": "each",
+      "meaning": "각자의"
+    },
+    {
+      "day": 42,
+      "word": "night",
+      "meaning": "밤"
+    },
+    {
+      "day": 42,
+      "word": "key",
+      "meaning": "열쇠"
+    },
+    {
+      "day": 42,
+      "word": "watch",
+      "meaning": "보다"
+    },
+    {
+      "day": 43,
+      "word": "outdoor",
+      "meaning": "야외의"
+    },
+    {
+      "day": 43,
+      "word": "friendship",
+      "meaning": "우정"
+    },
+    {
+      "day": 43,
+      "word": "house",
+      "meaning": "집"
+    },
+    {
+      "day": 43,
+      "word": "water",
+      "meaning": "물"
+    },
+    {
+      "day": 43,
+      "word": "silly",
+      "meaning": "어리석은"
+    },
+    {
+      "day": 43,
+      "word": "narrow",
+      "meaning": "좁은"
+    },
+    {
+      "day": 43,
+      "word": "library",
+      "meaning": "도서관"
+    },
+    {
+      "day": 43,
+      "word": "ankle",
+      "meaning": "발목"
+    },
+    {
+      "day": 43,
+      "word": "clock",
+      "meaning": "시계"
+    },
+    {
+      "day": 43,
+      "word": "bathroom",
+      "meaning": "욕실"
+    },
+    {
+      "day": 43,
+      "word": "in",
+      "meaning": "~ 안에"
+    },
+    {
+      "day": 43,
+      "word": "brain",
+      "meaning": "뇌"
+    },
+    {
+      "day": 43,
+      "word": "alone",
+      "meaning": "혼자"
+    },
+    {
+      "day": 43,
+      "word": "eggplant",
+      "meaning": "가지"
+    },
+    {
+      "day": 43,
+      "word": "evening",
+      "meaning": "저녁"
+    },
+    {
+      "day": 43,
+      "word": "red",
+      "meaning": "빨간"
+    },
+    {
+      "day": 43,
+      "word": "housewife",
+      "meaning": "주부"
+    },
+    {
+      "day": 43,
+      "word": "equal",
+      "meaning": "같은"
+    },
+    {
+      "day": 43,
+      "word": "owl",
+      "meaning": "올빼미"
+    },
+    {
+      "day": 43,
+      "word": "anymore",
+      "meaning": "더 이상"
+    },
+    {
+      "day": 44,
+      "word": "joy",
+      "meaning": "기쁨"
+    },
+    {
+      "day": 44,
+      "word": "ship",
+      "meaning": "배"
+    },
+    {
+      "day": 44,
+      "word": "twice",
+      "meaning": "두 번"
+    },
+    {
+      "day": 44,
+      "word": "little",
+      "meaning": "작은"
+    },
+    {
+      "day": 44,
+      "word": "writer",
+      "meaning": "작가"
+    },
+    {
+      "day": 44,
+      "word": "honest",
+      "meaning": "정직한"
+    },
+    {
+      "day": 44,
+      "word": "space",
+      "meaning": "공간"
+    },
+    {
+      "day": 44,
+      "word": "river",
+      "meaning": "강"
+    },
+    {
+      "day": 44,
+      "word": "spicy",
+      "meaning": "매운"
+    },
+    {
+      "day": 44,
+      "word": "call",
+      "meaning": "부르다"
+    },
+    {
+      "day": 44,
+      "word": "deer",
+      "meaning": "사슴"
+    },
+    {
+      "day": 44,
+      "word": "outside",
+      "meaning": "밖에"
+    },
+    {
+      "day": 44,
+      "word": "classmate",
+      "meaning": "반 친구"
+    },
+    {
+      "day": 44,
+      "word": "jar",
+      "meaning": "단지"
+    },
+    {
+      "day": 44,
+      "word": "root",
+      "meaning": "뿌리"
+    },
+    {
+      "day": 44,
+      "word": "plan",
+      "meaning": "계획하다"
+    },
+    {
+      "day": 44,
+      "word": "cap",
+      "meaning": "모자"
+    },
+    {
+      "day": 44,
+      "word": "beautiful",
+      "meaning": "아름다운"
+    },
+    {
+      "day": 44,
+      "word": "fail",
+      "meaning": "실패하다"
+    },
+    {
+      "day": 44,
+      "word": "duck",
+      "meaning": "오리"
+    },
+    {
+      "day": 45,
+      "word": "open",
+      "meaning": "열다"
+    },
+    {
+      "day": 45,
+      "word": "speak",
+      "meaning": "말하다"
+    },
+    {
+      "day": 45,
+      "word": "law",
+      "meaning": "법"
+    },
+    {
+      "day": 45,
+      "word": "less",
+      "meaning": "더 적은"
+    },
+    {
+      "day": 45,
+      "word": "dark",
+      "meaning": "어두운"
+    },
+    {
+      "day": 45,
+      "word": "spring",
+      "meaning": "봄"
+    },
+    {
+      "day": 45,
+      "word": "live",
+      "meaning": "살다"
+    },
+    {
+      "day": 45,
+      "word": "diamond",
+      "meaning": "다이아몬드"
+    },
+    {
+      "day": 45,
+      "word": "jog",
+      "meaning": "조깅하다"
+    },
+    {
+      "day": 45,
+      "word": "toothbrush",
+      "meaning": "칫솔"
+    },
+    {
+      "day": 45,
+      "word": "apron",
+      "meaning": "앞치마"
+    },
+    {
+      "day": 45,
+      "word": "heel",
+      "meaning": "뒤꿈치"
+    },
+    {
+      "day": 45,
+      "word": "help",
+      "meaning": "돕다"
+    },
+    {
+      "day": 45,
+      "word": "restroom",
+      "meaning": "화장실"
+    },
+    {
+      "day": 45,
+      "word": "hippo",
+      "meaning": "하마"
+    },
+    {
+      "day": 45,
+      "word": "mail",
+      "meaning": "우편물"
+    },
+    {
+      "day": 45,
+      "word": "cook",
+      "meaning": "요리하다"
+    },
+    {
+      "day": 45,
+      "word": "weather",
+      "meaning": "날씨"
+    },
+    {
+      "day": 45,
+      "word": "waterfall",
+      "meaning": "폭포"
+    },
+    {
+      "day": 45,
+      "word": "thank",
+      "meaning": "감사하다"
+    }
+  ]
+}

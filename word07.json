@@ -1,0 +1,5605 @@
+{
+  "title": "프리미엄보카 혼동어휘",
+  "words": [
+    {
+      "day": 1,
+      "word": "attract",
+      "meaning": "유혹하다"
+    },
+    {
+      "day": 1,
+      "word": "abstract",
+      "meaning": "추상적인"
+    },
+    {
+      "day": 1,
+      "word": "contract",
+      "meaning": "계약하다"
+    },
+    {
+      "day": 1,
+      "word": "extract",
+      "meaning": "추출하다"
+    },
+    {
+      "day": 1,
+      "word": "subtract",
+      "meaning": "빼다"
+    },
+    {
+      "day": 1,
+      "word": "distract",
+      "meaning": "산만하게 하다"
+    },
+    {
+      "day": 1,
+      "word": "retract",
+      "meaning": "취소하다"
+    },
+    {
+      "day": 1,
+      "word": "belief",
+      "meaning": "믿음"
+    },
+    {
+      "day": 1,
+      "word": "brief",
+      "meaning": "간단한"
+    },
+    {
+      "day": 1,
+      "word": "relief",
+      "meaning": "안도"
+    },
+    {
+      "day": 1,
+      "word": "chief",
+      "meaning": "장"
+    },
+    {
+      "day": 1,
+      "word": "chef",
+      "meaning": "주방장"
+    },
+    {
+      "day": 1,
+      "word": "conceive",
+      "meaning": "생각하다"
+    },
+    {
+      "day": 1,
+      "word": "deceive",
+      "meaning": "속이다"
+    },
+    {
+      "day": 1,
+      "word": "receive",
+      "meaning": "받다"
+    },
+    {
+      "day": 1,
+      "word": "perceive",
+      "meaning": "인지하다"
+    },
+    {
+      "day": 1,
+      "word": "depend",
+      "meaning": "의존하다"
+    },
+    {
+      "day": 1,
+      "word": "defend",
+      "meaning": "방어하다"
+    },
+    {
+      "day": 1,
+      "word": "offend",
+      "meaning": "화나게 하다"
+    },
+    {
+      "day": 1,
+      "word": "append",
+      "meaning": "달아매다"
+    },
+    {
+      "day": 1,
+      "word": "impend",
+      "meaning": "임박하다"
+    },
+    {
+      "day": 1,
+      "word": "ethic",
+      "meaning": "윤리"
+    },
+    {
+      "day": 1,
+      "word": "ethnic",
+      "meaning": "민족의"
+    },
+    {
+      "day": 1,
+      "word": "folk",
+      "meaning": "사람들"
+    },
+    {
+      "day": 1,
+      "word": "fork",
+      "meaning": "포크"
+    },
+    {
+      "day": 1,
+      "word": "integrity",
+      "meaning": "성실"
+    },
+    {
+      "day": 1,
+      "word": "integration",
+      "meaning": "통합"
+    },
+    {
+      "day": 1,
+      "word": "oblige",
+      "meaning": "강요하다"
+    },
+    {
+      "day": 1,
+      "word": "obligate",
+      "meaning": "의무를 지우다"
+    },
+    {
+      "day": 1,
+      "word": "stair",
+      "meaning": "계단"
+    },
+    {
+      "day": 1,
+      "word": "stare",
+      "meaning": "응시하다"
+    },
+    {
+      "day": 1,
+      "word": "scare",
+      "meaning": "겁주다"
+    },
+    {
+      "day": 1,
+      "word": "yearn",
+      "meaning": "갈망하다"
+    },
+    {
+      "day": 1,
+      "word": "yawn",
+      "meaning": "하품하다"
+    },
+    {
+      "day": 1,
+      "word": "yarn",
+      "meaning": "실"
+    },
+    {
+      "day": 2,
+      "word": "accept",
+      "meaning": "받아들이다"
+    },
+    {
+      "day": 2,
+      "word": "except",
+      "meaning": "~을 제외하고"
+    },
+    {
+      "day": 2,
+      "word": "excerpt",
+      "meaning": "발췌"
+    },
+    {
+      "day": 2,
+      "word": "concept",
+      "meaning": "개념"
+    },
+    {
+      "day": 2,
+      "word": "receipt",
+      "meaning": "영수증"
+    },
+    {
+      "day": 2,
+      "word": "exception",
+      "meaning": "예외"
+    },
+    {
+      "day": 2,
+      "word": "conception",
+      "meaning": "개념"
+    },
+    {
+      "day": 2,
+      "word": "perception",
+      "meaning": "인지"
+    },
+    {
+      "day": 2,
+      "word": "reception",
+      "meaning": "환영회"
+    },
+    {
+      "day": 2,
+      "word": "breath",
+      "meaning": "호흡"
+    },
+    {
+      "day": 2,
+      "word": "breathe",
+      "meaning": "호흡하다"
+    },
+    {
+      "day": 2,
+      "word": "breadth",
+      "meaning": "폭"
+    },
+    {
+      "day": 2,
+      "word": "curb",
+      "meaning": "억제하다"
+    },
+    {
+      "day": 2,
+      "word": "curve",
+      "meaning": "굽어지다"
+    },
+    {
+      "day": 2,
+      "word": "carve",
+      "meaning": "새기다"
+    },
+    {
+      "day": 2,
+      "word": "eliminate",
+      "meaning": "제거하다"
+    },
+    {
+      "day": 2,
+      "word": "illuminate",
+      "meaning": "비추다"
+    },
+    {
+      "day": 2,
+      "word": "flow",
+      "meaning": "흐르다"
+    },
+    {
+      "day": 2,
+      "word": "flaw",
+      "meaning": "결점"
+    },
+    {
+      "day": 2,
+      "word": "laser",
+      "meaning": "레이저(광선)"
+    },
+    {
+      "day": 2,
+      "word": "razor",
+      "meaning": "면도날"
+    },
+    {
+      "day": 2,
+      "word": "pedestrian",
+      "meaning": "보행자"
+    },
+    {
+      "day": 2,
+      "word": "pediatrician",
+      "meaning": "소아과 의사"
+    },
+    {
+      "day": 2,
+      "word": "resource",
+      "meaning": "자원"
+    },
+    {
+      "day": 2,
+      "word": "source",
+      "meaning": "원천"
+    },
+    {
+      "day": 2,
+      "word": "sauce",
+      "meaning": "소스"
+    },
+    {
+      "day": 2,
+      "word": "spontaneously",
+      "meaning": "자발적으로"
+    },
+    {
+      "day": 2,
+      "word": "simultaneously",
+      "meaning": "동시에"
+    },
+    {
+      "day": 2,
+      "word": "temper",
+      "meaning": "기질"
+    },
+    {
+      "day": 2,
+      "word": "temperate",
+      "meaning": "온화한"
+    },
+    {
+      "day": 2,
+      "word": "temperature",
+      "meaning": "온도"
+    },
+    {
+      "day": 2,
+      "word": "violence",
+      "meaning": "폭력"
+    },
+    {
+      "day": 2,
+      "word": "violation",
+      "meaning": "위반"
+    },
+    {
+      "day": 2,
+      "word": "wonder",
+      "meaning": "궁금하게 여기다"
+    },
+    {
+      "day": 2,
+      "word": "wander",
+      "meaning": "돌아다니다"
+    },
+    {
+      "day": 3,
+      "word": "access",
+      "meaning": "접근"
+    },
+    {
+      "day": 3,
+      "word": "assess",
+      "meaning": "평가하다"
+    },
+    {
+      "day": 3,
+      "word": "excess",
+      "meaning": "초과"
+    },
+    {
+      "day": 3,
+      "word": "exceed",
+      "meaning": "초과하다"
+    },
+    {
+      "day": 3,
+      "word": "recess",
+      "meaning": "휴식"
+    },
+    {
+      "day": 3,
+      "word": "process",
+      "meaning": "과정"
+    },
+    {
+      "day": 3,
+      "word": "progress",
+      "meaning": "진행"
+    },
+    {
+      "day": 3,
+      "word": "congress",
+      "meaning": "국회"
+    },
+    {
+      "day": 3,
+      "word": "regress",
+      "meaning": "퇴보하다"
+    },
+    {
+      "day": 3,
+      "word": "blush",
+      "meaning": "얼굴을 붉히다"
+    },
+    {
+      "day": 3,
+      "word": "brush",
+      "meaning": "붓"
+    },
+    {
+      "day": 3,
+      "word": "flush",
+      "meaning": "붉어지다"
+    },
+    {
+      "day": 3,
+      "word": "causal",
+      "meaning": "원인의"
+    },
+    {
+      "day": 3,
+      "word": "casual",
+      "meaning": "우연의"
+    },
+    {
+      "day": 3,
+      "word": "casualty",
+      "meaning": "사상자"
+    },
+    {
+      "day": 3,
+      "word": "deprive",
+      "meaning": "빼앗다"
+    },
+    {
+      "day": 3,
+      "word": "derive",
+      "meaning": "도출하다"
+    },
+    {
+      "day": 3,
+      "word": "eternal",
+      "meaning": "영원한"
+    },
+    {
+      "day": 3,
+      "word": "external",
+      "meaning": "외부의"
+    },
+    {
+      "day": 3,
+      "word": "internal",
+      "meaning": "내부의"
+    },
+    {
+      "day": 3,
+      "word": "formal",
+      "meaning": "공식적인"
+    },
+    {
+      "day": 3,
+      "word": "former",
+      "meaning": "이전의"
+    },
+    {
+      "day": 3,
+      "word": "form",
+      "meaning": "모양"
+    },
+    {
+      "day": 3,
+      "word": "formation",
+      "meaning": "형성"
+    },
+    {
+      "day": 3,
+      "word": "geology",
+      "meaning": "지질학"
+    },
+    {
+      "day": 3,
+      "word": "geography",
+      "meaning": "지리학"
+    },
+    {
+      "day": 3,
+      "word": "geometry",
+      "meaning": "기하학"
+    },
+    {
+      "day": 3,
+      "word": "hostility",
+      "meaning": "적개심"
+    },
+    {
+      "day": 3,
+      "word": "hospitality",
+      "meaning": "환대"
+    },
+    {
+      "day": 3,
+      "word": "insult",
+      "meaning": "모욕하다"
+    },
+    {
+      "day": 3,
+      "word": "insert",
+      "meaning": "삽입하다"
+    },
+    {
+      "day": 3,
+      "word": "instruct",
+      "meaning": "가르치다"
+    },
+    {
+      "day": 3,
+      "word": "loose",
+      "meaning": "느슨한"
+    },
+    {
+      "day": 3,
+      "word": "lose",
+      "meaning": "잃다"
+    },
+    {
+      "day": 3,
+      "word": "loss",
+      "meaning": "손실"
+    },
+    {
+      "day": 4,
+      "word": "altitude",
+      "meaning": "고도"
+    },
+    {
+      "day": 4,
+      "word": "attitude",
+      "meaning": "태도"
+    },
+    {
+      "day": 4,
+      "word": "aptitude",
+      "meaning": "적성"
+    },
+    {
+      "day": 4,
+      "word": "latitude",
+      "meaning": "위도"
+    },
+    {
+      "day": 4,
+      "word": "longitude",
+      "meaning": "경도"
+    },
+    {
+      "day": 4,
+      "word": "solitude",
+      "meaning": "고독"
+    },
+    {
+      "day": 4,
+      "word": "multitude",
+      "meaning": "다수"
+    },
+    {
+      "day": 4,
+      "word": "gratitude",
+      "meaning": "감사"
+    },
+    {
+      "day": 4,
+      "word": "beneficial",
+      "meaning": "유익한"
+    },
+    {
+      "day": 4,
+      "word": "beneficent",
+      "meaning": "선을 베푸는"
+    },
+    {
+      "day": 4,
+      "word": "beneficiary",
+      "meaning": "수혜자"
+    },
+    {
+      "day": 4,
+      "word": "benevolent",
+      "meaning": "자애로운"
+    },
+    {
+      "day": 4,
+      "word": "complement",
+      "meaning": "보충하다"
+    },
+    {
+      "day": 4,
+      "word": "compliment",
+      "meaning": "칭찬하다"
+    },
+    {
+      "day": 4,
+      "word": "supplement",
+      "meaning": "보충하다"
+    },
+    {
+      "day": 4,
+      "word": "implement",
+      "meaning": "실행하다"
+    },
+    {
+      "day": 4,
+      "word": "definitive",
+      "meaning": "결정적인"
+    },
+    {
+      "day": 4,
+      "word": "definition",
+      "meaning": "정의"
+    },
+    {
+      "day": 4,
+      "word": "definite",
+      "meaning": "한정된"
+    },
+    {
+      "day": 4,
+      "word": "infinite",
+      "meaning": "무한한"
+    },
+    {
+      "day": 4,
+      "word": "eject",
+      "meaning": "추방하다"
+    },
+    {
+      "day": 4,
+      "word": "reject",
+      "meaning": "거절하다"
+    },
+    {
+      "day": 4,
+      "word": "inject",
+      "meaning": "주입하다"
+    },
+    {
+      "day": 4,
+      "word": "subject",
+      "meaning": "주제"
+    },
+    {
+      "day": 4,
+      "word": "subjective",
+      "meaning": "주관적인"
+    },
+    {
+      "day": 4,
+      "word": "object",
+      "meaning": "물체"
+    },
+    {
+      "day": 4,
+      "word": "objection",
+      "meaning": "반대"
+    },
+    {
+      "day": 4,
+      "word": "objective",
+      "meaning": "객관적인"
+    },
+    {
+      "day": 4,
+      "word": "flavor",
+      "meaning": "맛"
+    },
+    {
+      "day": 4,
+      "word": "favor",
+      "meaning": "부탁"
+    },
+    {
+      "day": 4,
+      "word": "favorite",
+      "meaning": "가장 좋아하는"
+    },
+    {
+      "day": 4,
+      "word": "favorable",
+      "meaning": "호의적인"
+    },
+    {
+      "day": 4,
+      "word": "involve",
+      "meaning": "포함하다"
+    },
+    {
+      "day": 4,
+      "word": "revolve",
+      "meaning": "회전하다"
+    },
+    {
+      "day": 4,
+      "word": "evolve",
+      "meaning": "진화하다"
+    },
+    {
+      "day": 5,
+      "word": "attain",
+      "meaning": "달성하다"
+    },
+    {
+      "day": 5,
+      "word": "contain",
+      "meaning": "포함하다"
+    },
+    {
+      "day": 5,
+      "word": "detain",
+      "meaning": "억류하다"
+    },
+    {
+      "day": 5,
+      "word": "retain",
+      "meaning": "보유하다"
+    },
+    {
+      "day": 5,
+      "word": "sustain",
+      "meaning": "지속시키다"
+    },
+    {
+      "day": 5,
+      "word": "maintain",
+      "meaning": "유지하다"
+    },
+    {
+      "day": 5,
+      "word": "entertain",
+      "meaning": "즐겁게 하다"
+    },
+    {
+      "day": 5,
+      "word": "obtain",
+      "meaning": "얻다"
+    },
+    {
+      "day": 5,
+      "word": "pertain",
+      "meaning": "속하다"
+    },
+    {
+      "day": 5,
+      "word": "bureaucracy",
+      "meaning": "관료주의"
+    },
+    {
+      "day": 5,
+      "word": "democracy",
+      "meaning": "민주주의"
+    },
+    {
+      "day": 5,
+      "word": "collect",
+      "meaning": "모으다"
+    },
+    {
+      "day": 5,
+      "word": "correct",
+      "meaning": "고치다"
+    },
+    {
+      "day": 5,
+      "word": "recollect",
+      "meaning": "회상하다"
+    },
+    {
+      "day": 5,
+      "word": "delete",
+      "meaning": "삭제하다"
+    },
+    {
+      "day": 5,
+      "word": "detect",
+      "meaning": "발견하다"
+    },
+    {
+      "day": 5,
+      "word": "dedicate",
+      "meaning": "헌신하다"
+    },
+    {
+      "day": 5,
+      "word": "dictate",
+      "meaning": "지시하다"
+    },
+    {
+      "day": 5,
+      "word": "indicate",
+      "meaning": "가리키다"
+    },
+    {
+      "day": 5,
+      "word": "economy",
+      "meaning": "경제"
+    },
+    {
+      "day": 5,
+      "word": "economics",
+      "meaning": "경제학"
+    },
+    {
+      "day": 5,
+      "word": "economic",
+      "meaning": "경제의"
+    },
+    {
+      "day": 5,
+      "word": "economical",
+      "meaning": "절약하는"
+    },
+    {
+      "day": 5,
+      "word": "farewell",
+      "meaning": "작별"
+    },
+    {
+      "day": 5,
+      "word": "welfare",
+      "meaning": "복지"
+    },
+    {
+      "day": 5,
+      "word": "fare",
+      "meaning": "요금"
+    },
+    {
+      "day": 5,
+      "word": "fair",
+      "meaning": "공평한"
+    },
+    {
+      "day": 5,
+      "word": "intimate",
+      "meaning": "친한"
+    },
+    {
+      "day": 5,
+      "word": "imitate",
+      "meaning": "모방하다"
+    },
+    {
+      "day": 5,
+      "word": "initiate",
+      "meaning": "시작하다"
+    },
+    {
+      "day": 5,
+      "word": "initial",
+      "meaning": "처음의"
+    },
+    {
+      "day": 5,
+      "word": "latter",
+      "meaning": "후자의"
+    },
+    {
+      "day": 5,
+      "word": "later",
+      "meaning": "나중의"
+    },
+    {
+      "day": 5,
+      "word": "liter",
+      "meaning": "1리터"
+    },
+    {
+      "day": 5,
+      "word": "litter",
+      "meaning": "쓰레기"
+    },
+    {
+      "day": 6,
+      "word": "admit",
+      "meaning": "인정하다"
+    },
+    {
+      "day": 6,
+      "word": "permit",
+      "meaning": "허락하다"
+    },
+    {
+      "day": 6,
+      "word": "submit",
+      "meaning": "제출하다"
+    },
+    {
+      "day": 6,
+      "word": "summit",
+      "meaning": "정상"
+    },
+    {
+      "day": 6,
+      "word": "commit",
+      "meaning": "저지르다"
+    },
+    {
+      "day": 6,
+      "word": "emit",
+      "meaning": "방출하다"
+    },
+    {
+      "day": 6,
+      "word": "omit",
+      "meaning": "생략하다"
+    },
+    {
+      "day": 6,
+      "word": "vomit",
+      "meaning": "토하다"
+    },
+    {
+      "day": 6,
+      "word": "burglar",
+      "meaning": "강도"
+    },
+    {
+      "day": 6,
+      "word": "vulgar",
+      "meaning": "저속한"
+    },
+    {
+      "day": 6,
+      "word": "castle",
+      "meaning": "성"
+    },
+    {
+      "day": 6,
+      "word": "cattle",
+      "meaning": "소"
+    },
+    {
+      "day": 6,
+      "word": "distinguish",
+      "meaning": "구별하다"
+    },
+    {
+      "day": 6,
+      "word": "extinguish",
+      "meaning": "끄다"
+    },
+    {
+      "day": 6,
+      "word": "expend",
+      "meaning": "소비하다"
+    },
+    {
+      "day": 6,
+      "word": "expand",
+      "meaning": "확장하다"
+    },
+    {
+      "day": 6,
+      "word": "extend",
+      "meaning": "확장하다"
+    },
+    {
+      "day": 6,
+      "word": "flour",
+      "meaning": "밀가루"
+    },
+    {
+      "day": 6,
+      "word": "floor",
+      "meaning": "바닥"
+    },
+    {
+      "day": 6,
+      "word": "garage",
+      "meaning": "차고"
+    },
+    {
+      "day": 6,
+      "word": "garbage",
+      "meaning": "쓰레기"
+    },
+    {
+      "day": 6,
+      "word": "hypothetical",
+      "meaning": "가설의"
+    },
+    {
+      "day": 6,
+      "word": "hypnotic",
+      "meaning": "최면의"
+    },
+    {
+      "day": 6,
+      "word": "intuition",
+      "meaning": "직관"
+    },
+    {
+      "day": 6,
+      "word": "tuition",
+      "meaning": "수업"
+    },
+    {
+      "day": 6,
+      "word": "lawn",
+      "meaning": "잔디"
+    },
+    {
+      "day": 6,
+      "word": "loan",
+      "meaning": "대출"
+    },
+    {
+      "day": 6,
+      "word": "miser",
+      "meaning": "구두쇠"
+    },
+    {
+      "day": 6,
+      "word": "misery",
+      "meaning": "불행"
+    },
+    {
+      "day": 6,
+      "word": "organize",
+      "meaning": "조직하다"
+    },
+    {
+      "day": 6,
+      "word": "originate",
+      "meaning": "비롯되다"
+    },
+    {
+      "day": 6,
+      "word": "pray",
+      "meaning": "기도하다"
+    },
+    {
+      "day": 6,
+      "word": "prey",
+      "meaning": "먹잇감"
+    },
+    {
+      "day": 6,
+      "word": "quality",
+      "meaning": "질"
+    },
+    {
+      "day": 6,
+      "word": "quantity",
+      "meaning": "양"
+    },
+    {
+      "day": 7,
+      "word": "affect",
+      "meaning": "영향을 미치다"
+    },
+    {
+      "day": 7,
+      "word": "affection",
+      "meaning": "애정"
+    },
+    {
+      "day": 7,
+      "word": "effect",
+      "meaning": "영향"
+    },
+    {
+      "day": 7,
+      "word": "infect",
+      "meaning": "감염시키다"
+    },
+    {
+      "day": 7,
+      "word": "defect",
+      "meaning": "결점"
+    },
+    {
+      "day": 7,
+      "word": "defeat",
+      "meaning": "이기다"
+    },
+    {
+      "day": 7,
+      "word": "bare",
+      "meaning": "발가벗은"
+    },
+    {
+      "day": 7,
+      "word": "bear",
+      "meaning": "견디다"
+    },
+    {
+      "day": 7,
+      "word": "censor",
+      "meaning": "검열하다"
+    },
+    {
+      "day": 7,
+      "word": "censure",
+      "meaning": "비난"
+    },
+    {
+      "day": 7,
+      "word": "deliver",
+      "meaning": "배달하다"
+    },
+    {
+      "day": 7,
+      "word": "deliberate",
+      "meaning": "숙고하다"
+    },
+    {
+      "day": 7,
+      "word": "delicate",
+      "meaning": "섬세한"
+    },
+    {
+      "day": 7,
+      "word": "expression",
+      "meaning": "표현"
+    },
+    {
+      "day": 7,
+      "word": "impression",
+      "meaning": "인상"
+    },
+    {
+      "day": 7,
+      "word": "depression",
+      "meaning": "절망감"
+    },
+    {
+      "day": 7,
+      "word": "flame",
+      "meaning": "불꽃"
+    },
+    {
+      "day": 7,
+      "word": "frame",
+      "meaning": "틀"
+    },
+    {
+      "day": 7,
+      "word": "famine",
+      "meaning": "굶주림"
+    },
+    {
+      "day": 7,
+      "word": "feminine",
+      "meaning": "여성의"
+    },
+    {
+      "day": 7,
+      "word": "invade",
+      "meaning": "침입하다"
+    },
+    {
+      "day": 7,
+      "word": "evade",
+      "meaning": "피하다"
+    },
+    {
+      "day": 7,
+      "word": "pervade",
+      "meaning": "만연하다"
+    },
+    {
+      "day": 7,
+      "word": "interval",
+      "meaning": "간격"
+    },
+    {
+      "day": 7,
+      "word": "intervene",
+      "meaning": "끼어들다"
+    },
+    {
+      "day": 7,
+      "word": "interfere",
+      "meaning": "간섭하다"
+    },
+    {
+      "day": 7,
+      "word": "medication",
+      "meaning": "약물"
+    },
+    {
+      "day": 7,
+      "word": "meditation",
+      "meaning": "명상"
+    },
+    {
+      "day": 7,
+      "word": "mediation",
+      "meaning": "중재"
+    },
+    {
+      "day": 7,
+      "word": "popularity",
+      "meaning": "인기"
+    },
+    {
+      "day": 7,
+      "word": "population",
+      "meaning": "인구"
+    },
+    {
+      "day": 7,
+      "word": "populous",
+      "meaning": "인구가 조밀한"
+    },
+    {
+      "day": 7,
+      "word": "rise",
+      "meaning": "오르다"
+    },
+    {
+      "day": 7,
+      "word": "raise",
+      "meaning": "올리다"
+    },
+    {
+      "day": 7,
+      "word": "arise",
+      "meaning": "생기다"
+    },
+    {
+      "day": 8,
+      "word": "ascribe",
+      "meaning": "~의 탓으로 돌리다"
+    },
+    {
+      "day": 8,
+      "word": "inscribe",
+      "meaning": "새기다"
+    },
+    {
+      "day": 8,
+      "word": "describe",
+      "meaning": "묘사하다"
+    },
+    {
+      "day": 8,
+      "word": "subscribe",
+      "meaning": "구독하다"
+    },
+    {
+      "day": 8,
+      "word": "prescribe",
+      "meaning": "처방하다"
+    },
+    {
+      "day": 8,
+      "word": "transcribe",
+      "meaning": "기록하다"
+    },
+    {
+      "day": 8,
+      "word": "bold",
+      "meaning": "대담한"
+    },
+    {
+      "day": 8,
+      "word": "bald",
+      "meaning": "대머리의"
+    },
+    {
+      "day": 8,
+      "word": "desert",
+      "meaning": "버리다"
+    },
+    {
+      "day": 8,
+      "word": "dessert",
+      "meaning": "후식"
+    },
+    {
+      "day": 8,
+      "word": "community",
+      "meaning": "공동체"
+    },
+    {
+      "day": 8,
+      "word": "commodity",
+      "meaning": "일용품"
+    },
+    {
+      "day": 8,
+      "word": "pick",
+      "meaning": "따다"
+    },
+    {
+      "day": 8,
+      "word": "peek",
+      "meaning": "엿보다"
+    },
+    {
+      "day": 8,
+      "word": "current",
+      "meaning": "현재의"
+    },
+    {
+      "day": 8,
+      "word": "currency",
+      "meaning": "화폐"
+    },
+    {
+      "day": 8,
+      "word": "flight",
+      "meaning": "비행"
+    },
+    {
+      "day": 8,
+      "word": "fright",
+      "meaning": "공포"
+    },
+    {
+      "day": 8,
+      "word": "freight",
+      "meaning": "화물"
+    },
+    {
+      "day": 8,
+      "word": "habitat",
+      "meaning": "서식지"
+    },
+    {
+      "day": 8,
+      "word": "inhabit",
+      "meaning": "살다"
+    },
+    {
+      "day": 8,
+      "word": "inherit",
+      "meaning": "상속하다"
+    },
+    {
+      "day": 8,
+      "word": "inhibit",
+      "meaning": "금지하다"
+    },
+    {
+      "day": 8,
+      "word": "imaginable",
+      "meaning": "상상할 수 있는"
+    },
+    {
+      "day": 8,
+      "word": "imaginary",
+      "meaning": "가상의"
+    },
+    {
+      "day": 8,
+      "word": "imaginative",
+      "meaning": "상상력이 풍부한"
+    },
+    {
+      "day": 8,
+      "word": "luxurious",
+      "meaning": "사치스러운"
+    },
+    {
+      "day": 8,
+      "word": "luxuriant",
+      "meaning": "풍부한"
+    },
+    {
+      "day": 8,
+      "word": "massage",
+      "meaning": "마사지"
+    },
+    {
+      "day": 8,
+      "word": "message",
+      "meaning": "메세지"
+    },
+    {
+      "day": 8,
+      "word": "profession",
+      "meaning": "직업"
+    },
+    {
+      "day": 8,
+      "word": "professional",
+      "meaning": "전문적인"
+    },
+    {
+      "day": 8,
+      "word": "professor",
+      "meaning": "교수"
+    },
+    {
+      "day": 8,
+      "word": "worship",
+      "meaning": "숭배"
+    },
+    {
+      "day": 8,
+      "word": "warship",
+      "meaning": "전함"
+    },
+    {
+      "day": 9,
+      "word": "aspect",
+      "meaning": "측면"
+    },
+    {
+      "day": 9,
+      "word": "respect",
+      "meaning": "존경하다"
+    },
+    {
+      "day": 9,
+      "word": "inspect",
+      "meaning": "조사하다"
+    },
+    {
+      "day": 9,
+      "word": "prospect",
+      "meaning": "전망"
+    },
+    {
+      "day": 9,
+      "word": "suspect",
+      "meaning": "의심하다"
+    },
+    {
+      "day": 9,
+      "word": "suspend",
+      "meaning": "중지하다"
+    },
+    {
+      "day": 9,
+      "word": "breakthrough",
+      "meaning": "돌파"
+    },
+    {
+      "day": 9,
+      "word": "breakdown",
+      "meaning": "고장"
+    },
+    {
+      "day": 9,
+      "word": "composure",
+      "meaning": "침착"
+    },
+    {
+      "day": 9,
+      "word": "composition",
+      "meaning": "구성"
+    },
+    {
+      "day": 9,
+      "word": "component",
+      "meaning": "요소"
+    },
+    {
+      "day": 9,
+      "word": "emergence",
+      "meaning": "출현"
+    },
+    {
+      "day": 9,
+      "word": "emergency",
+      "meaning": "비상사태"
+    },
+    {
+      "day": 9,
+      "word": "momentary",
+      "meaning": "일시적인"
+    },
+    {
+      "day": 9,
+      "word": "momentous",
+      "meaning": "중대한"
+    },
+    {
+      "day": 9,
+      "word": "momentum",
+      "meaning": "탄력"
+    },
+    {
+      "day": 9,
+      "word": "resolution",
+      "meaning": "해결책"
+    },
+    {
+      "day": 9,
+      "word": "solution",
+      "meaning": "해결책"
+    },
+    {
+      "day": 9,
+      "word": "revolution",
+      "meaning": "혁명"
+    },
+    {
+      "day": 9,
+      "word": "evolution",
+      "meaning": "진화"
+    },
+    {
+      "day": 9,
+      "word": "successful",
+      "meaning": "성공적인"
+    },
+    {
+      "day": 9,
+      "word": "successive",
+      "meaning": "연속적인"
+    },
+    {
+      "day": 9,
+      "word": "success",
+      "meaning": "성공"
+    },
+    {
+      "day": 9,
+      "word": "succession",
+      "meaning": "연속"
+    },
+    {
+      "day": 9,
+      "word": "transfer",
+      "meaning": "옮기다"
+    },
+    {
+      "day": 9,
+      "word": "transform",
+      "meaning": "변형하다"
+    },
+    {
+      "day": 9,
+      "word": "transport",
+      "meaning": "운송하다"
+    },
+    {
+      "day": 9,
+      "word": "transplant",
+      "meaning": "이식하다"
+    },
+    {
+      "day": 9,
+      "word": "transact",
+      "meaning": "거래하다"
+    },
+    {
+      "day": 9,
+      "word": "transmit",
+      "meaning": "전송하다"
+    },
+    {
+      "day": 9,
+      "word": "vacation",
+      "meaning": "휴가"
+    },
+    {
+      "day": 9,
+      "word": "vocation",
+      "meaning": "직업"
+    },
+    {
+      "day": 9,
+      "word": "withstand",
+      "meaning": "견디다"
+    },
+    {
+      "day": 9,
+      "word": "withhold",
+      "meaning": "억누르다"
+    },
+    {
+      "day": 9,
+      "word": "withdraw",
+      "meaning": "철회하다"
+    },
+    {
+      "day": 10,
+      "word": "assist",
+      "meaning": "돕다"
+    },
+    {
+      "day": 10,
+      "word": "resist",
+      "meaning": "저항하다"
+    },
+    {
+      "day": 10,
+      "word": "consist",
+      "meaning": "~로 구성되다"
+    },
+    {
+      "day": 10,
+      "word": "insist",
+      "meaning": "주장하다"
+    },
+    {
+      "day": 10,
+      "word": "persist",
+      "meaning": "주장하다"
+    },
+    {
+      "day": 10,
+      "word": "exist",
+      "meaning": "존재하다"
+    },
+    {
+      "day": 10,
+      "word": "covert",
+      "meaning": "비밀의"
+    },
+    {
+      "day": 10,
+      "word": "convert",
+      "meaning": "변환시키다"
+    },
+    {
+      "day": 10,
+      "word": "extrovert",
+      "meaning": "외향적인 사람"
+    },
+    {
+      "day": 10,
+      "word": "introvert",
+      "meaning": "내향적인 사람"
+    },
+    {
+      "day": 10,
+      "word": "controvert",
+      "meaning": "반박하다"
+    },
+    {
+      "day": 10,
+      "word": "divert",
+      "meaning": "방향을 바꾸다"
+    },
+    {
+      "day": 10,
+      "word": "avert",
+      "meaning": "피하다"
+    },
+    {
+      "day": 10,
+      "word": "invert",
+      "meaning": "뒤집다"
+    },
+    {
+      "day": 10,
+      "word": "domesticate",
+      "meaning": "사육하다"
+    },
+    {
+      "day": 10,
+      "word": "estimate",
+      "meaning": "추정하다"
+    },
+    {
+      "day": 10,
+      "word": "ultimate",
+      "meaning": "궁극적인"
+    },
+    {
+      "day": 10,
+      "word": "eminent",
+      "meaning": "유명한"
+    },
+    {
+      "day": 10,
+      "word": "imminent",
+      "meaning": "긴급한"
+    },
+    {
+      "day": 10,
+      "word": "prominent",
+      "meaning": "유명한"
+    },
+    {
+      "day": 10,
+      "word": "opponent",
+      "meaning": "상대방"
+    },
+    {
+      "day": 10,
+      "word": "globe",
+      "meaning": "지구"
+    },
+    {
+      "day": 10,
+      "word": "grove",
+      "meaning": "작은 숲"
+    },
+    {
+      "day": 10,
+      "word": "intellectual",
+      "meaning": "지적인"
+    },
+    {
+      "day": 10,
+      "word": "intelligent",
+      "meaning": "영리한"
+    },
+    {
+      "day": 10,
+      "word": "intelligible",
+      "meaning": "명료한"
+    },
+    {
+      "day": 10,
+      "word": "intension",
+      "meaning": "강도"
+    },
+    {
+      "day": 10,
+      "word": "intention",
+      "meaning": "의도"
+    },
+    {
+      "day": 10,
+      "word": "massive",
+      "meaning": "거대한"
+    },
+    {
+      "day": 10,
+      "word": "mass",
+      "meaning": "덩어리"
+    },
+    {
+      "day": 10,
+      "word": "mess",
+      "meaning": "엉망진창"
+    },
+    {
+      "day": 10,
+      "word": "messy",
+      "meaning": "어질러진"
+    },
+    {
+      "day": 10,
+      "word": "production",
+      "meaning": "생산"
+    },
+    {
+      "day": 10,
+      "word": "productivity",
+      "meaning": "생산성"
+    },
+    {
+      "day": 10,
+      "word": "produce",
+      "meaning": "농산물"
+    },
+    {
+      "day": 11,
+      "word": "aspire",
+      "meaning": "열망하다"
+    },
+    {
+      "day": 11,
+      "word": "expire",
+      "meaning": "만료되다"
+    },
+    {
+      "day": 11,
+      "word": "inspire",
+      "meaning": "영감을 주다"
+    },
+    {
+      "day": 11,
+      "word": "conspire",
+      "meaning": "음모를 꾸미다"
+    },
+    {
+      "day": 11,
+      "word": "perspire",
+      "meaning": "땀을 흘리다"
+    },
+    {
+      "day": 11,
+      "word": "respire",
+      "meaning": "호흡하다"
+    },
+    {
+      "day": 11,
+      "word": "beast",
+      "meaning": "짐승"
+    },
+    {
+      "day": 11,
+      "word": "breast",
+      "meaning": "가슴"
+    },
+    {
+      "day": 11,
+      "word": "comply",
+      "meaning": "따르다"
+    },
+    {
+      "day": 11,
+      "word": "reply",
+      "meaning": "대답하다"
+    },
+    {
+      "day": 11,
+      "word": "imply",
+      "meaning": "함축하다"
+    },
+    {
+      "day": 11,
+      "word": "elect",
+      "meaning": "선출하다"
+    },
+    {
+      "day": 11,
+      "word": "erect",
+      "meaning": "세우다"
+    },
+    {
+      "day": 11,
+      "word": "swallow",
+      "meaning": "삼키다"
+    },
+    {
+      "day": 11,
+      "word": "shallow",
+      "meaning": "얕은"
+    },
+    {
+      "day": 11,
+      "word": "sparrow",
+      "meaning": "참새"
+    },
+    {
+      "day": 11,
+      "word": "wave",
+      "meaning": "물결"
+    },
+    {
+      "day": 11,
+      "word": "weave",
+      "meaning": "짜다"
+    },
+    {
+      "day": 11,
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "day": 11,
+      "word": "variable",
+      "meaning": "변하기 쉬운"
+    },
+    {
+      "day": 11,
+      "word": "valuable",
+      "meaning": "귀중한"
+    },
+    {
+      "day": 11,
+      "word": "invaluable",
+      "meaning": "귀중한"
+    },
+    {
+      "day": 11,
+      "word": "valueless",
+      "meaning": "가치없는"
+    },
+    {
+      "day": 11,
+      "word": "priceless",
+      "meaning": "귀중한"
+    },
+    {
+      "day": 11,
+      "word": "thorough",
+      "meaning": "철저한"
+    },
+    {
+      "day": 11,
+      "word": "through",
+      "meaning": "~을 통해"
+    },
+    {
+      "day": 11,
+      "word": "though",
+      "meaning": "비록 ~일지라도"
+    },
+    {
+      "day": 11,
+      "word": "thought",
+      "meaning": "생각"
+    },
+    {
+      "day": 11,
+      "word": "robber",
+      "meaning": "강도"
+    },
+    {
+      "day": 11,
+      "word": "rubber",
+      "meaning": "고무"
+    },
+    {
+      "day": 11,
+      "word": "pulse",
+      "meaning": "맥박"
+    },
+    {
+      "day": 11,
+      "word": "purse",
+      "meaning": "지갑"
+    },
+    {
+      "day": 11,
+      "word": "moral",
+      "meaning": "도덕적인"
+    },
+    {
+      "day": 11,
+      "word": "mortal",
+      "meaning": "죽을 운명의"
+    },
+    {
+      "day": 11,
+      "word": "morale",
+      "meaning": "사기"
+    },
+    {
+      "day": 12,
+      "word": "bow",
+      "meaning": "활"
+    },
+    {
+      "day": 12,
+      "word": "bough",
+      "meaning": "큰 가지"
+    },
+    {
+      "day": 12,
+      "word": "brow",
+      "meaning": "이마"
+    },
+    {
+      "day": 12,
+      "word": "grow",
+      "meaning": "성장하다"
+    },
+    {
+      "day": 12,
+      "word": "blow",
+      "meaning": "불다"
+    },
+    {
+      "day": 12,
+      "word": "glow",
+      "meaning": "빛나다"
+    },
+    {
+      "day": 12,
+      "word": "literal",
+      "meaning": "글자 그대로의"
+    },
+    {
+      "day": 12,
+      "word": "literary",
+      "meaning": "문학의"
+    },
+    {
+      "day": 12,
+      "word": "literate",
+      "meaning": "읽고 쓸 수 있는"
+    },
+    {
+      "day": 12,
+      "word": "illiterate",
+      "meaning": "읽고 쓸 수 없는"
+    },
+    {
+      "day": 12,
+      "word": "literacy",
+      "meaning": "읽고 쓰는 능력"
+    },
+    {
+      "day": 12,
+      "word": "illiteracy",
+      "meaning": "문맹"
+    },
+    {
+      "day": 12,
+      "word": "general",
+      "meaning": "일반적인"
+    },
+    {
+      "day": 12,
+      "word": "generous",
+      "meaning": "관대한"
+    },
+    {
+      "day": 12,
+      "word": "generalize",
+      "meaning": "일반화하다"
+    },
+    {
+      "day": 12,
+      "word": "generate",
+      "meaning": "발생시키다"
+    },
+    {
+      "day": 12,
+      "word": "deficient",
+      "meaning": "부족한"
+    },
+    {
+      "day": 12,
+      "word": "proficient",
+      "meaning": "능숙한"
+    },
+    {
+      "day": 12,
+      "word": "sufficient",
+      "meaning": "충분한"
+    },
+    {
+      "day": 12,
+      "word": "efficient",
+      "meaning": "능률적인"
+    },
+    {
+      "day": 12,
+      "word": "cite",
+      "meaning": "인용하다"
+    },
+    {
+      "day": 12,
+      "word": "site",
+      "meaning": "장소"
+    },
+    {
+      "day": 12,
+      "word": "sight",
+      "meaning": "시각"
+    },
+    {
+      "day": 12,
+      "word": "insight",
+      "meaning": "통찰력"
+    },
+    {
+      "day": 12,
+      "word": "contend",
+      "meaning": "다투다"
+    },
+    {
+      "day": 12,
+      "word": "pretend",
+      "meaning": "~인체하다"
+    },
+    {
+      "day": 12,
+      "word": "intend",
+      "meaning": "의도하다"
+    },
+    {
+      "day": 12,
+      "word": "tend",
+      "meaning": "~하는 경향이 있다"
+    },
+    {
+      "day": 12,
+      "word": "confine",
+      "meaning": "한정하다"
+    },
+    {
+      "day": 12,
+      "word": "define",
+      "meaning": "정의하다"
+    },
+    {
+      "day": 12,
+      "word": "refine",
+      "meaning": "정제하다"
+    },
+    {
+      "day": 12,
+      "word": "appreciation",
+      "meaning": "인정"
+    },
+    {
+      "day": 12,
+      "word": "application",
+      "meaning": "응용"
+    },
+    {
+      "day": 12,
+      "word": "appliance",
+      "meaning": "기구"
+    },
+    {
+      "day": 12,
+      "word": "applicant",
+      "meaning": "지원자"
+    },
+    {
+      "day": 13,
+      "word": "approve",
+      "meaning": "찬성하다"
+    },
+    {
+      "day": 13,
+      "word": "improve",
+      "meaning": "개선시키다"
+    },
+    {
+      "day": 13,
+      "word": "prove",
+      "meaning": "입증하다"
+    },
+    {
+      "day": 13,
+      "word": "disprove",
+      "meaning": "잘못을 입증하다"
+    },
+    {
+      "day": 13,
+      "word": "compose",
+      "meaning": "구성하다"
+    },
+    {
+      "day": 13,
+      "word": "impose",
+      "meaning": "부과하다"
+    },
+    {
+      "day": 13,
+      "word": "oppose",
+      "meaning": "반대하다"
+    },
+    {
+      "day": 13,
+      "word": "expose",
+      "meaning": "노출시키다"
+    },
+    {
+      "day": 13,
+      "word": "suppose",
+      "meaning": "가정하다"
+    },
+    {
+      "day": 13,
+      "word": "propose",
+      "meaning": "제안하다"
+    },
+    {
+      "day": 13,
+      "word": "purpose",
+      "meaning": "목적"
+    },
+    {
+      "day": 13,
+      "word": "pose",
+      "meaning": "제기하다"
+    },
+    {
+      "day": 13,
+      "word": "pause",
+      "meaning": "멈추다"
+    },
+    {
+      "day": 13,
+      "word": "dispose",
+      "meaning": "처리하다"
+    },
+    {
+      "day": 13,
+      "word": "distinct",
+      "meaning": "뚜렷한"
+    },
+    {
+      "day": 13,
+      "word": "extinct",
+      "meaning": "멸종된"
+    },
+    {
+      "day": 13,
+      "word": "instinct",
+      "meaning": "본능"
+    },
+    {
+      "day": 13,
+      "word": "compel",
+      "meaning": "강요하다"
+    },
+    {
+      "day": 13,
+      "word": "expel",
+      "meaning": "쫓아내다"
+    },
+    {
+      "day": 13,
+      "word": "impel",
+      "meaning": "강요하다"
+    },
+    {
+      "day": 13,
+      "word": "propel",
+      "meaning": "추진하다"
+    },
+    {
+      "day": 13,
+      "word": "dispel",
+      "meaning": "쫓아버리다"
+    },
+    {
+      "day": 13,
+      "word": "repel",
+      "meaning": "쫓아버리다"
+    },
+    {
+      "day": 13,
+      "word": "gaze",
+      "meaning": "응시하다"
+    },
+    {
+      "day": 13,
+      "word": "graze",
+      "meaning": "풀을 뜯다"
+    },
+    {
+      "day": 13,
+      "word": "healthful",
+      "meaning": "건강에 좋은"
+    },
+    {
+      "day": 13,
+      "word": "healthy",
+      "meaning": "건강한"
+    },
+    {
+      "day": 13,
+      "word": "inform",
+      "meaning": "알리다"
+    },
+    {
+      "day": 13,
+      "word": "reform",
+      "meaning": "개혁하다"
+    },
+    {
+      "day": 13,
+      "word": "jealous",
+      "meaning": "질투하는"
+    },
+    {
+      "day": 13,
+      "word": "zealous",
+      "meaning": "열성적인"
+    },
+    {
+      "day": 13,
+      "word": "moderate",
+      "meaning": "알맞은"
+    },
+    {
+      "day": 13,
+      "word": "modest",
+      "meaning": "겸손한"
+    },
+    {
+      "day": 13,
+      "word": "murder",
+      "meaning": "살인"
+    },
+    {
+      "day": 13,
+      "word": "murmur",
+      "meaning": "중얼거리다"
+    },
+    {
+      "day": 14,
+      "word": "proper",
+      "meaning": "적당한"
+    },
+    {
+      "day": 14,
+      "word": "prosper",
+      "meaning": "번영하다"
+    },
+    {
+      "day": 14,
+      "word": "property",
+      "meaning": "재산"
+    },
+    {
+      "day": 14,
+      "word": "poverty",
+      "meaning": "가난"
+    },
+    {
+      "day": 14,
+      "word": "prosperity",
+      "meaning": "번영"
+    },
+    {
+      "day": 14,
+      "word": "disguise",
+      "meaning": "변장"
+    },
+    {
+      "day": 14,
+      "word": "disgust",
+      "meaning": "혐오"
+    },
+    {
+      "day": 14,
+      "word": "despise",
+      "meaning": "경멸하다"
+    },
+    {
+      "day": 14,
+      "word": "despair",
+      "meaning": "절망"
+    },
+    {
+      "day": 14,
+      "word": "conserve",
+      "meaning": "보존하다"
+    },
+    {
+      "day": 14,
+      "word": "converse",
+      "meaning": "대화하다"
+    },
+    {
+      "day": 14,
+      "word": "preserve",
+      "meaning": "보존하다"
+    },
+    {
+      "day": 14,
+      "word": "deserve",
+      "meaning": "~의 자격이 있다"
+    },
+    {
+      "day": 14,
+      "word": "observe",
+      "meaning": "관찰하다"
+    },
+    {
+      "day": 14,
+      "word": "reserve",
+      "meaning": "예약하다"
+    },
+    {
+      "day": 14,
+      "word": "reverse",
+      "meaning": "거꾸로 하다"
+    },
+    {
+      "day": 14,
+      "word": "diverse",
+      "meaning": "다양한"
+    },
+    {
+      "day": 14,
+      "word": "inverse",
+      "meaning": "반대의"
+    },
+    {
+      "day": 14,
+      "word": "adverse",
+      "meaning": "부정적인"
+    },
+    {
+      "day": 14,
+      "word": "apprehend",
+      "meaning": "이해하다"
+    },
+    {
+      "day": 14,
+      "word": "reprehend",
+      "meaning": "꾸짖다"
+    },
+    {
+      "day": 14,
+      "word": "comprehend",
+      "meaning": "이해하다"
+    },
+    {
+      "day": 14,
+      "word": "awake",
+      "meaning": "깨우다"
+    },
+    {
+      "day": 14,
+      "word": "wake",
+      "meaning": "잠이 깨다"
+    },
+    {
+      "day": 14,
+      "word": "waken",
+      "meaning": "깨우다"
+    },
+    {
+      "day": 14,
+      "word": "custom",
+      "meaning": "관습"
+    },
+    {
+      "day": 14,
+      "word": "customs",
+      "meaning": "세관"
+    },
+    {
+      "day": 14,
+      "word": "costume",
+      "meaning": "복장"
+    },
+    {
+      "day": 14,
+      "word": "dense",
+      "meaning": "빽빽한"
+    },
+    {
+      "day": 14,
+      "word": "tense",
+      "meaning": "긴장한"
+    },
+    {
+      "day": 14,
+      "word": "conviction",
+      "meaning": "확신"
+    },
+    {
+      "day": 14,
+      "word": "contention",
+      "meaning": "논쟁"
+    },
+    {
+      "day": 14,
+      "word": "concentration",
+      "meaning": "집중"
+    },
+    {
+      "day": 14,
+      "word": "fluency",
+      "meaning": "유창함"
+    },
+    {
+      "day": 14,
+      "word": "frequency",
+      "meaning": "빈도"
+    },
+    {
+      "day": 15,
+      "word": "accord",
+      "meaning": "일치"
+    },
+    {
+      "day": 15,
+      "word": "concord",
+      "meaning": "일치"
+    },
+    {
+      "day": 15,
+      "word": "discord",
+      "meaning": "불화"
+    },
+    {
+      "day": 15,
+      "word": "discard",
+      "meaning": "버리다"
+    },
+    {
+      "day": 15,
+      "word": "commend",
+      "meaning": "칭찬하다"
+    },
+    {
+      "day": 15,
+      "word": "comment",
+      "meaning": "논평하다"
+    },
+    {
+      "day": 15,
+      "word": "commence",
+      "meaning": "시작하다"
+    },
+    {
+      "day": 15,
+      "word": "command",
+      "meaning": "명령하다"
+    },
+    {
+      "day": 15,
+      "word": "recommend",
+      "meaning": "추천하다"
+    },
+    {
+      "day": 15,
+      "word": "employer",
+      "meaning": "사장"
+    },
+    {
+      "day": 15,
+      "word": "employee",
+      "meaning": "직원"
+    },
+    {
+      "day": 15,
+      "word": "heritage",
+      "meaning": "유산"
+    },
+    {
+      "day": 15,
+      "word": "heredity",
+      "meaning": "유전"
+    },
+    {
+      "day": 15,
+      "word": "masculine",
+      "meaning": "남성의"
+    },
+    {
+      "day": 15,
+      "word": "muscular",
+      "meaning": "근육의"
+    },
+    {
+      "day": 15,
+      "word": "legal",
+      "meaning": "법적인"
+    },
+    {
+      "day": 15,
+      "word": "legible",
+      "meaning": "읽기 쉬운"
+    },
+    {
+      "day": 15,
+      "word": "overview",
+      "meaning": "개요"
+    },
+    {
+      "day": 15,
+      "word": "review",
+      "meaning": "재검토하다"
+    },
+    {
+      "day": 15,
+      "word": "preview",
+      "meaning": "미리보기"
+    },
+    {
+      "day": 15,
+      "word": "view",
+      "meaning": "보다"
+    },
+    {
+      "day": 15,
+      "word": "sensible",
+      "meaning": "분별있는"
+    },
+    {
+      "day": 15,
+      "word": "sensitive",
+      "meaning": "민감한"
+    },
+    {
+      "day": 15,
+      "word": "sensual",
+      "meaning": "육감적인"
+    },
+    {
+      "day": 15,
+      "word": "senseless",
+      "meaning": "감각이 없는"
+    },
+    {
+      "day": 15,
+      "word": "sensational",
+      "meaning": "선풍적인"
+    },
+    {
+      "day": 15,
+      "word": "sensuous",
+      "meaning": "감각적인"
+    },
+    {
+      "day": 15,
+      "word": "worm",
+      "meaning": "벌레"
+    },
+    {
+      "day": 15,
+      "word": "swarm",
+      "meaning": "무리"
+    },
+    {
+      "day": 15,
+      "word": "industrious",
+      "meaning": "부지런한"
+    },
+    {
+      "day": 15,
+      "word": "industrial",
+      "meaning": "산업의"
+    },
+    {
+      "day": 15,
+      "word": "friction",
+      "meaning": "마찰"
+    },
+    {
+      "day": 15,
+      "word": "fraction",
+      "meaning": "파편"
+    },
+    {
+      "day": 15,
+      "word": "compact",
+      "meaning": "소형인"
+    },
+    {
+      "day": 15,
+      "word": "impact",
+      "meaning": "충격"
+    },
+    {
+      "day": 16,
+      "word": "conduce",
+      "meaning": "이끌다"
+    },
+    {
+      "day": 16,
+      "word": "induce",
+      "meaning": "유도하다"
+    },
+    {
+      "day": 16,
+      "word": "seduce",
+      "meaning": "유혹하다"
+    },
+    {
+      "day": 16,
+      "word": "deduce",
+      "meaning": "추론하다"
+    },
+    {
+      "day": 16,
+      "word": "constitute",
+      "meaning": "구성하다"
+    },
+    {
+      "day": 16,
+      "word": "substitute",
+      "meaning": "대체하다"
+    },
+    {
+      "day": 16,
+      "word": "institute",
+      "meaning": "연구소"
+    },
+    {
+      "day": 16,
+      "word": "employ",
+      "meaning": "고용하다"
+    },
+    {
+      "day": 16,
+      "word": "deploy",
+      "meaning": "배치하다"
+    },
+    {
+      "day": 16,
+      "word": "certify",
+      "meaning": "증명하다"
+    },
+    {
+      "day": 16,
+      "word": "fortify",
+      "meaning": "요새화하다"
+    },
+    {
+      "day": 16,
+      "word": "certificate",
+      "meaning": "증명서"
+    },
+    {
+      "day": 16,
+      "word": "abroad",
+      "meaning": "해외로"
+    },
+    {
+      "day": 16,
+      "word": "aboard",
+      "meaning": "탑승하여"
+    },
+    {
+      "day": 16,
+      "word": "board",
+      "meaning": "위원회"
+    },
+    {
+      "day": 16,
+      "word": "broad",
+      "meaning": "넓은"
+    },
+    {
+      "day": 16,
+      "word": "statistically",
+      "meaning": "통계적으로"
+    },
+    {
+      "day": 16,
+      "word": "strategically",
+      "meaning": "전략적으로"
+    },
+    {
+      "day": 16,
+      "word": "bleed",
+      "meaning": "피흘리다"
+    },
+    {
+      "day": 16,
+      "word": "breed",
+      "meaning": "기르다"
+    },
+    {
+      "day": 16,
+      "word": "thread",
+      "meaning": "실"
+    },
+    {
+      "day": 16,
+      "word": "threat",
+      "meaning": "위협"
+    },
+    {
+      "day": 16,
+      "word": "treat",
+      "meaning": "치료하다"
+    },
+    {
+      "day": 16,
+      "word": "verify",
+      "meaning": "입증하다"
+    },
+    {
+      "day": 16,
+      "word": "versify",
+      "meaning": "시를 짓다"
+    },
+    {
+      "day": 16,
+      "word": "ascend",
+      "meaning": "상승하다"
+    },
+    {
+      "day": 16,
+      "word": "ascent",
+      "meaning": "상승"
+    },
+    {
+      "day": 16,
+      "word": "descend",
+      "meaning": "하강하다"
+    },
+    {
+      "day": 16,
+      "word": "descent",
+      "meaning": "하강"
+    },
+    {
+      "day": 16,
+      "word": "transcend",
+      "meaning": "초월하다"
+    },
+    {
+      "day": 16,
+      "word": "conversion",
+      "meaning": "전환"
+    },
+    {
+      "day": 16,
+      "word": "inversion",
+      "meaning": "도치"
+    },
+    {
+      "day": 16,
+      "word": "diversion",
+      "meaning": "전환"
+    },
+    {
+      "day": 16,
+      "word": "version",
+      "meaning": "번역"
+    },
+    {
+      "day": 16,
+      "word": "vision",
+      "meaning": "시야"
+    },
+    {
+      "day": 17,
+      "word": "confer",
+      "meaning": "수여하다"
+    },
+    {
+      "day": 17,
+      "word": "infer",
+      "meaning": "추론하다"
+    },
+    {
+      "day": 17,
+      "word": "refer",
+      "meaning": "언급하다"
+    },
+    {
+      "day": 17,
+      "word": "prefer",
+      "meaning": "선호하다"
+    },
+    {
+      "day": 17,
+      "word": "defer",
+      "meaning": "연기하다"
+    },
+    {
+      "day": 17,
+      "word": "deter",
+      "meaning": "방해하다"
+    },
+    {
+      "day": 17,
+      "word": "emerge",
+      "meaning": "나타나다"
+    },
+    {
+      "day": 17,
+      "word": "merge",
+      "meaning": "합병하다"
+    },
+    {
+      "day": 17,
+      "word": "submerge",
+      "meaning": "잠기다"
+    },
+    {
+      "day": 17,
+      "word": "heel",
+      "meaning": "뒤꿈치"
+    },
+    {
+      "day": 17,
+      "word": "heal",
+      "meaning": "치료하다"
+    },
+    {
+      "day": 17,
+      "word": "hill",
+      "meaning": "언덕"
+    },
+    {
+      "day": 17,
+      "word": "noble",
+      "meaning": "고상한"
+    },
+    {
+      "day": 17,
+      "word": "novel",
+      "meaning": "참신한"
+    },
+    {
+      "day": 17,
+      "word": "novelty",
+      "meaning": "새로움"
+    },
+    {
+      "day": 17,
+      "word": "proceed",
+      "meaning": "나아가다"
+    },
+    {
+      "day": 17,
+      "word": "precede",
+      "meaning": "먼저 일어나다"
+    },
+    {
+      "day": 17,
+      "word": "recede",
+      "meaning": "후퇴하다"
+    },
+    {
+      "day": 17,
+      "word": "port",
+      "meaning": "항구"
+    },
+    {
+      "day": 17,
+      "word": "fort",
+      "meaning": "요새"
+    },
+    {
+      "day": 17,
+      "word": "sort",
+      "meaning": "종류"
+    },
+    {
+      "day": 17,
+      "word": "respectable",
+      "meaning": "존경할만한"
+    },
+    {
+      "day": 17,
+      "word": "respected",
+      "meaning": "존경받는"
+    },
+    {
+      "day": 17,
+      "word": "respectful",
+      "meaning": "존경하는"
+    },
+    {
+      "day": 17,
+      "word": "respective",
+      "meaning": "각각의"
+    },
+    {
+      "day": 17,
+      "word": "statue",
+      "meaning": "조각상"
+    },
+    {
+      "day": 17,
+      "word": "status",
+      "meaning": "지위"
+    },
+    {
+      "day": 17,
+      "word": "stature",
+      "meaning": "키"
+    },
+    {
+      "day": 17,
+      "word": "statute",
+      "meaning": "법규"
+    },
+    {
+      "day": 17,
+      "word": "tide",
+      "meaning": "밀물과 썰물"
+    },
+    {
+      "day": 17,
+      "word": "tidy",
+      "meaning": "깔끔한"
+    },
+    {
+      "day": 17,
+      "word": "tiny",
+      "meaning": "작은"
+    },
+    {
+      "day": 17,
+      "word": "sacred",
+      "meaning": "신성한"
+    },
+    {
+      "day": 17,
+      "word": "scared",
+      "meaning": "겁먹은"
+    },
+    {
+      "day": 17,
+      "word": "scarce",
+      "meaning": "희귀한"
+    },
+    {
+      "day": 18,
+      "word": "spit",
+      "meaning": "뱉다"
+    },
+    {
+      "day": 18,
+      "word": "spirit",
+      "meaning": "정신"
+    },
+    {
+      "day": 18,
+      "word": "split",
+      "meaning": "쪼개다"
+    },
+    {
+      "day": 18,
+      "word": "revoke",
+      "meaning": "취소하다"
+    },
+    {
+      "day": 18,
+      "word": "rebuke",
+      "meaning": "꾸짖다"
+    },
+    {
+      "day": 18,
+      "word": "evoke",
+      "meaning": "일깨우다"
+    },
+    {
+      "day": 18,
+      "word": "marble",
+      "meaning": "대리석"
+    },
+    {
+      "day": 18,
+      "word": "marvel",
+      "meaning": "놀라움"
+    },
+    {
+      "day": 18,
+      "word": "lamb",
+      "meaning": "새끼 양"
+    },
+    {
+      "day": 18,
+      "word": "limb",
+      "meaning": "팔다리"
+    },
+    {
+      "day": 18,
+      "word": "limp",
+      "meaning": "절뚝거리다"
+    },
+    {
+      "day": 18,
+      "word": "daily",
+      "meaning": "매일의"
+    },
+    {
+      "day": 18,
+      "word": "diary",
+      "meaning": "일기"
+    },
+    {
+      "day": 18,
+      "word": "dairy",
+      "meaning": "낙농업"
+    },
+    {
+      "day": 18,
+      "word": "consistency",
+      "meaning": "일관성"
+    },
+    {
+      "day": 18,
+      "word": "hesitancy",
+      "meaning": "주저"
+    },
+    {
+      "day": 18,
+      "word": "insistence",
+      "meaning": "주장"
+    },
+    {
+      "day": 18,
+      "word": "confuse",
+      "meaning": "혼란스럽게 하다"
+    },
+    {
+      "day": 18,
+      "word": "refuse",
+      "meaning": "거절하다"
+    },
+    {
+      "day": 18,
+      "word": "diffuse",
+      "meaning": "분산시키다"
+    },
+    {
+      "day": 18,
+      "word": "confession",
+      "meaning": "고백"
+    },
+    {
+      "day": 18,
+      "word": "comparison",
+      "meaning": "비교"
+    },
+    {
+      "day": 18,
+      "word": "compassion",
+      "meaning": "연민"
+    },
+    {
+      "day": 18,
+      "word": "passion",
+      "meaning": "열정"
+    },
+    {
+      "day": 18,
+      "word": "conceal",
+      "meaning": "숨기다"
+    },
+    {
+      "day": 18,
+      "word": "reveal",
+      "meaning": "드러내다"
+    },
+    {
+      "day": 18,
+      "word": "concentrate",
+      "meaning": "집중하다"
+    },
+    {
+      "day": 18,
+      "word": "contaminate",
+      "meaning": "오염시키다"
+    },
+    {
+      "day": 18,
+      "word": "anonymous",
+      "meaning": "익명의"
+    },
+    {
+      "day": 18,
+      "word": "unanimous",
+      "meaning": "만장일치의"
+    },
+    {
+      "day": 18,
+      "word": "assert",
+      "meaning": "주장하다"
+    },
+    {
+      "day": 18,
+      "word": "alert",
+      "meaning": "경계하는"
+    },
+    {
+      "day": 18,
+      "word": "exert",
+      "meaning": "가하다"
+    },
+    {
+      "day": 18,
+      "word": "calculate",
+      "meaning": "계산하다"
+    },
+    {
+      "day": 18,
+      "word": "circulate",
+      "meaning": "순환하다"
+    },
+    {
+      "day": 19,
+      "word": "acclaim",
+      "meaning": "환호하다"
+    },
+    {
+      "day": 19,
+      "word": "claim",
+      "meaning": "주장하다"
+    },
+    {
+      "day": 19,
+      "word": "proclaim",
+      "meaning": "선언하다"
+    },
+    {
+      "day": 19,
+      "word": "reclaim",
+      "meaning": "되찾다"
+    },
+    {
+      "day": 19,
+      "word": "arrow",
+      "meaning": "화살"
+    },
+    {
+      "day": 19,
+      "word": "allow",
+      "meaning": "허락하다"
+    },
+    {
+      "day": 19,
+      "word": "tempt",
+      "meaning": "유혹하다"
+    },
+    {
+      "day": 19,
+      "word": "attempt",
+      "meaning": "시도하다"
+    },
+    {
+      "day": 19,
+      "word": "summon",
+      "meaning": "소환하다"
+    },
+    {
+      "day": 19,
+      "word": "sermon",
+      "meaning": "설교"
+    },
+    {
+      "day": 19,
+      "word": "staff",
+      "meaning": "직원"
+    },
+    {
+      "day": 19,
+      "word": "stiff",
+      "meaning": "뻣뻣한"
+    },
+    {
+      "day": 19,
+      "word": "stuff",
+      "meaning": "물건"
+    },
+    {
+      "day": 19,
+      "word": "row",
+      "meaning": "줄"
+    },
+    {
+      "day": 19,
+      "word": "raw",
+      "meaning": "날 것의"
+    },
+    {
+      "day": 19,
+      "word": "pork",
+      "meaning": "돼지고기"
+    },
+    {
+      "day": 19,
+      "word": "poke",
+      "meaning": "찌르다"
+    },
+    {
+      "day": 19,
+      "word": "obsession",
+      "meaning": "집착"
+    },
+    {
+      "day": 19,
+      "word": "possession",
+      "meaning": "소유"
+    },
+    {
+      "day": 19,
+      "word": "memorable",
+      "meaning": "기억할만한"
+    },
+    {
+      "day": 19,
+      "word": "memorial",
+      "meaning": "기념의"
+    },
+    {
+      "day": 19,
+      "word": "loyal",
+      "meaning": "충성스러운"
+    },
+    {
+      "day": 19,
+      "word": "royal",
+      "meaning": "왕족의"
+    },
+    {
+      "day": 19,
+      "word": "interpret",
+      "meaning": "해석하다"
+    },
+    {
+      "day": 19,
+      "word": "interrupt",
+      "meaning": "방해하다"
+    },
+    {
+      "day": 19,
+      "word": "identity",
+      "meaning": "정체성"
+    },
+    {
+      "day": 19,
+      "word": "identification",
+      "meaning": "신원확인"
+    },
+    {
+      "day": 19,
+      "word": "historic",
+      "meaning": "역사상 유명한"
+    },
+    {
+      "day": 19,
+      "word": "historical",
+      "meaning": "역사의"
+    },
+    {
+      "day": 19,
+      "word": "confirm",
+      "meaning": "확인하다"
+    },
+    {
+      "day": 19,
+      "word": "conform",
+      "meaning": "따르다"
+    },
+    {
+      "day": 19,
+      "word": "firm",
+      "meaning": "확고한"
+    },
+    {
+      "day": 19,
+      "word": "correlation",
+      "meaning": "상관관계"
+    },
+    {
+      "day": 19,
+      "word": "correction",
+      "meaning": "수정"
+    },
+    {
+      "day": 19,
+      "word": "collection",
+      "meaning": "수집"
+    },
+    {
+      "day": 20,
+      "word": "assume",
+      "meaning": "가정하다"
+    },
+    {
+      "day": 20,
+      "word": "presume",
+      "meaning": "가정하다"
+    },
+    {
+      "day": 20,
+      "word": "resume",
+      "meaning": "다시 시작하다"
+    },
+    {
+      "day": 20,
+      "word": "consume",
+      "meaning": "소비하다"
+    },
+    {
+      "day": 20,
+      "word": "vain",
+      "meaning": "헛된"
+    },
+    {
+      "day": 20,
+      "word": "vein",
+      "meaning": "정맥"
+    },
+    {
+      "day": 20,
+      "word": "tolerable",
+      "meaning": "참을 수 있는"
+    },
+    {
+      "day": 20,
+      "word": "tolerant",
+      "meaning": "관대한"
+    },
+    {
+      "day": 20,
+      "word": "strip",
+      "meaning": "벗기다"
+    },
+    {
+      "day": 20,
+      "word": "stripe",
+      "meaning": "줄무늬"
+    },
+    {
+      "day": 20,
+      "word": "strap",
+      "meaning": "가죽 끈"
+    },
+    {
+      "day": 20,
+      "word": "suspicious",
+      "meaning": "의심스러운"
+    },
+    {
+      "day": 20,
+      "word": "superstitious",
+      "meaning": "미신의"
+    },
+    {
+      "day": 20,
+      "word": "reap",
+      "meaning": "수확하다"
+    },
+    {
+      "day": 20,
+      "word": "ripe",
+      "meaning": "익은"
+    },
+    {
+      "day": 20,
+      "word": "rite",
+      "meaning": "의식"
+    },
+    {
+      "day": 20,
+      "word": "neutral",
+      "meaning": "중립적인"
+    },
+    {
+      "day": 20,
+      "word": "natural",
+      "meaning": "자연스러운"
+    },
+    {
+      "day": 20,
+      "word": "label",
+      "meaning": "상표"
+    },
+    {
+      "day": 20,
+      "word": "level",
+      "meaning": "수준"
+    },
+    {
+      "day": 20,
+      "word": "disinterested",
+      "meaning": "공평한"
+    },
+    {
+      "day": 20,
+      "word": "uninterested",
+      "meaning": "무관심한"
+    },
+    {
+      "day": 20,
+      "word": "comprise",
+      "meaning": "포함하다"
+    },
+    {
+      "day": 20,
+      "word": "compromise",
+      "meaning": "타협하다"
+    },
+    {
+      "day": 20,
+      "word": "counter",
+      "meaning": "계산대"
+    },
+    {
+      "day": 20,
+      "word": "encounter",
+      "meaning": "만나다"
+    },
+    {
+      "day": 20,
+      "word": "construct",
+      "meaning": "건설하다"
+    },
+    {
+      "day": 20,
+      "word": "destruct",
+      "meaning": "파괴하다"
+    },
+    {
+      "day": 20,
+      "word": "care",
+      "meaning": "걱정"
+    },
+    {
+      "day": 20,
+      "word": "core",
+      "meaning": "핵심"
+    },
+    {
+      "day": 20,
+      "word": "amount",
+      "meaning": "양"
+    },
+    {
+      "day": 20,
+      "word": "account",
+      "meaning": "설명하다"
+    },
+    {
+      "day": 20,
+      "word": "count",
+      "meaning": "중요하다"
+    },
+    {
+      "day": 20,
+      "word": "avenue",
+      "meaning": "거리"
+    },
+    {
+      "day": 20,
+      "word": "revenue",
+      "meaning": "수입"
+    },
+    {
+      "day": 21,
+      "word": "adapt",
+      "meaning": "적응시키다"
+    },
+    {
+      "day": 21,
+      "word": "adept",
+      "meaning": "숙달된"
+    },
+    {
+      "day": 21,
+      "word": "adopt",
+      "meaning": "채택하다"
+    },
+    {
+      "day": 21,
+      "word": "adjust",
+      "meaning": "조절하다"
+    },
+    {
+      "day": 21,
+      "word": "announce",
+      "meaning": "알리다"
+    },
+    {
+      "day": 21,
+      "word": "pronounce",
+      "meaning": "발음하다"
+    },
+    {
+      "day": 21,
+      "word": "renounce",
+      "meaning": "포기하다"
+    },
+    {
+      "day": 21,
+      "word": "astrology",
+      "meaning": "점성술"
+    },
+    {
+      "day": 21,
+      "word": "astronomy",
+      "meaning": "천문학"
+    },
+    {
+      "day": 21,
+      "word": "beckon",
+      "meaning": "신호하다"
+    },
+    {
+      "day": 21,
+      "word": "reckon",
+      "meaning": "세다"
+    },
+    {
+      "day": 21,
+      "word": "collar",
+      "meaning": "깃"
+    },
+    {
+      "day": 21,
+      "word": "color",
+      "meaning": "색"
+    },
+    {
+      "day": 21,
+      "word": "contact",
+      "meaning": "접촉하다"
+    },
+    {
+      "day": 21,
+      "word": "connect",
+      "meaning": "연결하다"
+    },
+    {
+      "day": 21,
+      "word": "comprehensive",
+      "meaning": "포괄적인"
+    },
+    {
+      "day": 21,
+      "word": "comprehensible",
+      "meaning": "이해할 수 있는"
+    },
+    {
+      "day": 21,
+      "word": "concise",
+      "meaning": "간결한"
+    },
+    {
+      "day": 21,
+      "word": "precise",
+      "meaning": "정확한"
+    },
+    {
+      "day": 21,
+      "word": "conclude",
+      "meaning": "결론을 내리다"
+    },
+    {
+      "day": 21,
+      "word": "include",
+      "meaning": "포함시키다"
+    },
+    {
+      "day": 21,
+      "word": "exclude",
+      "meaning": "배제하다"
+    },
+    {
+      "day": 21,
+      "word": "devote",
+      "meaning": "헌신하다"
+    },
+    {
+      "day": 21,
+      "word": "devour",
+      "meaning": "게걸스럽게 먹다"
+    },
+    {
+      "day": 21,
+      "word": "disrespect",
+      "meaning": "무례"
+    },
+    {
+      "day": 21,
+      "word": "introspect",
+      "meaning": "자기 반성하다"
+    },
+    {
+      "day": 21,
+      "word": "embarrass",
+      "meaning": "당황하게 하다"
+    },
+    {
+      "day": 21,
+      "word": "embrace",
+      "meaning": "포옹하다"
+    },
+    {
+      "day": 21,
+      "word": "explicit",
+      "meaning": "명백한"
+    },
+    {
+      "day": 21,
+      "word": "implicit",
+      "meaning": "함축적인"
+    },
+    {
+      "day": 21,
+      "word": "flea",
+      "meaning": "벼룩"
+    },
+    {
+      "day": 21,
+      "word": "flee",
+      "meaning": "도망치다"
+    },
+    {
+      "day": 21,
+      "word": "solve",
+      "meaning": "해결하다"
+    },
+    {
+      "day": 21,
+      "word": "resolve",
+      "meaning": "결심하다"
+    },
+    {
+      "day": 21,
+      "word": "dissolve",
+      "meaning": "녹이다"
+    },
+    {
+      "day": 22,
+      "word": "vague",
+      "meaning": "모호한"
+    },
+    {
+      "day": 22,
+      "word": "vogue",
+      "meaning": "유행"
+    },
+    {
+      "day": 22,
+      "word": "tune",
+      "meaning": "멜로디"
+    },
+    {
+      "day": 22,
+      "word": "tone",
+      "meaning": "음"
+    },
+    {
+      "day": 22,
+      "word": "spill",
+      "meaning": "흘리다"
+    },
+    {
+      "day": 22,
+      "word": "speel",
+      "meaning": "오르다"
+    },
+    {
+      "day": 22,
+      "word": "relieve",
+      "meaning": "경감시키다"
+    },
+    {
+      "day": 22,
+      "word": "release",
+      "meaning": "방출하다"
+    },
+    {
+      "day": 22,
+      "word": "sigh",
+      "meaning": "한숨쉬다"
+    },
+    {
+      "day": 22,
+      "word": "sign",
+      "meaning": "서명하다"
+    },
+    {
+      "day": 22,
+      "word": "reliable",
+      "meaning": "믿을만한"
+    },
+    {
+      "day": 22,
+      "word": "reliant",
+      "meaning": "의존하는"
+    },
+    {
+      "day": 22,
+      "word": "stain",
+      "meaning": "얼룩"
+    },
+    {
+      "day": 22,
+      "word": "strain",
+      "meaning": "긴장"
+    },
+    {
+      "day": 22,
+      "word": "representative",
+      "meaning": "대표자"
+    },
+    {
+      "day": 22,
+      "word": "representation",
+      "meaning": "표현"
+    },
+    {
+      "day": 22,
+      "word": "scold",
+      "meaning": "꾸짖다"
+    },
+    {
+      "day": 22,
+      "word": "scorn",
+      "meaning": "경멸하다"
+    },
+    {
+      "day": 22,
+      "word": "rob",
+      "meaning": "강탈하다"
+    },
+    {
+      "day": 22,
+      "word": "rub",
+      "meaning": "문지르다"
+    },
+    {
+      "day": 22,
+      "word": "quit",
+      "meaning": "그만두다"
+    },
+    {
+      "day": 22,
+      "word": "quite",
+      "meaning": "꽤"
+    },
+    {
+      "day": 22,
+      "word": "preside",
+      "meaning": "주도하다"
+    },
+    {
+      "day": 22,
+      "word": "reside",
+      "meaning": "살다"
+    },
+    {
+      "day": 22,
+      "word": "odor",
+      "meaning": "냄새"
+    },
+    {
+      "day": 22,
+      "word": "order",
+      "meaning": "주문"
+    },
+    {
+      "day": 22,
+      "word": "perspective",
+      "meaning": "관점"
+    },
+    {
+      "day": 22,
+      "word": "prospective",
+      "meaning": "기대되는"
+    },
+    {
+      "day": 22,
+      "word": "lurk",
+      "meaning": "숨다"
+    },
+    {
+      "day": 22,
+      "word": "lure",
+      "meaning": "유혹하다"
+    },
+    {
+      "day": 22,
+      "word": "cherish",
+      "meaning": "소중히 여기다"
+    },
+    {
+      "day": 22,
+      "word": "perish",
+      "meaning": "죽다"
+    },
+    {
+      "day": 22,
+      "word": "polish",
+      "meaning": "광을 내다"
+    },
+    {
+      "day": 22,
+      "word": "clown",
+      "meaning": "광대"
+    },
+    {
+      "day": 22,
+      "word": "crown",
+      "meaning": "왕관"
+    },
+    {
+      "day": 23,
+      "word": "attach",
+      "meaning": "붙이다"
+    },
+    {
+      "day": 23,
+      "word": "detach",
+      "meaning": "떼어내다"
+    },
+    {
+      "day": 23,
+      "word": "approach",
+      "meaning": "접근하다"
+    },
+    {
+      "day": 23,
+      "word": "reproach",
+      "meaning": "비난하다"
+    },
+    {
+      "day": 23,
+      "word": "trial",
+      "meaning": "시도"
+    },
+    {
+      "day": 23,
+      "word": "trivial",
+      "meaning": "사소한"
+    },
+    {
+      "day": 23,
+      "word": "state",
+      "meaning": "상태"
+    },
+    {
+      "day": 23,
+      "word": "stale",
+      "meaning": "상한"
+    },
+    {
+      "day": 23,
+      "word": "relevant",
+      "meaning": "관련있는"
+    },
+    {
+      "day": 23,
+      "word": "prevalent",
+      "meaning": "만연해있는"
+    },
+    {
+      "day": 23,
+      "word": "optimism",
+      "meaning": "낙관주의"
+    },
+    {
+      "day": 23,
+      "word": "pessimism",
+      "meaning": "비관주의"
+    },
+    {
+      "day": 23,
+      "word": "moan",
+      "meaning": "신음소리"
+    },
+    {
+      "day": 23,
+      "word": "mourn",
+      "meaning": "슬퍼하다"
+    },
+    {
+      "day": 23,
+      "word": "leap",
+      "meaning": "도약하다"
+    },
+    {
+      "day": 23,
+      "word": "lip",
+      "meaning": "입술"
+    },
+    {
+      "day": 23,
+      "word": "impulse",
+      "meaning": "충동"
+    },
+    {
+      "day": 23,
+      "word": "pulse",
+      "meaning": "맥박"
+    },
+    {
+      "day": 23,
+      "word": "irrigate",
+      "meaning": "물을 대다"
+    },
+    {
+      "day": 23,
+      "word": "irritate",
+      "meaning": "화나게 하다"
+    },
+    {
+      "day": 23,
+      "word": "humble",
+      "meaning": "겸손한"
+    },
+    {
+      "day": 23,
+      "word": "humiliate",
+      "meaning": "창피를 주다"
+    },
+    {
+      "day": 23,
+      "word": "income",
+      "meaning": "수입"
+    },
+    {
+      "day": 23,
+      "word": "outcome",
+      "meaning": "결과"
+    },
+    {
+      "day": 23,
+      "word": "heap",
+      "meaning": "쌓아올리다"
+    },
+    {
+      "day": 23,
+      "word": "hip",
+      "meaning": "엉덩이"
+    },
+    {
+      "day": 23,
+      "word": "glass",
+      "meaning": "유리"
+    },
+    {
+      "day": 23,
+      "word": "grass",
+      "meaning": "풀"
+    },
+    {
+      "day": 23,
+      "word": "hire",
+      "meaning": "고용하다"
+    },
+    {
+      "day": 23,
+      "word": "heir",
+      "meaning": "상속인"
+    },
+    {
+      "day": 23,
+      "word": "gem",
+      "meaning": "보석"
+    },
+    {
+      "day": 23,
+      "word": "germ",
+      "meaning": "병원균"
+    },
+    {
+      "day": 23,
+      "word": "acquire",
+      "meaning": "얻다"
+    },
+    {
+      "day": 23,
+      "word": "inquire",
+      "meaning": "물어보다"
+    },
+    {
+      "day": 23,
+      "word": "require",
+      "meaning": "요청하다"
+    },
+    {
+      "day": 24,
+      "word": "award",
+      "meaning": "상"
+    },
+    {
+      "day": 24,
+      "word": "inward",
+      "meaning": "안쪽으로"
+    },
+    {
+      "day": 24,
+      "word": "outward",
+      "meaning": "바깥쪽으로"
+    },
+    {
+      "day": 24,
+      "word": "reward",
+      "meaning": "보상"
+    },
+    {
+      "day": 24,
+      "word": "shortcut",
+      "meaning": "지름길"
+    },
+    {
+      "day": 24,
+      "word": "shortcoming",
+      "meaning": "단점"
+    },
+    {
+      "day": 24,
+      "word": "amaze",
+      "meaning": "놀라게 하다"
+    },
+    {
+      "day": 24,
+      "word": "amuse",
+      "meaning": "즐겁게 하다"
+    },
+    {
+      "day": 24,
+      "word": "antipathy",
+      "meaning": "반감"
+    },
+    {
+      "day": 24,
+      "word": "apathy",
+      "meaning": "무관심"
+    },
+    {
+      "day": 24,
+      "word": "sympathy",
+      "meaning": "동정"
+    },
+    {
+      "day": 24,
+      "word": "empathy",
+      "meaning": "공감"
+    },
+    {
+      "day": 24,
+      "word": "break",
+      "meaning": "부수다"
+    },
+    {
+      "day": 24,
+      "word": "brake",
+      "meaning": "제동을 걸다"
+    },
+    {
+      "day": 24,
+      "word": "attraction",
+      "meaning": "명소"
+    },
+    {
+      "day": 24,
+      "word": "distraction",
+      "meaning": "주의산만한 것"
+    },
+    {
+      "day": 24,
+      "word": "banish",
+      "meaning": "추방하다"
+    },
+    {
+      "day": 24,
+      "word": "vanish",
+      "meaning": "사라지다"
+    },
+    {
+      "day": 24,
+      "word": "authority",
+      "meaning": "권위"
+    },
+    {
+      "day": 24,
+      "word": "authentic",
+      "meaning": "진짜의"
+    },
+    {
+      "day": 24,
+      "word": "text",
+      "meaning": "본문"
+    },
+    {
+      "day": 24,
+      "word": "texture",
+      "meaning": "직물"
+    },
+    {
+      "day": 24,
+      "word": "surface",
+      "meaning": "표면"
+    },
+    {
+      "day": 24,
+      "word": "suffice",
+      "meaning": "충분하다"
+    },
+    {
+      "day": 24,
+      "word": "sweet",
+      "meaning": "달콤한"
+    },
+    {
+      "day": 24,
+      "word": "sweat",
+      "meaning": "땀"
+    },
+    {
+      "day": 24,
+      "word": "region",
+      "meaning": "지역"
+    },
+    {
+      "day": 24,
+      "word": "religion",
+      "meaning": "종교"
+    },
+    {
+      "day": 24,
+      "word": "persecute",
+      "meaning": "학대하다"
+    },
+    {
+      "day": 24,
+      "word": "prosecute",
+      "meaning": "기소하다"
+    },
+    {
+      "day": 24,
+      "word": "recreate",
+      "meaning": "기분 전환을 하다"
+    },
+    {
+      "day": 24,
+      "word": "create",
+      "meaning": "만들다"
+    },
+    {
+      "day": 24,
+      "word": "roar",
+      "meaning": "으르렁거리다"
+    },
+    {
+      "day": 24,
+      "word": "soar",
+      "meaning": "솟아오르다"
+    },
+    {
+      "day": 24,
+      "word": "soak",
+      "meaning": "적시다"
+    },
+    {
+      "day": 25,
+      "word": "assign",
+      "meaning": "할당하다"
+    },
+    {
+      "day": 25,
+      "word": "align",
+      "meaning": "정렬하다"
+    },
+    {
+      "day": 25,
+      "word": "resign",
+      "meaning": "사임하다"
+    },
+    {
+      "day": 25,
+      "word": "design",
+      "meaning": "설계하다"
+    },
+    {
+      "day": 25,
+      "word": "beat",
+      "meaning": "치다"
+    },
+    {
+      "day": 25,
+      "word": "bite",
+      "meaning": "물다"
+    },
+    {
+      "day": 25,
+      "word": "confident",
+      "meaning": "자신있는"
+    },
+    {
+      "day": 25,
+      "word": "confidential",
+      "meaning": "은밀한"
+    },
+    {
+      "day": 25,
+      "word": "beside",
+      "meaning": "~옆에"
+    },
+    {
+      "day": 25,
+      "word": "besides",
+      "meaning": "~이외에도"
+    },
+    {
+      "day": 25,
+      "word": "activate",
+      "meaning": "활성화하다"
+    },
+    {
+      "day": 25,
+      "word": "cultivate",
+      "meaning": "경작하다"
+    },
+    {
+      "day": 25,
+      "word": "avenge",
+      "meaning": "복수하다"
+    },
+    {
+      "day": 25,
+      "word": "revenge",
+      "meaning": "복수하다"
+    },
+    {
+      "day": 25,
+      "word": "ally",
+      "meaning": "동맹하다"
+    },
+    {
+      "day": 25,
+      "word": "alley",
+      "meaning": "골목"
+    },
+    {
+      "day": 25,
+      "word": "blunt",
+      "meaning": "무딘"
+    },
+    {
+      "day": 25,
+      "word": "blurt",
+      "meaning": "불쑥 말하다"
+    },
+    {
+      "day": 25,
+      "word": "counsel",
+      "meaning": "상담"
+    },
+    {
+      "day": 25,
+      "word": "council",
+      "meaning": "의회"
+    },
+    {
+      "day": 25,
+      "word": "disease",
+      "meaning": "질병"
+    },
+    {
+      "day": 25,
+      "word": "decease",
+      "meaning": "사망"
+    },
+    {
+      "day": 25,
+      "word": "contemporary",
+      "meaning": "동시대의"
+    },
+    {
+      "day": 25,
+      "word": "temporary",
+      "meaning": "일시적인"
+    },
+    {
+      "day": 25,
+      "word": "collaborate",
+      "meaning": "협력하다"
+    },
+    {
+      "day": 25,
+      "word": "elaborate",
+      "meaning": "정교한"
+    },
+    {
+      "day": 25,
+      "word": "constantly",
+      "meaning": "끊임없이"
+    },
+    {
+      "day": 25,
+      "word": "consistently",
+      "meaning": "끊임없이"
+    },
+    {
+      "day": 25,
+      "word": "decay",
+      "meaning": "썩다"
+    },
+    {
+      "day": 25,
+      "word": "delay",
+      "meaning": "미루다"
+    },
+    {
+      "day": 25,
+      "word": "facility",
+      "meaning": "시설"
+    },
+    {
+      "day": 25,
+      "word": "faculty",
+      "meaning": "재능"
+    },
+    {
+      "day": 25,
+      "word": "content",
+      "meaning": "만족하는"
+    },
+    {
+      "day": 25,
+      "word": "intent",
+      "meaning": "몰두하는"
+    },
+    {
+      "day": 25,
+      "word": "extent",
+      "meaning": "정도"
+    },
+    {
+      "day": 26,
+      "word": "conscious",
+      "meaning": "의식하는"
+    },
+    {
+      "day": 26,
+      "word": "conscientious",
+      "meaning": "양심적인"
+    },
+    {
+      "day": 26,
+      "word": "die",
+      "meaning": "죽다"
+    },
+    {
+      "day": 26,
+      "word": "dye",
+      "meaning": "염색하다"
+    },
+    {
+      "day": 26,
+      "word": "competitive",
+      "meaning": "경쟁하는"
+    },
+    {
+      "day": 26,
+      "word": "repetitive",
+      "meaning": "반복적인"
+    },
+    {
+      "day": 26,
+      "word": "dread",
+      "meaning": "무서워하다"
+    },
+    {
+      "day": 26,
+      "word": "tread",
+      "meaning": "밟다"
+    },
+    {
+      "day": 26,
+      "word": "exhibit",
+      "meaning": "전시하다"
+    },
+    {
+      "day": 26,
+      "word": "prohibit",
+      "meaning": "금지하다"
+    },
+    {
+      "day": 26,
+      "word": "greed",
+      "meaning": "탐욕"
+    },
+    {
+      "day": 26,
+      "word": "greet",
+      "meaning": "인사하다"
+    },
+    {
+      "day": 26,
+      "word": "hardness",
+      "meaning": "단단함"
+    },
+    {
+      "day": 26,
+      "word": "hardship",
+      "meaning": "역경"
+    },
+    {
+      "day": 26,
+      "word": "lesson",
+      "meaning": "수업"
+    },
+    {
+      "day": 26,
+      "word": "lessen",
+      "meaning": "줄이다"
+    },
+    {
+      "day": 26,
+      "word": "pierce",
+      "meaning": "관통하다"
+    },
+    {
+      "day": 26,
+      "word": "fierce",
+      "meaning": "사나운"
+    },
+    {
+      "day": 26,
+      "word": "punish",
+      "meaning": "벌주다"
+    },
+    {
+      "day": 26,
+      "word": "publish",
+      "meaning": "출판하다"
+    },
+    {
+      "day": 26,
+      "word": "practical",
+      "meaning": "실용적인"
+    },
+    {
+      "day": 26,
+      "word": "practicable",
+      "meaning": "실행 가능한"
+    },
+    {
+      "day": 26,
+      "word": "role",
+      "meaning": "역할"
+    },
+    {
+      "day": 26,
+      "word": "rule",
+      "meaning": "규칙"
+    },
+    {
+      "day": 26,
+      "word": "revise",
+      "meaning": "수정하다"
+    },
+    {
+      "day": 26,
+      "word": "devise",
+      "meaning": "고안하다"
+    },
+    {
+      "day": 26,
+      "word": "stationary",
+      "meaning": "정지된"
+    },
+    {
+      "day": 26,
+      "word": "stationery",
+      "meaning": "문방구"
+    },
+    {
+      "day": 26,
+      "word": "terrible",
+      "meaning": "끔찍한"
+    },
+    {
+      "day": 26,
+      "word": "terrific",
+      "meaning": "멋진"
+    },
+    {
+      "day": 26,
+      "word": "strive",
+      "meaning": "노력하다"
+    },
+    {
+      "day": 26,
+      "word": "starve",
+      "meaning": "굶주리다"
+    },
+    {
+      "day": 26,
+      "word": "attribute",
+      "meaning": "~의 탓으로 돌리다"
+    },
+    {
+      "day": 26,
+      "word": "contribute",
+      "meaning": "기여하다"
+    },
+    {
+      "day": 26,
+      "word": "distribute",
+      "meaning": "분배하다"
+    },
+    {
+      "day": 27,
+      "word": "alter",
+      "meaning": "바꾸다"
+    },
+    {
+      "day": 27,
+      "word": "altar",
+      "meaning": "제단"
+    },
+    {
+      "day": 27,
+      "word": "tow",
+      "meaning": "견인하다"
+    },
+    {
+      "day": 27,
+      "word": "toe",
+      "meaning": "발가락"
+    },
+    {
+      "day": 27,
+      "word": "signal",
+      "meaning": "신호"
+    },
+    {
+      "day": 27,
+      "word": "signature",
+      "meaning": "서명"
+    },
+    {
+      "day": 27,
+      "word": "route",
+      "meaning": "길"
+    },
+    {
+      "day": 27,
+      "word": "routine",
+      "meaning": "일상의 일"
+    },
+    {
+      "day": 27,
+      "word": "prompt",
+      "meaning": "즉각적인"
+    },
+    {
+      "day": 27,
+      "word": "promote",
+      "meaning": "촉진하다"
+    },
+    {
+      "day": 27,
+      "word": "owl",
+      "meaning": "올빼미"
+    },
+    {
+      "day": 27,
+      "word": "howl",
+      "meaning": "울부짖다"
+    },
+    {
+      "day": 27,
+      "word": "previous",
+      "meaning": "이전의"
+    },
+    {
+      "day": 27,
+      "word": "precious",
+      "meaning": "귀중한"
+    },
+    {
+      "day": 27,
+      "word": "observance",
+      "meaning": "준수"
+    },
+    {
+      "day": 27,
+      "word": "observation",
+      "meaning": "관찰"
+    },
+    {
+      "day": 27,
+      "word": "decline",
+      "meaning": "감소하다"
+    },
+    {
+      "day": 27,
+      "word": "incline",
+      "meaning": "~하고 싶다"
+    },
+    {
+      "day": 27,
+      "word": "contempt",
+      "meaning": "경멸"
+    },
+    {
+      "day": 27,
+      "word": "contemplate",
+      "meaning": "숙고하다"
+    },
+    {
+      "day": 27,
+      "word": "corporation",
+      "meaning": "회사"
+    },
+    {
+      "day": 27,
+      "word": "cooperation",
+      "meaning": "협동"
+    },
+    {
+      "day": 27,
+      "word": "bury",
+      "meaning": "매장하다"
+    },
+    {
+      "day": 27,
+      "word": "vary",
+      "meaning": "다양하다"
+    },
+    {
+      "day": 27,
+      "word": "credible",
+      "meaning": "믿을 수 있는"
+    },
+    {
+      "day": 27,
+      "word": "credulous",
+      "meaning": "속기 쉬운"
+    },
+    {
+      "day": 27,
+      "word": "cease",
+      "meaning": "멈추다"
+    },
+    {
+      "day": 27,
+      "word": "seize",
+      "meaning": "포착하다"
+    },
+    {
+      "day": 27,
+      "word": "artificial",
+      "meaning": "인공의"
+    },
+    {
+      "day": 27,
+      "word": "artistic",
+      "meaning": "예술의"
+    },
+    {
+      "day": 27,
+      "word": "capital",
+      "meaning": "수도"
+    },
+    {
+      "day": 27,
+      "word": "capitol",
+      "meaning": "국회의사당"
+    },
+    {
+      "day": 27,
+      "word": "assent",
+      "meaning": "동의하다"
+    },
+    {
+      "day": 27,
+      "word": "consent",
+      "meaning": "동의하다"
+    },
+    {
+      "day": 27,
+      "word": "resent",
+      "meaning": "분개하다"
+    },
+    {
+      "day": 28,
+      "word": "alternate",
+      "meaning": "번갈아하다"
+    },
+    {
+      "day": 28,
+      "word": "alternative",
+      "meaning": "대안"
+    },
+    {
+      "day": 28,
+      "word": "thrift",
+      "meaning": "절약"
+    },
+    {
+      "day": 28,
+      "word": "thirst",
+      "meaning": "갈증"
+    },
+    {
+      "day": 28,
+      "word": "soul",
+      "meaning": "영혼"
+    },
+    {
+      "day": 28,
+      "word": "sole",
+      "meaning": "유일한"
+    },
+    {
+      "day": 28,
+      "word": "regretful",
+      "meaning": "후회하는"
+    },
+    {
+      "day": 28,
+      "word": "regrettable",
+      "meaning": "유감스러운"
+    },
+    {
+      "day": 28,
+      "word": "phrase",
+      "meaning": "구절"
+    },
+    {
+      "day": 28,
+      "word": "phase",
+      "meaning": "단계"
+    },
+    {
+      "day": 28,
+      "word": "late",
+      "meaning": "늦은"
+    },
+    {
+      "day": 28,
+      "word": "lately",
+      "meaning": "최근에"
+    },
+    {
+      "day": 28,
+      "word": "ingenious",
+      "meaning": "독창적인"
+    },
+    {
+      "day": 28,
+      "word": "ingenuous",
+      "meaning": "솔직한"
+    },
+    {
+      "day": 28,
+      "word": "fellow",
+      "meaning": "친구"
+    },
+    {
+      "day": 28,
+      "word": "follow",
+      "meaning": "따르다"
+    },
+    {
+      "day": 28,
+      "word": "deflect",
+      "meaning": "빗나가다"
+    },
+    {
+      "day": 28,
+      "word": "inflect",
+      "meaning": "구부리다"
+    },
+    {
+      "day": 28,
+      "word": "duel",
+      "meaning": "결투"
+    },
+    {
+      "day": 28,
+      "word": "dual",
+      "meaning": "둘의"
+    },
+    {
+      "day": 28,
+      "word": "context",
+      "meaning": "문맥"
+    },
+    {
+      "day": 28,
+      "word": "contest",
+      "meaning": "대회"
+    },
+    {
+      "day": 28,
+      "word": "carton",
+      "meaning": "상자"
+    },
+    {
+      "day": 28,
+      "word": "cartoon",
+      "meaning": "만화"
+    },
+    {
+      "day": 28,
+      "word": "bride",
+      "meaning": "신부"
+    },
+    {
+      "day": 28,
+      "word": "bribe",
+      "meaning": "뇌물"
+    },
+    {
+      "day": 28,
+      "word": "compound",
+      "meaning": "혼합하다"
+    },
+    {
+      "day": 28,
+      "word": "confound",
+      "meaning": "혼동하다"
+    },
+    {
+      "day": 28,
+      "word": "corrupt",
+      "meaning": "부패한"
+    },
+    {
+      "day": 28,
+      "word": "erupt",
+      "meaning": "폭발하다"
+    },
+    {
+      "day": 28,
+      "word": "coarse",
+      "meaning": "거친"
+    },
+    {
+      "day": 28,
+      "word": "course",
+      "meaning": "경로"
+    },
+    {
+      "day": 28,
+      "word": "conference",
+      "meaning": "회의"
+    },
+    {
+      "day": 28,
+      "word": "interference",
+      "meaning": "방해"
+    },
+    {
+      "day": 28,
+      "word": "reference",
+      "meaning": "참조"
+    },
+    {
+      "day": 29,
+      "word": "childlike",
+      "meaning": "어린애다운"
+    },
+    {
+      "day": 29,
+      "word": "childish",
+      "meaning": "유치한"
+    },
+    {
+      "day": 29,
+      "word": "allusion",
+      "meaning": "암시"
+    },
+    {
+      "day": 29,
+      "word": "illusion",
+      "meaning": "착각"
+    },
+    {
+      "day": 29,
+      "word": "absorb",
+      "meaning": "흡수하다"
+    },
+    {
+      "day": 29,
+      "word": "absurd",
+      "meaning": "불합리한"
+    },
+    {
+      "day": 29,
+      "word": "anticipate",
+      "meaning": "기대하다"
+    },
+    {
+      "day": 29,
+      "word": "participate",
+      "meaning": "참여하다"
+    },
+    {
+      "day": 29,
+      "word": "term",
+      "meaning": "기간"
+    },
+    {
+      "day": 29,
+      "word": "terminal",
+      "meaning": "터미널"
+    },
+    {
+      "day": 29,
+      "word": "sore",
+      "meaning": "아픈"
+    },
+    {
+      "day": 29,
+      "word": "sour",
+      "meaning": "신"
+    },
+    {
+      "day": 29,
+      "word": "recognition",
+      "meaning": "인식"
+    },
+    {
+      "day": 29,
+      "word": "cognition",
+      "meaning": "인식"
+    },
+    {
+      "day": 29,
+      "word": "principle",
+      "meaning": "원리"
+    },
+    {
+      "day": 29,
+      "word": "principal",
+      "meaning": "주요한"
+    },
+    {
+      "day": 29,
+      "word": "leak",
+      "meaning": "새다"
+    },
+    {
+      "day": 29,
+      "word": "lick",
+      "meaning": "핥다"
+    },
+    {
+      "day": 29,
+      "word": "human",
+      "meaning": "인간"
+    },
+    {
+      "day": 29,
+      "word": "humane",
+      "meaning": "자비로운"
+    },
+    {
+      "day": 29,
+      "word": "desirable",
+      "meaning": "바람직한"
+    },
+    {
+      "day": 29,
+      "word": "desirous",
+      "meaning": "바라는"
+    },
+    {
+      "day": 29,
+      "word": "consult",
+      "meaning": "상담하다"
+    },
+    {
+      "day": 29,
+      "word": "result",
+      "meaning": "결과"
+    },
+    {
+      "day": 29,
+      "word": "collective",
+      "meaning": "집단의"
+    },
+    {
+      "day": 29,
+      "word": "selective",
+      "meaning": "선택적인"
+    },
+    {
+      "day": 29,
+      "word": "convey",
+      "meaning": "전달하다"
+    },
+    {
+      "day": 29,
+      "word": "survey",
+      "meaning": "조사하다"
+    },
+    {
+      "day": 29,
+      "word": "aisle",
+      "meaning": "통로"
+    },
+    {
+      "day": 29,
+      "word": "isle",
+      "meaning": "섬"
+    },
+    {
+      "day": 29,
+      "word": "comparable",
+      "meaning": "비교할만한"
+    },
+    {
+      "day": 29,
+      "word": "comparative",
+      "meaning": "비교의"
+    },
+    {
+      "day": 29,
+      "word": "clash",
+      "meaning": "충돌하다"
+    },
+    {
+      "day": 29,
+      "word": "crash",
+      "meaning": "충돌하다"
+    },
+    {
+      "day": 29,
+      "word": "crush",
+      "meaning": "눌러 부수다"
+    },
+    {
+      "day": 30,
+      "word": "conduct",
+      "meaning": "지휘하다"
+    },
+    {
+      "day": 30,
+      "word": "deduct",
+      "meaning": "빼다"
+    },
+    {
+      "day": 30,
+      "word": "competence",
+      "meaning": "능력"
+    },
+    {
+      "day": 30,
+      "word": "competition",
+      "meaning": "경쟁"
+    },
+    {
+      "day": 30,
+      "word": "divergent",
+      "meaning": "갈라지는"
+    },
+    {
+      "day": 30,
+      "word": "convergent",
+      "meaning": "집중적인"
+    },
+    {
+      "day": 30,
+      "word": "export",
+      "meaning": "수출하다"
+    },
+    {
+      "day": 30,
+      "word": "expert",
+      "meaning": "전문가"
+    },
+    {
+      "day": 30,
+      "word": "superior",
+      "meaning": "우월한"
+    },
+    {
+      "day": 30,
+      "word": "inferior",
+      "meaning": "열등한"
+    },
+    {
+      "day": 30,
+      "word": "social",
+      "meaning": "사회적인"
+    },
+    {
+      "day": 30,
+      "word": "sociable",
+      "meaning": "사교적인"
+    },
+    {
+      "day": 30,
+      "word": "poll",
+      "meaning": "투표"
+    },
+    {
+      "day": 30,
+      "word": "roll",
+      "meaning": "구르다"
+    },
+    {
+      "day": 30,
+      "word": "intimidate",
+      "meaning": "위협하다"
+    },
+    {
+      "day": 30,
+      "word": "intermediate",
+      "meaning": "중간의"
+    },
+    {
+      "day": 30,
+      "word": "handy",
+      "meaning": "다루기 쉬운"
+    },
+    {
+      "day": 30,
+      "word": "handful",
+      "meaning": "한 움큼"
+    },
+    {
+      "day": 30,
+      "word": "genuine",
+      "meaning": "진짜의"
+    },
+    {
+      "day": 30,
+      "word": "genius",
+      "meaning": "천재"
+    },
+    {
+      "day": 30,
+      "word": "discrete",
+      "meaning": "분리된"
+    },
+    {
+      "day": 30,
+      "word": "discreet",
+      "meaning": "분별있는"
+    },
+    {
+      "day": 30,
+      "word": "compulsive",
+      "meaning": "강제적인"
+    },
+    {
+      "day": 30,
+      "word": "compulsory",
+      "meaning": "강제적인"
+    },
+    {
+      "day": 30,
+      "word": "commute",
+      "meaning": "통근하다"
+    },
+    {
+      "day": 30,
+      "word": "mute",
+      "meaning": "말이 없는"
+    },
+    {
+      "day": 30,
+      "word": "confess",
+      "meaning": "자백하다"
+    },
+    {
+      "day": 30,
+      "word": "profess",
+      "meaning": "단언하다"
+    },
+    {
+      "day": 30,
+      "word": "career",
+      "meaning": "경력"
+    },
+    {
+      "day": 30,
+      "word": "carrier",
+      "meaning": "운수회사"
+    },
+    {
+      "day": 30,
+      "word": "almost",
+      "meaning": "거의"
+    },
+    {
+      "day": 30,
+      "word": "most",
+      "meaning": "대부분(의)"
+    },
+    {
+      "day": 30,
+      "word": "explode",
+      "meaning": "폭발하다"
+    },
+    {
+      "day": 30,
+      "word": "explore",
+      "meaning": "탐험하다"
+    },
+    {
+      "day": 30,
+      "word": "exploit",
+      "meaning": "이용하다"
+    },
+    {
+      "day": 31,
+      "word": "appreciate",
+      "meaning": "감사하다"
+    },
+    {
+      "day": 31,
+      "word": "depreciate",
+      "meaning": "가치가 떨어지다"
+    },
+    {
+      "day": 31,
+      "word": "accompany",
+      "meaning": "동행하다"
+    },
+    {
+      "day": 31,
+      "word": "company",
+      "meaning": "회사"
+    },
+    {
+      "day": 31,
+      "word": "compete",
+      "meaning": "경쟁하다"
+    },
+    {
+      "day": 31,
+      "word": "complete",
+      "meaning": "완성하다"
+    },
+    {
+      "day": 31,
+      "word": "convention",
+      "meaning": "관습"
+    },
+    {
+      "day": 31,
+      "word": "invention",
+      "meaning": "발명"
+    },
+    {
+      "day": 31,
+      "word": "simulate",
+      "meaning": "모의 실험하다"
+    },
+    {
+      "day": 31,
+      "word": "stimulate",
+      "meaning": "자극하다"
+    },
+    {
+      "day": 31,
+      "word": "refrain",
+      "meaning": "삼가다"
+    },
+    {
+      "day": 31,
+      "word": "reframe",
+      "meaning": "다시 구성하다"
+    },
+    {
+      "day": 31,
+      "word": "personal",
+      "meaning": "개인적인"
+    },
+    {
+      "day": 31,
+      "word": "personnel",
+      "meaning": "직원"
+    },
+    {
+      "day": 31,
+      "word": "peel",
+      "meaning": "껍질을 벗기다"
+    },
+    {
+      "day": 31,
+      "word": "pill",
+      "meaning": "알약"
+    },
+    {
+      "day": 31,
+      "word": "inventive",
+      "meaning": "발명의"
+    },
+    {
+      "day": 31,
+      "word": "incentive",
+      "meaning": "자극"
+    },
+    {
+      "day": 31,
+      "word": "flourish",
+      "meaning": "번성하다"
+    },
+    {
+      "day": 31,
+      "word": "furnish",
+      "meaning": "공급하다"
+    },
+    {
+      "day": 31,
+      "word": "extensive",
+      "meaning": "광대한"
+    },
+    {
+      "day": 31,
+      "word": "intensive",
+      "meaning": "집중적인"
+    },
+    {
+      "day": 31,
+      "word": "creature",
+      "meaning": "생물"
+    },
+    {
+      "day": 31,
+      "word": "creation",
+      "meaning": "창조"
+    },
+    {
+      "day": 31,
+      "word": "considerable",
+      "meaning": "상당한"
+    },
+    {
+      "day": 31,
+      "word": "considerate",
+      "meaning": "사려깊은"
+    },
+    {
+      "day": 31,
+      "word": "apparent",
+      "meaning": "분명한"
+    },
+    {
+      "day": 31,
+      "word": "transparent",
+      "meaning": "투명한"
+    },
+    {
+      "day": 31,
+      "word": "assemble",
+      "meaning": "모으다"
+    },
+    {
+      "day": 31,
+      "word": "resemble",
+      "meaning": "닮다"
+    },
+    {
+      "day": 31,
+      "word": "apart",
+      "meaning": "떨어져서"
+    },
+    {
+      "day": 31,
+      "word": "depart",
+      "meaning": "출발하다"
+    },
+    {
+      "day": 31,
+      "word": "flesh",
+      "meaning": "살"
+    },
+    {
+      "day": 31,
+      "word": "fresh",
+      "meaning": "신선한"
+    },
+    {
+      "day": 31,
+      "word": "flash",
+      "meaning": "섬광"
+    },
+    {
+      "day": 32,
+      "word": "available",
+      "meaning": "이용가능한"
+    },
+    {
+      "day": 32,
+      "word": "prevail",
+      "meaning": "널리 퍼지다"
+    },
+    {
+      "day": 32,
+      "word": "addiction",
+      "meaning": "중독"
+    },
+    {
+      "day": 32,
+      "word": "addition",
+      "meaning": "추가"
+    },
+    {
+      "day": 32,
+      "word": "self",
+      "meaning": "자아"
+    },
+    {
+      "day": 32,
+      "word": "shelf",
+      "meaning": "선반"
+    },
+    {
+      "day": 32,
+      "word": "reign",
+      "meaning": "통치"
+    },
+    {
+      "day": 32,
+      "word": "rein",
+      "meaning": "고삐"
+    },
+    {
+      "day": 32,
+      "word": "persevere",
+      "meaning": "참다"
+    },
+    {
+      "day": 32,
+      "word": "severe",
+      "meaning": "심한"
+    },
+    {
+      "day": 32,
+      "word": "protest",
+      "meaning": "항의하다"
+    },
+    {
+      "day": 32,
+      "word": "protect",
+      "meaning": "보호하다"
+    },
+    {
+      "day": 32,
+      "word": "intact",
+      "meaning": "온전한"
+    },
+    {
+      "day": 32,
+      "word": "tact",
+      "meaning": "요령"
+    },
+    {
+      "day": 32,
+      "word": "feather",
+      "meaning": "깃털"
+    },
+    {
+      "day": 32,
+      "word": "feature",
+      "meaning": "특징"
+    },
+    {
+      "day": 32,
+      "word": "execute",
+      "meaning": "처형하다"
+    },
+    {
+      "day": 32,
+      "word": "excavate",
+      "meaning": "발굴하다"
+    },
+    {
+      "day": 32,
+      "word": "dissent",
+      "meaning": "반대하다"
+    },
+    {
+      "day": 32,
+      "word": "dissect",
+      "meaning": "해부하다"
+    },
+    {
+      "day": 32,
+      "word": "contradict",
+      "meaning": "반박하다"
+    },
+    {
+      "day": 32,
+      "word": "predict",
+      "meaning": "예측하다"
+    },
+    {
+      "day": 32,
+      "word": "captivity",
+      "meaning": "감금"
+    },
+    {
+      "day": 32,
+      "word": "capacity",
+      "meaning": "능력"
+    },
+    {
+      "day": 32,
+      "word": "constant",
+      "meaning": "지속적인"
+    },
+    {
+      "day": 32,
+      "word": "instant",
+      "meaning": "즉각적인"
+    },
+    {
+      "day": 32,
+      "word": "accumulate",
+      "meaning": "축적하다"
+    },
+    {
+      "day": 32,
+      "word": "accommodate",
+      "meaning": "수용하다"
+    },
+    {
+      "day": 32,
+      "word": "pair",
+      "meaning": "쌍"
+    },
+    {
+      "day": 32,
+      "word": "pear",
+      "meaning": "배"
+    },
+    {
+      "day": 32,
+      "word": "intrude",
+      "meaning": "침입하다"
+    },
+    {
+      "day": 32,
+      "word": "extrude",
+      "meaning": "쫓아내다"
+    },
+    {
+      "day": 32,
+      "word": "conflict",
+      "meaning": "갈등"
+    },
+    {
+      "day": 32,
+      "word": "inflict",
+      "meaning": "가하다"
+    },
+    {
+      "day": 32,
+      "word": "reflect",
+      "meaning": "반사하다"
+    }
+  ]
+}
